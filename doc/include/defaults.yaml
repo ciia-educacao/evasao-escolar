@@ -1,0 +1,25 @@
+from: markdown
+to: pdf
+output-file: document.pdf
+template: template.latex
+listings: true
+filters:
+  - pandoc-include
+bibliography: referencias.bib
+citeproc: true
+metadata:
+  numbersections: true
+  lang: "pt-BR"
+  toc: true
+  toc-own-page: true
+  titlepage: true
+  titlepage-text-color: "004a86"
+  titlepage-rule-color: "004a86"
+  titlepage-rule-height: 2
+  titlepage-logo: "include/logo_ciia.pdf"
+  logo-width: 50mm
+resource-path:
+  - .
+  - ./include
+  - ../include
+  - ../../include
