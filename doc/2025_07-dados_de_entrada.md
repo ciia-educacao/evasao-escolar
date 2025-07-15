@@ -76,6 +76,6 @@ Para o caso de "evasão", utiliza-se a fórmula de Bayes para calcular a probabi
 **A FAZER**: ver estatísticas e calcular a distribuição para o caso de "evasão".
 
 
-
+# Referências
 
 
