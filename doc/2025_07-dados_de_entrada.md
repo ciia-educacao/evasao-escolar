@@ -32,13 +32,13 @@ O SAP adota práticas baseadas em evidências internacionais, respeitando as esp
 **A FAZER**: revisão dos trabalhos indicados abaixo
 
 
-[2025_07-pereira2025machine.md](doc/2025_07-pereira2025machine.md)
+[2025_07-pereira2025machine.md](2025_07-pereira2025machine.md)
 
-[2025_07-psyridou2024machine.md](doc/2025_07-psyridou2024machine.md)
+[2025_07-psyridou2024machine.md](2025_07-psyridou2024machine.md)
 
-[2025_07-vaarma2024predicting.md](doc/2025_07-vaarma2024predicting.md)
+[2025_07-vaarma2024predicting.md](2025_07-vaarma2024predicting.md)
 
-[2025_07-pereira2024early.md](doc/2025_07-pereira2024early.md)
+[2025_07-pereira2024early.md](2025_07-pereira2024early.md)
 
 
 
