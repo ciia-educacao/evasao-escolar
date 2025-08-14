@@ -8,6 +8,9 @@
 ## 2. Artigo em SciELO – Análise de políticas públicas
 - **AN EARLY WARNING SYSTEM FOR SCHOOL DROPOUT IN THE STATE OF ESPÍRITO SANTO: A MACHINE LEARNING APPROACH WITH VARIABLE SELECTION METHODS**. *Periódico Pônei* (SciELO). Estudo acadêmico analisando políticas relacionadas à evasão escolar no Brasil. Disponível em: https://www.scielo.br/j/pope/a/RVTL5qnPmrmDFtYGZb3vQMD/
 
+https://www.scielo.br/j/pope/a/RVTL5qnPmrmDFtYGZb3vQMD/abstract/?lang=en
+
+
 ---
 
 ## 3. Artigo no Research, Society and Development Journal
