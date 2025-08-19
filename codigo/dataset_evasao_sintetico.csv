@@ -1,0 +1,1001 @@
+id_aluno,evasao,sexo,idade,etapa_ensino,renda_familiar,nivel_socioeconomico,frequencia_escolar,notas_medias,repetente,trabalha,trabalho_domestico_excessivo,problemas_de_saude,violencia_domestica,gravidez_na_adolescencia,apoio_familiar,comportamento_em_sala,aceitacao_pelos_pares,necessita_assistencia_social,expectativa_retorno,fator_desencadeador_presente,distancia_da_escola_km,violencia_na_comunidade,engajamento_com_a_escola,infraestrutura_escolar,disponibilidade_material_didatico,flexibilidade_pedagogica,qualidade_pedagogica_percebida,pontuacao_risco,evasao_confirmada
+1,False,Feminino,17,5º ano,656.9,N7,67.6,7.5,True,False,False,True,False,False,Alto,Ruim,Baixa,False,Média,False,1.3,False,Moderado,Boa,Parcial,Alta,Boa,0.4005297233666863,True
+2,False,Feminino,18,9º ano,970.98,N3,98.0,7.1,True,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.9,False,Baixo,Boa,Completa,Baixa,Regular,0.2839905826957034,False
+3,True,Feminino,14,6º ano,828.49,N4,95.0,7.2,False,True,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,3.1,False,Alto,Boa,Completa,Baixa,Regular,0.29281930547380813,False
+4,True,Feminino,10,2ª série EM,1394.62,N3,86.9,7.4,False,False,True,False,False,False,Alto,Regular,Média,False,Alta,False,0.1,False,Alto,Boa,Completa,Média,Regular,0.17260153031194814,False
+5,False,Feminino,10,8º ano,1300.38,N2,78.2,5.9,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,True,3.1,False,Alto,Regular,Completa,Baixa,Regular,0.27722189523248963,False
+6,True,Feminino,11,3ª série EM,512.39,N4,58.3,6.9,False,True,False,True,False,False,Alto,Bom,Média,False,Alta,False,0.9,False,Alto,Ruim,Parcial,Baixa,Boa,0.46806945261918786,True
+7,False,Feminino,10,1ª série EM,349.16,N7,78.1,7.0,False,True,False,False,False,False,Médio,Bom,Baixa,False,Média,False,2.1,False,Alto,Regular,Completa,Média,Boa,0.37625073572689827,True
+8,True,Feminino,14,3ª série EM,499.86,N2,64.0,5.7,False,False,False,True,False,False,Baixo,Ruim,Alta,True,Baixa,False,2.3,False,Moderado,Ruim,Parcial,Média,Boa,0.3487345497351383,True
+9,False,Masculino,17,6º ano,561.47,N5,53.8,5.8,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,2.6,False,Moderado,Boa,Completa,Média,Ruim,0.3893466745144203,True
+10,False,Masculino,14,9º ano,336.03,N1,90.5,6.9,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.0,False,Alto,Regular,Insuficiente,Média,Regular,0.17878163625662152,False
+11,False,Masculino,18,1ª série EM,740.51,N4,53.4,5.9,False,False,False,True,False,False,Baixo,Bom,Alta,False,Alta,False,1.7,False,Moderado,Boa,Completa,Alta,Boa,0.3866980576809888,False
+12,False,Masculino,17,3ª série EM,1165.44,N6,87.1,6.2,False,False,False,False,False,False,Médio,Ruim,Alta,False,Média,False,1.5,False,Moderado,Ruim,Parcial,Baixa,Regular,0.22469099470276635,False
+13,True,Feminino,20,5º ano,477.61,N6,74.3,4.8,True,False,False,False,False,False,Baixo,Ruim,Alta,False,Média,False,2.0,True,Moderado,Regular,Completa,Alta,Ruim,0.4901412595644497,False
+14,False,Masculino,11,1ª série EM,1677.88,N6,51.6,7.4,True,False,False,False,False,False,Médio,Regular,Baixa,False,Média,False,1.8,False,Alto,Boa,Completa,Baixa,Regular,0.4755738669805768,False
+15,True,Masculino,21,8º ano,458.87,N1,64.8,7.3,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.1,False,Moderado,Boa,Completa,Alta,Ruim,0.2745732783990583,False
+16,True,Feminino,16,9º ano,1316.54,N4,94.0,4.8,False,False,False,False,False,False,Baixo,Regular,Média,True,Alta,False,0.9,False,Alto,Regular,Completa,Baixa,Ruim,0.25603296056503827,True
+17,True,Feminino,14,1ª série EM,867.23,N2,53.3,5.6,True,False,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,2.3,False,Alto,Regular,Completa,Alta,Ruim,0.5475279576221307,False
+18,False,Feminino,22,7º ano,803.7,N6,79.5,6.9,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Média,False,3.3,False,Alto,Boa,Completa,Baixa,Ruim,0.22733961153619772,False
+19,False,Feminino,10,3ª série EM,782.83,N4,79.9,4.8,True,False,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,3.8,False,Alto,Regular,Completa,Baixa,Ruim,0.4654208357857564,False
+20,True,Feminino,14,8º ano,487.84,N7,71.6,8.9,False,False,True,False,False,False,Alto,Bom,Alta,True,Alta,False,0.4,False,Moderado,Boa,Completa,Alta,Ruim,0.17392583872866393,False
+21,True,Feminino,17,1ª série EM,479.63,N2,91.9,6.4,False,True,False,True,False,False,Baixo,Bom,Média,False,Média,False,1.0,False,Baixo,Boa,Completa,Média,Ruim,0.34181871689228954,False
+22,True,Masculino,17,3ª série EM,1538.92,N3,89.0,6.9,False,False,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,2.2,False,Moderado,Boa,Completa,Média,Ruim,0.18540317834020012,False
+23,True,Feminino,11,3ª série EM,392.65,N7,94.6,6.1,True,True,False,True,False,False,Alto,Regular,Alta,False,Baixa,False,1.9,False,Baixo,Regular,Parcial,Média,Regular,0.4902884049440848,False
+24,False,Feminino,12,7º ano,1126.06,N1,97.3,8.0,True,False,False,False,False,False,Médio,Bom,Baixa,True,Alta,False,1.3,False,Alto,Ruim,Parcial,Média,Boa,0.24735138316656863,True
+25,True,Masculino,14,5º ano,1655.77,N2,63.9,7.0,False,True,False,False,False,False,Alto,Regular,Média,True,Alta,False,3.1,False,Alto,Boa,Completa,Alta,Boa,0.43893466745144205,True
+26,True,Feminino,11,1ª série EM,518.03,N5,95.3,7.2,False,False,True,True,False,True,Alto,Bom,Alta,False,Alta,False,1.8,True,Alto,Boa,Insuficiente,Baixa,Boa,0.14434961742201294,False
+27,False,Masculino,11,2ª série EM,722.56,N1,51.8,5.3,True,True,True,False,False,False,Médio,Bom,Baixa,True,Média,True,2.9,True,Moderado,Regular,Completa,Média,Boa,0.714537963507946,False
+28,False,Masculino,12,9º ano,1032.8,N2,61.5,5.2,True,False,True,True,False,False,Médio,Bom,Alta,False,Alta,False,0.9,False,Alto,Regular,Completa,Baixa,Boa,0.5289876397881106,False
+29,False,Feminino,21,6º ano,727.87,N7,66.9,4.8,True,False,False,False,False,False,Alto,Ruim,Média,False,Média,False,4.1,True,Alto,Regular,Completa,Média,Ruim,0.5228075338434373,True
+30,False,Feminino,12,2ª série EM,1308.37,N5,76.8,6.7,False,False,True,False,True,False,Alto,Ruim,Alta,False,Baixa,False,0.9,False,Moderado,Boa,Completa,Média,Ruim,0.542377869334903,False
+31,False,Feminino,11,5º ano,506.8,N5,89.5,7.0,False,False,True,False,False,False,Médio,Bom,Baixa,True,Alta,False,1.8,True,Alto,Regular,Completa,Alta,Regular,0.17878163625662155,False
+32,False,Feminino,17,6º ano,1205.33,N6,73.9,5.1,True,False,False,False,False,False,Alto,Regular,Alta,True,Média,False,3.5,False,Alto,Boa,Completa,Alta,Boa,0.4786639199529135,False
+33,True,Feminino,13,5º ano,854.12,N4,84.8,6.4,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,2.1,False,Baixo,Boa,Parcial,Baixa,Regular,0.22601530311948206,True
+34,False,Masculino,16,8º ano,784.26,N5,54.0,4.7,False,False,False,False,True,False,Médio,Bom,Alta,True,Alta,True,1.3,False,Alto,Boa,Completa,Média,Ruim,0.731312536786345,True
+35,False,Feminino,13,1ª série EM,954.12,N5,95.8,6.9,False,False,False,False,False,False,Médio,Bom,Baixa,True,Média,False,3.2,False,Alto,Boa,Insuficiente,Baixa,Ruim,0.1553855208946439,False
+36,False,Feminino,22,1ª série EM,730.42,N6,96.1,9.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,3.9,True,Moderado,Boa,Completa,Média,Regular,0.04370217775161861,False
+37,True,Masculino,18,9º ano,258.7,N6,97.4,6.2,False,False,True,False,False,False,Alto,Ruim,Média,False,Média,False,2.0,False,Moderado,Boa,Parcial,Alta,Regular,0.17922307239552676,False
+38,True,Feminino,11,5º ano,960.59,N6,58.5,6.4,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.4,False,Moderado,Regular,Completa,Alta,Boa,0.48925838728663923,False
+39,True,Masculino,20,6º ano,651.32,N1,62.5,6.6,False,True,False,False,False,False,Alto,Bom,Baixa,False,Média,False,3.6,True,Baixo,Boa,Parcial,Baixa,Regular,0.4627722189523249,False
+40,False,Masculino,17,5º ano,636.27,N1,72.9,4.2,False,False,False,False,False,True,Alto,Bom,Média,False,Alta,False,2.8,False,Alto,Ruim,Parcial,Média,Ruim,0.3756621542083578,False
+41,True,Masculino,18,9º ano,761.91,N2,93.9,7.3,False,True,True,False,False,False,Alto,Regular,Alta,False,Baixa,False,1.6,True,Alto,Boa,Parcial,Média,Boa,0.2932607416127133,False
+42,True,Feminino,19,7º ano,396.2,N6,70.8,4.9,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,1.4,False,Alto,Boa,Parcial,Alta,Boa,0.3540317834020012,True
+43,True,Outro,19,3ª série EM,1267.52,N1,76.2,4.4,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,3.8,False,Alto,Ruim,Completa,Alta,Boa,0.3522660388463802,True
+44,True,Feminino,12,6º ano,956.74,N5,77.6,6.6,False,True,True,False,False,False,Médio,Bom,Média,True,Alta,False,1.1,True,Moderado,Regular,Completa,Média,Ruim,0.3961153619776339,True
+45,True,Feminino,22,8º ano,555.57,N6,57.3,9.0,True,True,False,False,False,False,Médio,Bom,Média,False,Média,False,2.6,True,Moderado,Boa,Completa,Alta,Boa,0.5269276044732195,True
+46,False,Feminino,16,6º ano,964.07,N4,70.8,4.4,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,1.6,True,Moderado,Regular,Completa,Média,Ruim,0.3761035903472631,False
+47,False,Masculino,20,6º ano,545.0,N4,51.3,6.5,True,False,False,False,False,False,Alto,Regular,Alta,False,Média,False,2.6,False,Alto,Ruim,Parcial,Média,Regular,0.5166274278987639,False
+48,True,Feminino,18,3ª série EM,972.31,N3,66.2,6.4,False,True,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,0.6,False,Moderado,Boa,Parcial,Média,Boa,0.45526780459093585,False
+49,True,Masculino,12,3ª série EM,450.59,N6,97.8,7.9,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Baixa,False,1.0,False,Alto,Regular,Completa,Alta,Ruim,0.1024131842260153,False
+50,False,Feminino,19,5º ano,547.12,N5,98.7,5.8,False,False,False,False,False,False,Alto,Ruim,Média,False,Média,False,1.9,False,Alto,Boa,Completa,Alta,Boa,0.1911418481459682,False
+51,True,Outro,11,2ª série EM,662.46,N3,77.8,5.6,False,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,1.6,True,Alto,Boa,Insuficiente,Alta,Boa,0.29223072395526783,True
+52,True,Feminino,13,6º ano,577.28,N1,72.1,7.5,True,False,False,True,False,False,Alto,Bom,Alta,False,Alta,False,3.2,False,Alto,Regular,Completa,Média,Regular,0.38066509711595065,False
+53,False,Feminino,22,3ª série EM,1005.32,N3,52.3,4.0,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Baixa,False,1.8,False,Moderado,Boa,Completa,Alta,Boa,0.47542672160094174,True
+54,False,Masculino,16,2ª série EM,991.34,N4,95.5,7.4,False,False,False,False,False,False,Baixo,Regular,Média,False,Alta,False,3.3,False,Alto,Boa,Parcial,Alta,Boa,0.13463802236609768,False
+55,False,Masculino,10,8º ano,1182.78,N6,77.2,8.8,True,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,0.2,False,Baixo,Boa,Insuficiente,Média,Ruim,0.30076515597410236,False
+56,False,Masculino,20,1ª série EM,629.56,N3,55.3,7.9,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,2.1,False,Alto,Regular,Parcial,Alta,Boa,0.2900235432607416,False
+57,False,Feminino,12,6º ano,457.38,N1,58.3,7.9,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Alta,False,3.2,True,Baixo,Boa,Parcial,Média,Boa,0.27678045909358445,True
+58,False,Masculino,22,7º ano,790.36,N3,74.2,5.0,False,False,False,False,False,False,Médio,Bom,Baixa,True,Média,False,1.3,False,Baixo,Boa,Insuficiente,Média,Boa,0.3346085932901707,False
+59,False,Masculino,17,8º ano,350.32,N5,98.3,6.7,True,True,False,False,False,False,Médio,Bom,Alta,True,Alta,False,2.4,False,Moderado,Ruim,Parcial,Média,Boa,0.4474690994702767,True
+60,False,Feminino,12,3ª série EM,931.8,N6,80.2,7.8,True,False,False,False,False,False,Médio,Regular,Média,False,Média,False,0.7,False,Moderado,Boa,Completa,Baixa,Boa,0.3316656856974691,False
+61,False,Feminino,13,6º ano,1545.86,N5,85.1,7.6,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,0.7,True,Moderado,Regular,Completa,Média,Regular,0.17171865803413777,False
+62,False,Masculino,13,6º ano,1415.14,N6,86.7,5.7,True,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,3.2,False,Baixo,Boa,Completa,Alta,Regular,0.39567392583872874,True
+63,False,Feminino,18,5º ano,560.87,N7,91.9,7.7,False,False,True,True,True,False,Médio,Regular,Média,True,Alta,False,4.0,False,Alto,Boa,Completa,Média,Boa,0.43157739846968807,False
+64,True,Feminino,12,2ª série EM,375.42,N1,50.8,4.4,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,2.1,False,Moderado,Boa,Completa,Baixa,Ruim,0.4643908181283108,False
+65,False,Feminino,15,5º ano,551.75,N7,90.0,5.9,True,True,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.7,False,Moderado,Boa,Completa,Média,Boa,0.5194231901118305,True
+66,True,Masculino,17,9º ano,366.38,N3,90.1,8.9,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.8,False,Alto,Boa,Completa,Baixa,Boa,0.09226015303119484,False
+67,True,Feminino,18,8º ano,684.93,N5,75.3,6.2,False,True,False,False,False,False,Alto,Regular,Média,False,Média,False,2.7,False,Moderado,Ruim,Completa,Alta,Regular,0.42392583872866396,False
+68,False,Feminino,15,1ª série EM,1111.66,N2,60.5,5.4,False,False,True,True,False,False,Baixo,Ruim,Alta,False,Alta,False,2.2,False,Alto,Boa,Completa,Alta,Regular,0.37742789876397875,True
+69,False,Feminino,12,1ª série EM,1483.08,N2,83.2,5.7,False,False,False,True,False,False,Médio,Bom,Alta,False,Baixa,False,1.8,False,Alto,Boa,Parcial,Média,Ruim,0.26397881106533255,True
+70,False,Masculino,19,3ª série EM,571.93,N2,62.0,5.9,False,False,False,False,False,False,Médio,Bom,Baixa,True,Alta,False,2.4,False,Moderado,Boa,Completa,Baixa,Boa,0.3487345497351383,False
+71,True,Feminino,13,7º ano,1165.72,N7,78.5,4.9,True,False,False,False,False,False,Médio,Bom,Média,True,Alta,True,0.9,False,Alto,Boa,Parcial,Baixa,Boa,0.4671865803413773,False
+72,True,Masculino,14,8º ano,777.37,N6,59.5,5.9,True,False,False,False,False,True,Alto,Regular,Alta,False,Baixa,False,0.3,True,Alto,Boa,Insuficiente,Média,Boa,0.5069158328428488,False
+73,True,Masculino,20,7º ano,834.62,N1,69.5,7.5,False,False,False,False,False,False,Baixo,Bom,Baixa,True,Média,False,3.1,False,Moderado,Boa,Completa,Alta,Regular,0.24499705709240727,False
+74,True,Masculino,17,9º ano,558.81,N2,72.2,3.5,False,False,False,False,False,True,Alto,Regular,Alta,False,Alta,False,2.6,True,Alto,Ruim,Parcial,Alta,Regular,0.4096527369040612,False
+75,True,Feminino,19,2ª série EM,388.9,N6,61.8,4.8,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,0.8,False,Baixo,Ruim,Completa,Média,Regular,0.39817539729252505,True
+76,False,Masculino,13,9º ano,835.32,N1,86.8,9.9,False,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,1.1,True,Alto,Regular,Parcial,Média,Boa,0.06268393172454385,False
+77,False,Masculino,17,3ª série EM,698.37,N7,59.8,8.1,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,3.5,False,Alto,Regular,Parcial,Baixa,Ruim,0.2613301942319011,False
+78,True,Masculino,16,7º ano,210.81,N2,82.9,5.9,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.2,True,Baixo,Regular,Completa,Média,Regular,0.25647439670394345,False
+79,False,Feminino,12,7º ano,662.65,N4,57.7,5.6,True,False,False,False,False,False,Baixo,Ruim,Alta,True,Baixa,False,0.5,False,Alto,Boa,Completa,Média,Ruim,0.5281047675103002,True
+80,False,Feminino,18,5º ano,271.35,N6,63.6,2.7,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,1.7,False,Alto,Boa,Insuficiente,Média,Boa,0.4829311359623308,True
+81,False,Masculino,10,1ª série EM,554.01,N6,71.0,5.2,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,2.0,True,Alto,Boa,Completa,Alta,Boa,0.33990582695703353,False
+82,False,Masculino,15,8º ano,877.64,N6,69.8,8.1,False,True,False,False,False,False,Médio,Bom,Alta,False,Média,False,4.0,False,Baixo,Regular,Parcial,Média,Boa,0.3643319599764568,False
+83,True,Feminino,19,5º ano,4741.23,N5,52.9,5.6,False,True,False,False,False,False,Médio,Bom,Alta,True,Média,True,3.2,False,Alto,Ruim,Completa,Alta,Regular,0.5492937021777515,True
+84,True,Masculino,20,3ª série EM,772.93,N2,79.6,4.6,False,False,False,False,False,False,Médio,Bom,Alta,True,Média,False,2.1,True,Baixo,Boa,Completa,Alta,Boa,0.3284284873454974,False
+85,True,Feminino,10,5º ano,2062.27,N3,90.7,4.9,False,True,False,False,False,False,Alto,Bom,Baixa,False,Baixa,False,2.5,True,Moderado,Ruim,Parcial,Média,Boa,0.4133313713949382,False
+86,True,Feminino,15,9º ano,1095.12,N6,82.6,5.1,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,True,0.8,False,Alto,Ruim,Insuficiente,Alta,Regular,0.29311359623307837,True
+87,True,Feminino,22,6º ano,712.53,N5,88.3,4.5,False,False,False,True,False,False,Médio,Bom,Baixa,False,Média,False,2.8,False,Alto,Boa,Completa,Alta,Boa,0.294437904649794,False
+88,True,Feminino,16,5º ano,960.73,N5,52.9,8.3,False,True,False,False,False,False,Alto,Bom,Alta,True,Alta,False,1.8,False,Moderado,Boa,Insuficiente,Alta,Ruim,0.4301059446733373,False
+89,False,Feminino,12,8º ano,327.87,N5,55.1,8.4,False,False,False,False,False,False,Médio,Ruim,Alta,False,Baixa,False,1.6,False,Alto,Ruim,Completa,Média,Boa,0.2688346085932901,False
+90,True,Feminino,12,1ª série EM,688.85,N3,96.9,6.9,False,True,False,False,False,False,Médio,Regular,Média,True,Alta,False,1.1,False,Moderado,Boa,Completa,Média,Boa,0.2976751030017657,False
+91,False,Masculino,16,8º ano,593.54,N2,93.5,5.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,0.4,False,Moderado,Boa,Completa,Baixa,Boa,0.2317539729252501,False
+92,True,Feminino,22,9º ano,961.35,N1,97.8,3.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,0.1,False,Moderado,Boa,Parcial,Alta,Boa,0.283402001177163,True
+93,True,Masculino,18,9º ano,548.94,N2,53.4,7.2,False,True,False,False,False,False,Baixo,Ruim,Baixa,True,Média,False,0.8,False,Baixo,Ruim,Parcial,Média,Boa,0.4764567392583873,False
+94,True,Masculino,14,1ª série EM,945.98,N6,95.9,7.4,True,True,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,2.6,False,Alto,Boa,Completa,Média,Boa,0.4271630370806357,True
+95,False,Masculino,22,3ª série EM,606.47,N4,77.1,6.7,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.4,False,Moderado,Boa,Completa,Média,Regular,0.24676280164802827,False
+96,True,Masculino,17,8º ano,589.29,N6,97.9,6.9,False,True,True,True,True,False,Médio,Bom,Média,False,Alta,False,0.6,False,Moderado,Boa,Completa,Alta,Boa,0.5875515008828722,True
+97,False,Feminino,22,2ª série EM,854.18,N7,82.2,7.4,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.0,False,Moderado,Boa,Completa,Baixa,Boa,0.19334902884049435,True
+98,False,Feminino,22,8º ano,483.99,N6,79.6,4.0,False,False,False,True,False,True,Médio,Bom,Alta,False,Média,False,2.7,False,Alto,Regular,Completa,Média,Boa,0.3549146556798117,True
+99,False,Masculino,14,1ª série EM,731.02,N7,90.2,6.0,False,False,False,False,False,False,Baixo,Bom,Média,False,Baixa,False,2.8,True,Alto,Regular,Parcial,Média,Boa,0.21983519717480868,False
+100,False,Feminino,12,6º ano,682.37,N1,63.7,5.8,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.6,False,Baixo,Boa,Completa,Média,Regular,0.3456444967628017,False
+101,True,Feminino,13,3ª série EM,863.03,N5,90.3,8.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,0.4,False,Alto,Boa,Completa,Média,Ruim,0.09579164214243671,False
+102,False,Feminino,12,2ª série EM,935.18,N7,69.5,7.6,True,False,False,True,False,False,Alto,Bom,Média,True,Baixa,False,3.0,False,Baixo,Regular,Insuficiente,Alta,Ruim,0.3877280753384344,False
+103,True,Feminino,11,2ª série EM,815.17,N3,83.6,6.8,False,False,False,False,False,False,Alto,Bom,Alta,False,Baixa,False,0.8,False,Baixo,Boa,Completa,Média,Boa,0.2136550912301354,False
+104,False,Masculino,13,7º ano,1497.35,N4,93.4,6.2,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,3.1,False,Alto,Regular,Completa,Média,Ruim,0.19688051795173628,False
+105,False,Masculino,14,2ª série EM,911.38,N5,87.7,5.3,False,False,False,False,False,False,Médio,Bom,Baixa,False,Média,False,4.0,False,Alto,Ruim,Completa,Baixa,Regular,0.26177163037080636,True
+106,False,Outro,18,8º ano,344.04,N6,73.2,4.7,False,True,False,False,False,False,Médio,Bom,Média,False,Média,False,2.6,False,Alto,Ruim,Completa,Alta,Boa,0.49941141848145976,True
+107,True,Masculino,19,2ª série EM,509.64,N2,93.0,3.4,False,False,False,False,False,False,Alto,Ruim,Média,True,Alta,False,2.7,True,Moderado,Boa,Completa,Alta,Regular,0.32224838140082396,False
+108,True,Feminino,19,9º ano,415.14,N1,77.8,6.7,True,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,3.7,True,Moderado,Regular,Completa,Média,Regular,0.39081812831077106,True
+109,False,Masculino,12,3ª série EM,617.93,N7,94.8,4.3,False,False,True,False,False,False,Alto,Regular,Média,True,Média,False,1.3,False,Alto,Regular,Completa,Alta,Regular,0.2745732783990583,False
+110,False,Outro,17,3ª série EM,468.81,N6,72.0,4.1,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Média,False,1.4,False,Alto,Boa,Insuficiente,Média,Regular,0.38404944084755743,True
+111,True,Feminino,19,5º ano,966.07,N7,61.2,5.8,True,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.4,True,Alto,Regular,Completa,Baixa,Regular,0.503825779870512,False
+112,False,Feminino,11,1ª série EM,467.85,N2,79.0,5.1,True,False,False,True,False,False,Baixo,Bom,Média,False,Baixa,False,0.9,False,Moderado,Regular,Completa,Baixa,Boa,0.4561506768687464,True
+113,True,Feminino,21,2ª série EM,845.05,N2,88.7,7.8,False,True,False,False,False,False,Médio,Bom,Alta,False,Média,True,3.3,False,Baixo,Regular,Insuficiente,Alta,Regular,0.29414361389052385,False
+114,False,Outro,11,7º ano,664.62,N7,63.2,5.2,True,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,3.0,False,Alto,Regular,Parcial,Alta,Regular,0.5214832254267215,True
+115,True,Feminino,21,7º ano,927.56,N5,96.1,9.2,False,True,False,True,False,False,Alto,Ruim,Média,False,Alta,False,2.7,False,Moderado,Ruim,Completa,Média,Regular,0.1996762801648029,False
+116,False,Feminino,11,1ª série EM,1419.86,N1,84.4,5.4,True,False,False,False,False,False,Baixo,Bom,Baixa,False,Baixa,False,2.8,False,Alto,Regular,Completa,Alta,Boa,0.41907004120070623,True
+117,True,Feminino,14,6º ano,417.18,N7,91.6,8.8,False,True,False,False,False,False,Médio,Bom,Baixa,False,Baixa,False,3.5,False,Alto,Boa,Completa,Média,Boa,0.2371983519717481,False
+118,False,Feminino,14,2ª série EM,522.97,N5,82.9,6.6,False,False,True,False,False,False,Alto,Bom,Baixa,True,Alta,True,2.7,True,Baixo,Ruim,Completa,Baixa,Boa,0.2255738669805768,False
+119,True,Feminino,15,6º ano,857.56,N2,85.8,8.3,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.9,False,Baixo,Boa,Completa,Alta,Boa,0.13772807533843437,False
+120,False,Feminino,10,9º ano,476.01,N3,94.9,6.2,False,False,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,1.5,False,Alto,Boa,Insuficiente,Média,Ruim,0.1902589758681577,False
+121,True,Feminino,13,5º ano,398.81,N5,64.1,5.8,False,False,False,False,False,False,Baixo,Regular,Alta,True,Baixa,False,3.8,False,Baixo,Regular,Insuficiente,Alta,Ruim,0.3438787522071807,False
+122,False,Masculino,16,7º ano,1038.59,N6,61.9,8.4,False,False,False,True,False,False,Médio,Ruim,Média,True,Média,False,1.0,False,Alto,Ruim,Parcial,Baixa,Ruim,0.23881695114773396,True
+123,True,Feminino,16,3ª série EM,719.1,N6,97.6,8.1,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,1.6,False,Baixo,Ruim,Parcial,Baixa,Ruim,0.09446733372572104,False
+124,True,Feminino,13,1ª série EM,749.45,N3,60.3,7.3,False,True,False,False,False,False,Alto,Bom,Média,True,Média,False,1.2,True,Alto,Ruim,Completa,Alta,Boa,0.44158328428487353,False
+125,True,Feminino,21,3ª série EM,268.25,N2,72.0,5.5,False,False,False,False,False,False,Alto,Regular,Baixa,False,Média,False,3.2,False,Alto,Boa,Parcial,Média,Boa,0.32224838140082407,True
+126,False,Feminino,20,1ª série EM,811.87,N4,97.4,6.7,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.7,False,Moderado,Regular,Completa,Alta,Boa,0.15715126545026484,False
+127,True,Feminino,18,8º ano,724.69,N5,69.7,7.7,False,True,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.4,False,Alto,Boa,Completa,Média,Ruim,0.38243084167157154,True
+128,False,Feminino,14,8º ano,1054.1,N5,67.5,4.4,False,True,True,False,False,False,Médio,Regular,Alta,True,Baixa,False,3.0,False,Alto,Boa,Completa,Alta,Ruim,0.5378163625662153,True
+129,True,Masculino,19,3ª série EM,436.29,N5,73.2,8.7,False,False,False,False,False,False,Médio,Ruim,Média,True,Alta,False,3.1,True,Moderado,Ruim,Insuficiente,Média,Boa,0.17569158328428489,False
+130,True,Masculino,13,7º ano,1015.47,N7,91.7,6.5,True,False,False,False,False,False,Baixo,Ruim,Baixa,False,Alta,False,3.9,False,Alto,Regular,Parcial,Alta,Regular,0.3382872277810477,True
+131,True,Feminino,16,7º ano,470.11,N4,74.9,6.8,True,False,True,False,False,False,Alto,Bom,Baixa,True,Alta,False,1.8,True,Moderado,Regular,Completa,Alta,Boa,0.3992054149499706,False
+132,False,Feminino,22,5º ano,403.54,N1,78.4,5.6,False,False,False,False,False,False,Alto,Ruim,Alta,True,Baixa,False,1.4,False,Alto,Boa,Completa,Média,Boa,0.28958210712183635,False
+133,True,Feminino,13,8º ano,333.04,N6,83.3,4.3,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,False,0.4,True,Moderado,Boa,Completa,Alta,Regular,0.32533843437316073,False
+134,False,Masculino,12,1ª série EM,555.38,N1,61.4,5.6,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,True,3.7,True,Moderado,Regular,Completa,Média,Regular,0.36462625073572696,False
+135,True,Masculino,17,3ª série EM,1121.6,N1,95.4,5.0,True,True,False,False,False,False,Alto,Bom,Baixa,True,Alta,True,1.4,True,Moderado,Regular,Completa,Alta,Regular,0.5353148911124191,True
+136,True,Masculino,18,6º ano,593.55,N7,79.6,4.4,False,False,False,False,True,False,Médio,Bom,Alta,True,Média,False,3.3,False,Alto,Ruim,Completa,Média,Boa,0.6315479693937611,True
+137,False,Feminino,17,9º ano,682.93,N6,93.5,6.8,False,False,False,False,False,True,Alto,Ruim,Média,False,Baixa,False,1.4,False,Alto,Boa,Completa,Média,Regular,0.1699529134785168,True
+138,False,Feminino,10,8º ano,275.13,N2,87.2,6.5,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.6,False,Baixo,Regular,Parcial,Baixa,Regular,0.21100647439670392,False
+139,True,Feminino,11,1ª série EM,1992.07,N6,67.3,6.8,False,True,False,False,False,True,Médio,Ruim,Alta,False,Alta,False,1.8,False,Baixo,Boa,Parcial,Alta,Regular,0.4327545615067687,False
+140,False,Masculino,20,1ª série EM,382.48,N2,69.0,6.7,False,False,False,False,False,False,Baixo,Bom,Média,True,Média,False,2.2,False,Alto,Regular,Completa,Alta,Ruim,0.2825191288993526,False
+141,True,Feminino,22,8º ano,656.56,N1,51.0,5.6,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.1,True,Alto,Regular,Parcial,Baixa,Regular,0.41053560918187176,True
+142,False,Feminino,16,3ª série EM,1105.19,N1,79.0,7.1,False,True,False,False,False,False,Alto,Regular,Média,False,Média,False,2.3,False,Baixo,Regular,Completa,Média,Regular,0.36786344908769864,False
+143,False,Masculino,22,8º ano,1069.23,N4,88.4,6.5,False,False,False,False,False,True,Médio,Bom,Média,True,Alta,False,2.5,False,Baixo,Boa,Parcial,Média,Boa,0.20570924072984106,False
+144,False,Feminino,19,6º ano,237.88,N6,99.8,7.4,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.8,False,Alto,Regular,Completa,Baixa,Boa,0.2628016480282519,False
+145,True,Feminino,12,8º ano,1249.03,N1,71.3,7.4,True,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,4.3,False,Alto,Regular,Completa,Média,Boa,0.3886109476162449,False
+146,True,Outro,11,6º ano,999.81,N1,60.3,5.8,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,False,0.8,False,Moderado,Regular,Completa,Média,Boa,0.3606533254855797,False
+147,True,Outro,11,2ª série EM,595.7,N2,58.4,8.0,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.5,False,Moderado,Boa,Parcial,Alta,Boa,0.4190700412007064,False
+148,True,Masculino,22,3ª série EM,896.56,N4,96.4,6.2,False,False,False,True,False,False,Baixo,Ruim,Média,False,Alta,False,2.3,False,Moderado,Regular,Parcial,Média,Boa,0.1836374337845791,False
+149,False,Outro,16,9º ano,803.31,N1,87.4,3.8,False,False,False,False,False,False,Médio,Ruim,Média,False,Alta,False,1.7,False,Moderado,Boa,Insuficiente,Média,Ruim,0.3293113596233078,False
+150,True,Feminino,10,6º ano,796.34,N1,89.7,8.7,False,False,False,False,False,False,Médio,Bom,Baixa,False,Baixa,True,0.9,False,Alto,Regular,Parcial,Baixa,Regular,0.10285462036492055,False
+151,True,Masculino,17,6º ano,366.3,N7,73.1,6.8,False,False,False,False,False,False,Médio,Regular,Média,True,Média,False,1.9,True,Moderado,Boa,Parcial,Alta,Regular,0.26000588581518547,True
+152,False,Masculino,13,5º ano,896.29,N2,79.6,4.6,False,True,False,False,False,False,Médio,Ruim,Baixa,False,Média,False,2.5,False,Baixo,Regular,Completa,Média,Boa,0.4755738669805769,False
+153,True,Feminino,22,1ª série EM,1353.14,N1,88.9,8.0,False,False,False,False,False,True,Médio,Ruim,Baixa,True,Baixa,False,1.8,False,Alto,Regular,Parcial,Baixa,Boa,0.1372866391995291,False
+154,False,Feminino,14,9º ano,1667.05,N3,52.7,5.1,False,False,False,False,False,True,Alto,Bom,Alta,False,Baixa,False,0.6,False,Alto,Regular,Insuficiente,Alta,Boa,0.4251030017657446,False
+155,True,Feminino,21,3ª série EM,993.83,N6,69.1,7.4,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,2.7,True,Moderado,Boa,Parcial,Alta,Boa,0.25117716303708065,False
+156,True,Masculino,16,6º ano,610.52,N5,99.6,7.9,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,3.9,False,Alto,Boa,Completa,Alta,Ruim,0.09446733372572103,False
+157,False,Feminino,11,5º ano,439.99,N3,99.7,5.3,False,True,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,1.6,False,Baixo,Regular,Insuficiente,Média,Boa,0.3559446733372572,False
+158,False,Masculino,22,8º ano,948.97,N2,65.3,5.0,True,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,1.0,True,Moderado,Boa,Parcial,Baixa,Regular,0.5210417892878163,True
+159,True,Masculino,17,9º ano,576.17,N4,68.8,6.2,False,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,1.7,False,Baixo,Regular,Completa,Alta,Ruim,0.305473808122425,True
+160,True,Feminino,22,8º ano,650.71,N7,61.4,7.4,True,True,False,False,False,False,Alto,Ruim,Alta,True,Baixa,True,0.6,False,Moderado,Boa,Completa,Alta,Boa,0.5794585050029428,False
+161,True,Masculino,18,7º ano,537.28,N6,53.7,2.1,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,2.6,True,Alto,Boa,Parcial,Baixa,Regular,0.5531194820482637,True
+162,True,Masculino,17,5º ano,604.14,N7,66.4,4.3,False,False,False,True,False,False,Alto,Regular,Alta,True,Alta,False,1.4,False,Alto,Regular,Insuficiente,Média,Ruim,0.39994114184814594,True
+163,False,Feminino,17,6º ano,414.52,N2,68.9,8.2,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,True,1.0,False,Baixo,Boa,Completa,Alta,Regular,0.21674514420247204,False
+164,True,Masculino,20,7º ano,998.41,N6,94.7,2.5,False,False,False,False,False,False,Alto,Regular,Baixa,False,Baixa,False,3.4,False,Baixo,Boa,Completa,Alta,Boa,0.3544732195409064,False
+165,False,Masculino,16,1ª série EM,808.89,N1,61.5,7.5,True,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.3,False,Moderado,Ruim,Parcial,Média,Ruim,0.4274573278399058,True
+166,True,Masculino,18,3ª série EM,666.76,N3,76.2,5.7,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,0.5,False,Moderado,Boa,Insuficiente,Alta,Boa,0.29487934078869926,False
+167,False,Masculino,18,2ª série EM,399.49,N1,75.0,5.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.6,False,Alto,Regular,Parcial,Média,Boa,0.33107710417892877,True
+168,False,Feminino,21,5º ano,787.81,N4,89.1,9.6,False,False,False,False,False,False,Médio,Bom,Baixa,False,Média,False,2.5,False,Moderado,Regular,Parcial,Alta,Regular,0.06577398469688056,False
+169,False,Feminino,15,1ª série EM,1248.19,N2,54.2,9.0,False,False,True,False,False,False,Médio,Regular,Alta,False,Alta,False,1.1,True,Baixo,Boa,Parcial,Média,Boa,0.246321365509123,True
+170,True,Feminino,11,3ª série EM,764.56,N6,86.6,5.4,True,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.1,False,Baixo,Ruim,Parcial,Média,Regular,0.40935844614479105,True
+171,True,Feminino,19,7º ano,536.72,N4,63.4,8.0,False,True,False,True,False,False,Baixo,Bom,Média,False,Alta,True,1.9,False,Moderado,Boa,Completa,Alta,Ruim,0.39699823425544445,True
+172,True,Masculino,12,3ª série EM,591.2,N3,79.7,9.0,False,False,False,False,False,False,Alto,Ruim,Média,False,Média,False,2.5,True,Moderado,Boa,Completa,Média,Ruim,0.1337551500882872,False
+173,True,Feminino,18,6º ano,494.01,N7,74.2,6.6,False,False,False,True,False,False,Alto,Regular,Alta,False,Alta,False,1.2,False,Moderado,Ruim,Completa,Baixa,Boa,0.26397881106533255,False
+174,True,Masculino,20,5º ano,370.46,N2,67.4,6.6,False,False,False,False,False,True,Alto,Bom,Média,False,Média,False,2.8,False,Moderado,Ruim,Insuficiente,Baixa,Boa,0.29399646851088873,False
+175,False,Masculino,15,6º ano,742.49,N3,86.1,5.8,False,False,True,False,False,False,Alto,Regular,Alta,False,Alta,False,1.1,False,Moderado,Boa,Completa,Baixa,Regular,0.24676280164802827,False
+176,False,Masculino,17,7º ano,815.13,N2,92.8,3.7,True,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.7,False,Moderado,Boa,Completa,Média,Boa,0.4570335491465568,True
+177,False,Masculino,21,5º ano,963.46,N2,84.4,6.4,False,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,1.6,False,Moderado,Ruim,Parcial,Alta,Boa,0.227781047675103,False
+178,False,Masculino,21,5º ano,659.48,N3,77.7,6.1,False,False,False,False,False,False,Médio,Ruim,Média,False,Média,True,1.1,False,Alto,Boa,Completa,Alta,Boa,0.2706003531489111,True
+179,True,Masculino,16,9º ano,1038.36,N4,96.6,4.3,True,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,2.8,True,Moderado,Boa,Completa,Alta,Regular,0.41377280753384343,True
+180,False,Feminino,10,9º ano,537.71,N4,93.6,4.0,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,2.2,True,Moderado,Regular,Parcial,Média,Boa,0.2931135962330783,True
+181,False,Feminino,21,8º ano,1232.66,N7,61.9,8.7,False,True,False,False,False,False,Baixo,Regular,Média,False,Média,False,2.8,False,Alto,Ruim,Completa,Alta,Boa,0.3727192466156563,True
+182,True,Feminino,20,8º ano,1190.84,N2,77.9,6.9,False,False,False,False,False,False,Alto,Regular,Alta,False,Média,False,3.1,False,Moderado,Boa,Completa,Baixa,Boa,0.23440258975868153,True
+183,False,Masculino,11,8º ano,765.63,N1,67.9,2.9,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,False,1.4,False,Alto,Boa,Completa,Alta,Boa,0.45512065921130074,False
+184,True,Masculino,13,6º ano,699.19,N4,98.8,4.5,False,True,False,False,False,False,Baixo,Regular,Baixa,False,Alta,True,1.9,False,Moderado,Ruim,Completa,Média,Boa,0.39523248969982355,False
+185,False,Feminino,12,9º ano,1115.83,N1,52.6,4.0,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.2,False,Alto,Ruim,Completa,Alta,Boa,0.474102413184226,True
+186,True,Masculino,19,1ª série EM,335.22,N6,81.0,6.4,True,True,False,False,False,False,Alto,Bom,Média,True,Média,False,2.0,False,Moderado,Regular,Parcial,Alta,Regular,0.53708063566804,True
+187,True,Feminino,18,2ª série EM,491.61,N7,87.1,8.6,True,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.0,True,Baixo,Regular,Completa,Média,Boa,0.2658917010005886,False
+188,False,Masculino,18,5º ano,832.1,N7,64.7,7.1,True,False,False,False,True,False,Médio,Bom,Média,False,Alta,False,3.5,False,Alto,Boa,Insuficiente,Alta,Boa,0.7252795762213068,True
+189,True,Masculino,22,8º ano,855.93,N6,56.8,5.3,False,False,False,False,False,False,Alto,Bom,Baixa,False,Baixa,False,2.2,False,Moderado,Ruim,Completa,Média,Regular,0.3981753972925251,False
+190,False,Feminino,15,8º ano,538.36,N2,77.8,4.9,False,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,2.7,False,Moderado,Boa,Parcial,Média,Boa,0.32313125367863454,False
+191,True,Masculino,20,5º ano,388.69,N4,70.9,7.5,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,False,1.8,False,Alto,Boa,Completa,Média,Ruim,0.23881695114773394,False
+192,True,Masculino,20,3ª série EM,383.8,N4,73.0,3.0,True,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.5,True,Moderado,Boa,Completa,Alta,Boa,0.5753384343731607,True
+193,False,Masculino,11,6º ano,796.46,N6,95.1,6.1,True,False,False,False,False,False,Alto,Bom,Média,True,Média,False,2.4,True,Moderado,Boa,Completa,Média,Regular,0.3409358446144791,False
+194,False,Feminino,22,9º ano,421.36,N6,52.9,6.0,False,True,False,False,False,False,Médio,Ruim,Média,False,Alta,False,0.7,True,Alto,Regular,Completa,Alta,Boa,0.531636256621542,False
+195,True,Masculino,11,2ª série EM,1177.24,N4,69.1,7.1,False,False,False,False,False,False,Médio,Ruim,Média,False,Baixa,True,1.5,True,Moderado,Boa,Parcial,Baixa,Regular,0.26442024720423785,True
+196,False,Feminino,16,6º ano,732.17,N5,86.4,6.9,True,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.3,False,Moderado,Ruim,Completa,Média,Boa,0.34402589758681573,True
+197,False,Feminino,22,9º ano,1386.16,N6,97.9,8.0,False,False,False,False,True,False,Alto,Bom,Média,False,Alta,False,2.4,False,Moderado,Ruim,Completa,Alta,Boa,0.3918481459682166,True
+198,False,Feminino,16,8º ano,1374.73,N7,68.3,5.2,False,True,False,True,False,False,Alto,Bom,Alta,False,Alta,False,3.3,False,Alto,Boa,Completa,Média,Regular,0.4989699823425544,True
+199,False,Feminino,15,6º ano,344.51,N3,57.1,2.8,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.9,True,Baixo,Regular,Completa,Média,Boa,0.5072101236021189,False
+200,True,Masculino,20,5º ano,626.08,N5,93.8,4.7,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,2.0,False,Moderado,Boa,Parcial,Média,Ruim,0.2613301942319011,False
+201,False,Feminino,18,5º ano,895.89,N5,95.1,6.5,True,False,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,2.9,False,Moderado,Boa,Completa,Baixa,Ruim,0.3232783990582696,False
+202,False,Feminino,14,2ª série EM,421.48,N6,54.4,6.6,False,False,False,False,False,False,Alto,Ruim,Alta,False,Média,False,2.3,False,Alto,Boa,Completa,Alta,Ruim,0.35138316656856977,True
+203,False,Masculino,11,3ª série EM,804.32,N2,69.7,3.9,True,False,False,False,False,True,Médio,Regular,Alta,False,Alta,False,3.8,False,Moderado,Boa,Completa,Alta,Ruim,0.5501765744555621,False
+204,False,Feminino,18,3ª série EM,609.9,N6,54.9,8.0,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,2.4,False,Baixo,Ruim,Completa,Média,Boa,0.2873749264273102,False
+205,True,Feminino,22,9º ano,875.26,N5,61.0,5.3,True,False,True,False,False,False,Alto,Regular,Alta,False,Alta,False,0.1,False,Baixo,Boa,Completa,Baixa,Boa,0.5267804590935845,False
+206,False,Masculino,13,1ª série EM,528.5,N4,83.1,6.0,True,True,False,False,False,False,Alto,Regular,Média,False,Alta,False,1.9,False,Alto,Boa,Completa,Baixa,Ruim,0.5454679223072396,False
+207,False,Masculino,16,5º ano,1038.86,N4,95.4,5.3,False,False,True,False,False,False,Alto,Bom,Média,True,Baixa,False,1.0,False,Moderado,Boa,Completa,Alta,Boa,0.227781047675103,False
+208,True,Feminino,11,6º ano,824.4,N5,80.9,7.7,True,False,False,False,False,False,Alto,Bom,Alta,True,Alta,False,2.4,False,Moderado,Regular,Completa,Média,Regular,0.3329899941141848,True
+209,True,Masculino,21,8º ano,350.87,N4,59.7,3.5,False,True,False,False,False,False,Médio,Bom,Alta,False,Média,False,3.1,False,Baixo,Regular,Completa,Alta,Boa,0.6119776339022954,False
+210,True,Feminino,10,3ª série EM,283.37,N1,50.0,6.8,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,2.7,False,Alto,Regular,Completa,Baixa,Ruim,0.3619776339022955,False
+211,True,Feminino,17,7º ano,600.18,N5,60.5,5.8,False,True,False,True,False,False,Médio,Bom,Alta,False,Alta,False,2.3,False,Alto,Boa,Completa,Alta,Boa,0.5069158328428488,True
+212,True,Feminino,16,3ª série EM,1305.89,N3,51.0,7.8,True,False,False,False,False,False,Baixo,Bom,Média,True,Baixa,False,2.5,False,Moderado,Boa,Completa,Alta,Boa,0.4605650382577987,True
+213,True,Feminino,17,7º ano,668.77,N3,71.8,4.6,False,False,True,False,True,False,Alto,Regular,Baixa,False,Média,False,1.9,True,Alto,Boa,Completa,Baixa,Regular,0.6571512654502649,False
+214,True,Feminino,20,9º ano,1218.85,N1,86.9,3.7,False,False,False,False,False,False,Médio,Bom,Média,False,Média,False,2.2,True,Alto,Boa,Completa,Baixa,Boa,0.3359329017068864,False
+215,False,Feminino,12,3ª série EM,328.48,N7,72.7,5.1,False,True,False,False,False,False,Médio,Regular,Média,False,Alta,False,2.1,False,Moderado,Boa,Insuficiente,Alta,Boa,0.4839611536197763,True
+216,True,Masculino,20,9º ano,466.89,N3,76.0,4.8,False,True,False,True,False,False,Baixo,Ruim,Baixa,False,Baixa,False,1.1,False,Baixo,Ruim,Parcial,Média,Boa,0.48263684520306055,False
+217,True,Masculino,21,2ª série EM,846.77,N7,69.2,6.6,True,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.4,False,Baixo,Boa,Parcial,Baixa,Ruim,0.4331959976456739,True
+218,False,Feminino,14,7º ano,503.41,N6,90.7,7.4,False,True,False,True,False,False,Alto,Ruim,Alta,True,Baixa,False,3.0,False,Moderado,Ruim,Insuficiente,Alta,Boa,0.30297233666862855,False
+219,True,Masculino,18,6º ano,456.09,N1,60.1,4.6,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,3.3,False,Alto,Boa,Completa,Baixa,Ruim,0.41450853443201885,False
+220,False,Feminino,16,9º ano,716.23,N6,92.0,3.3,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.8,False,Moderado,Boa,Completa,Baixa,Regular,0.33107710417892877,False
+221,False,Feminino,17,9º ano,497.42,N6,97.7,5.5,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,True,4.2,False,Baixo,Boa,Parcial,Alta,Boa,0.20879929370217776,False
+222,True,Feminino,18,6º ano,344.06,N7,82.8,1.8,False,False,False,False,False,False,Alto,Regular,Alta,True,Média,False,2.8,False,Alto,Boa,Completa,Alta,Boa,0.43790464979399646,False
+223,False,Feminino,16,7º ano,3074.92,N6,54.9,7.2,False,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,1.1,False,Moderado,Regular,Completa,Média,Regular,0.32268981753972925,False
+224,True,Masculino,21,8º ano,530.74,N5,96.2,6.0,False,True,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,2.8,True,Alto,Boa,Parcial,Alta,Boa,0.3404944084755739,False
+225,True,Masculino,13,9º ano,505.22,N2,70.2,6.7,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,2.7,False,Alto,Ruim,Parcial,Alta,Ruim,0.2772218952324897,False
+226,True,Feminino,12,1ª série EM,883.12,N7,92.9,5.8,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,2.4,True,Moderado,Boa,Parcial,Média,Regular,0.21674514420247204,False
+227,False,Feminino,22,8º ano,758.89,N1,89.2,3.8,False,False,True,False,False,False,Alto,Regular,Média,False,Baixa,False,2.8,False,Alto,Regular,Completa,Alta,Ruim,0.32136550912301354,True
+228,False,Feminino,10,9º ano,1248.23,N1,51.2,7.7,True,False,False,False,False,False,Baixo,Bom,Média,False,Média,False,2.0,True,Moderado,Boa,Insuficiente,Alta,Boa,0.46409652736904067,False
+229,False,Feminino,13,6º ano,656.02,N6,73.9,10.2,False,False,False,False,False,False,Alto,Bom,Média,True,Baixa,False,3.0,False,Moderado,Boa,Completa,Média,Ruim,0.10638610947616245,False
+230,True,Masculino,11,6º ano,583.36,N3,97.4,4.9,False,True,False,False,False,False,Alto,Regular,Alta,True,Média,False,1.5,False,Moderado,Boa,Completa,Média,Regular,0.3837551500882872,True
+231,True,Outro,17,9º ano,418.18,N7,92.8,6.5,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,3.2,False,Moderado,Boa,Completa,Média,Regular,0.3334314302530901,True
+232,False,Masculino,18,5º ano,526.06,N2,78.7,8.2,True,False,True,False,False,False,Alto,Bom,Média,True,Baixa,False,2.7,False,Baixo,Ruim,Parcial,Alta,Boa,0.3206297822248382,False
+233,True,Masculino,18,8º ano,275.52,N5,71.7,8.7,False,False,False,False,False,False,Alto,Bom,Média,False,Baixa,False,1.3,False,Baixo,Boa,Parcial,Alta,Ruim,0.18231312536786348,True
+234,False,Feminino,19,7º ano,954.69,N1,63.0,5.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,3.7,True,Baixo,Regular,Completa,Média,Boa,0.36639199529134786,True
+235,True,Feminino,14,1ª série EM,573.07,N3,95.9,5.4,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.6,False,Alto,Boa,Completa,Média,Ruim,0.22115950559152436,False
+236,False,Masculino,21,2ª série EM,371.65,N2,94.2,6.6,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,True,0.4,False,Alto,Boa,Completa,Média,Regular,0.17569158328428486,False
+237,True,Feminino,19,5º ano,619.35,N3,65.5,7.3,True,False,False,False,False,False,Alto,Regular,Média,False,Baixa,False,1.6,True,Moderado,Boa,Parcial,Média,Boa,0.41862860506180105,False
+238,True,Feminino,13,1ª série EM,915.13,N3,74.8,7.5,False,False,True,False,False,False,Baixo,Bom,Baixa,False,Baixa,False,2.6,False,Alto,Boa,Parcial,Baixa,Ruim,0.22160094173042968,False
+239,True,Masculino,14,3ª série EM,1092.75,N2,54.0,6.8,False,True,False,False,False,False,Médio,Bom,Alta,False,Alta,False,3.1,False,Alto,Regular,Completa,Média,Ruim,0.4914655679811654,False
+240,False,Feminino,21,7º ano,661.59,N3,67.4,4.9,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.3,False,Moderado,Boa,Completa,Média,Regular,0.36904061212477923,True
+241,True,Masculino,10,2ª série EM,984.34,N2,78.7,6.9,False,True,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,1.3,False,Moderado,Boa,Insuficiente,Alta,Boa,0.37801648028251916,True
+242,False,Feminino,10,6º ano,713.91,N4,51.5,6.1,False,False,False,False,False,False,Alto,Bom,Média,True,Baixa,True,2.6,False,Moderado,Ruim,Completa,Alta,Ruim,0.3862566215420835,False
+243,True,Feminino,20,2ª série EM,655.92,N6,56.7,5.5,False,False,False,False,False,False,Alto,Ruim,Média,False,Média,False,4.8,False,Alto,Boa,Parcial,Alta,Boa,0.3897881106533255,True
+244,False,Feminino,14,8º ano,1036.92,N6,91.5,5.8,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.5,True,Moderado,Boa,Parcial,Alta,Ruim,0.22292525014714537,True
+245,True,Outro,18,8º ano,379.75,N7,91.9,7.7,False,False,False,False,False,False,Alto,Regular,Alta,True,Média,False,2.4,False,Moderado,Boa,Completa,Média,Ruim,0.1372866391995291,False
+246,True,Masculino,11,9º ano,943.31,N4,70.2,10.1,False,False,True,False,False,False,Alto,Regular,Alta,False,Alta,True,2.3,False,Moderado,Regular,Completa,Alta,Regular,0.12713360800470866,False
+247,True,Feminino,14,2ª série EM,627.19,N6,96.9,7.3,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,3.5,False,Alto,Regular,Completa,Média,Boa,0.13287227781047675,True
+248,False,Feminino,11,2ª série EM,734.32,N3,67.8,6.2,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.5,False,Baixo,Boa,Parcial,Média,Boa,0.30988816951147735,True
+249,True,Feminino,12,8º ano,1078.52,N5,63.0,7.5,False,False,False,True,False,False,Alto,Bom,Média,False,Alta,False,2.2,False,Alto,Regular,Parcial,Média,Regular,0.2736904061212478,False
+250,False,Feminino,18,3ª série EM,652.91,N5,54.2,5.3,True,False,True,False,False,False,Alto,Regular,Baixa,False,Média,False,1.8,False,Alto,Boa,Parcial,Alta,Boa,0.5567981165391406,False
+251,False,Feminino,17,3ª série EM,692.97,N3,65.8,8.4,False,True,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,2.1,False,Alto,Ruim,Insuficiente,Média,Boa,0.3687463213655092,False
+252,True,Masculino,18,2ª série EM,370.58,N1,60.0,6.8,True,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,0.4,False,Moderado,Boa,Completa,Média,Boa,0.4649793996468511,False
+253,True,Masculino,15,3ª série EM,406.19,N2,54.9,5.3,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.3,False,Moderado,Boa,Parcial,Alta,Regular,0.40656268393172457,False
+254,True,Feminino,17,7º ano,584.95,N5,82.3,6.2,False,False,False,False,False,False,Médio,Bom,Alta,True,Baixa,False,0.1,False,Baixo,Boa,Completa,Alta,Ruim,0.24587992937021777,False
+255,True,Feminino,11,7º ano,941.37,N2,84.2,4.7,False,True,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.8,False,Moderado,Boa,Parcial,Baixa,Boa,0.4508534432018835,True
+256,False,Feminino,18,8º ano,896.69,N6,67.9,7.8,True,False,False,False,False,False,Baixo,Bom,Média,False,Média,False,2.0,True,Baixo,Boa,Completa,Média,Ruim,0.3859623307828134,False
+257,True,Feminino,16,6º ano,976.08,N7,97.7,5.5,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.6,False,Moderado,Boa,Completa,Média,Regular,0.20879929370217776,False
+258,False,Masculino,17,5º ano,843.62,N7,82.8,7.7,False,True,False,True,False,False,Alto,Regular,Média,False,Alta,False,1.7,False,Moderado,Boa,Completa,Alta,Boa,0.3246027074749853,True
+259,False,Masculino,22,5º ano,411.97,N5,97.5,4.2,False,False,False,False,False,False,Médio,Ruim,Média,False,Baixa,False,2.4,False,Alto,Ruim,Completa,Média,Boa,0.2670688640376692,False
+260,False,Feminino,18,1ª série EM,529.5,N3,81.6,8.6,True,False,False,False,False,False,Médio,Ruim,Baixa,False,Média,False,3.2,True,Moderado,Regular,Completa,Média,Boa,0.29017068864037676,False
+261,True,Feminino,22,6º ano,794.19,N4,73.3,9.1,True,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.4,True,Moderado,Boa,Completa,Alta,Boa,0.30473808122424956,True
+262,False,Feminino,10,3ª série EM,396.78,N7,50.3,7.0,False,True,False,False,False,False,Médio,Ruim,Média,True,Alta,False,1.8,True,Moderado,Regular,Parcial,Média,Boa,0.49896998234255446,True
+263,False,Feminino,15,8º ano,706.23,N2,68.2,6.5,False,False,False,False,False,False,Alto,Bom,Alta,True,Alta,False,3.1,False,Alto,Regular,Completa,Baixa,Boa,0.2948793407886992,False
+264,False,Feminino,13,6º ano,611.8,N3,63.4,8.0,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,1.5,False,Baixo,Regular,Parcial,Média,Boa,0.24985285462036494,False
+265,False,Masculino,10,9º ano,929.19,N3,68.9,7.1,False,False,True,False,False,False,Alto,Bom,Alta,False,Alta,True,3.5,True,Alto,Regular,Parcial,Alta,Ruim,0.26530311948204827,False
+266,True,Outro,14,1ª série EM,251.9,N4,96.6,4.1,False,False,True,False,True,False,Alto,Regular,Baixa,False,Alta,False,1.4,False,Baixo,Boa,Completa,Alta,Boa,0.5697469099470277,True
+267,False,Masculino,14,2ª série EM,928.28,N6,75.4,7.7,False,False,False,True,False,False,Médio,Regular,Média,False,Alta,False,2.8,True,Moderado,Boa,Completa,Média,Ruim,0.21012360211889344,False
+268,False,Masculino,20,7º ano,319.81,N5,83.0,6.8,False,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,2.7,False,Moderado,Regular,Completa,Média,Ruim,0.21630370806356683,True
+269,False,Feminino,20,2ª série EM,184.18,N5,68.6,5.5,True,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,0.1,True,Alto,Ruim,Parcial,Média,Boa,0.48440258975868167,False
+270,False,Feminino,15,2ª série EM,421.09,N7,64.4,7.9,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.8,True,Moderado,Regular,Completa,Baixa,Ruim,0.24985285462036486,True
+271,False,Feminino,12,5º ano,898.09,N6,63.7,7.3,True,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,0.6,False,Moderado,Boa,Completa,Média,Boa,0.42657445556209544,True
+272,True,Feminino,11,1ª série EM,575.89,N3,50.3,5.5,True,True,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,2.2,False,Alto,Regular,Completa,Baixa,Boa,0.7123307828134197,True
+273,True,Masculino,11,9º ano,502.65,N1,57.1,7.3,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,2.1,False,Alto,Regular,Completa,Baixa,Boa,0.30856386109476164,True
+274,True,Masculino,11,6º ano,1283.08,N6,58.5,5.9,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,0.1,True,Alto,Boa,Completa,Baixa,Regular,0.3641848145968216,False
+275,False,Feminino,19,2ª série EM,591.65,N2,56.3,5.9,False,False,False,True,False,False,Médio,Regular,Alta,False,Alta,False,1.3,False,Alto,Regular,Completa,Alta,Regular,0.3738964096527369,False
+276,True,Masculino,19,1ª série EM,295.82,N2,77.3,1.2,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,False,1.8,False,Moderado,Boa,Completa,Alta,Boa,0.48866980576809893,False
+277,True,Feminino,17,7º ano,387.47,N1,88.8,7.4,False,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,0.1,False,Alto,Boa,Completa,Média,Regular,0.16421424367274867,False
+278,False,Masculino,14,5º ano,184.2,N1,73.8,4.8,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,False,3.1,False,Alto,Regular,Completa,Média,Ruim,0.34520306062389644,False
+279,False,Masculino,17,8º ano,351.42,N5,77.0,7.9,False,False,False,True,False,False,Alto,Bom,Média,True,Baixa,False,2.8,True,Alto,Regular,Completa,Média,Ruim,0.1942319011183049,False
+280,True,Feminino,14,1ª série EM,743.36,N5,82.8,7.5,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.7,False,Baixo,Boa,Completa,Baixa,Ruim,0.18628605061801062,False
+281,False,Feminino,15,1ª série EM,603.61,N5,78.7,5.4,False,False,False,False,False,False,Médio,Regular,Média,False,Média,False,3.0,False,Alto,Ruim,Parcial,Alta,Boa,0.2970865214832254,True
+282,True,Feminino,22,2ª série EM,309.58,N6,61.5,4.5,False,False,False,False,True,False,Alto,Bom,Alta,True,Média,False,3.4,False,Alto,Boa,Completa,Alta,Ruim,0.7070335491465568,True
+283,False,Feminino,12,3ª série EM,641.72,N3,60.7,5.4,False,True,False,False,False,False,Baixo,Regular,Alta,False,Média,True,2.0,True,Moderado,Boa,Completa,Alta,Boa,0.5236904061212478,True
+284,False,Feminino,17,8º ano,491.59,N5,55.2,6.2,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,1.4,True,Alto,Boa,Parcial,Média,Regular,0.3655091230135374,True
+285,True,Feminino,14,3ª série EM,668.29,N1,85.8,7.0,False,False,False,False,False,False,Baixo,Regular,Alta,False,Baixa,False,2.9,True,Baixo,Ruim,Parcial,Baixa,Boa,0.19511477339611535,False
+286,True,Feminino,13,5º ano,1739.41,N6,88.3,7.9,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,2.6,False,Alto,Boa,Completa,Alta,Regular,0.14434961742201294,False
+287,False,Feminino,14,1ª série EM,251.53,N3,73.3,3.6,False,True,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.2,False,Alto,Boa,Completa,Média,Boa,0.5475279576221307,True
+288,False,Feminino,21,6º ano,1517.49,N4,80.2,6.0,True,False,False,False,False,True,Médio,Regular,Alta,False,Média,False,1.8,False,Baixo,Regular,Completa,Baixa,Boa,0.411124190700412,False
+289,True,Masculino,20,9º ano,881.0,N4,87.4,6.9,False,False,False,False,False,False,Alto,Bom,Baixa,False,Média,False,1.9,False,Moderado,Boa,Completa,Média,Boa,0.1924661565626839,False
+290,True,Feminino,20,6º ano,733.26,N6,92.6,6.2,False,False,False,False,False,False,Baixo,Regular,Alta,False,Média,False,2.5,False,Alto,Regular,Completa,Média,Regular,0.20041200706297824,False
+291,True,Feminino,19,9º ano,997.27,N6,87.7,4.7,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,True,1.8,False,Moderado,Ruim,Completa,Alta,Regular,0.28825779870512064,False
+292,True,Masculino,15,2ª série EM,483.79,N5,84.1,4.5,False,True,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,0.3,False,Moderado,Boa,Completa,Média,Boa,0.4601236021188935,False
+293,False,Masculino,14,9º ano,990.53,N2,57.8,3.8,False,False,False,False,False,False,Baixo,Regular,Média,False,Alta,False,2.2,False,Moderado,Regular,Insuficiente,Média,Regular,0.4599764567392584,True
+294,True,Feminino,11,6º ano,1654.61,N1,97.4,5.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,4.9,False,Moderado,Boa,Completa,Média,Regular,0.19688051795173628,False
+295,False,Masculino,11,1ª série EM,1737.23,N5,83.7,8.1,False,False,False,False,False,True,Alto,Ruim,Alta,True,Média,False,2.0,False,Baixo,Boa,Completa,Média,Boa,0.15582695703354915,True
+296,False,Feminino,17,9º ano,1010.4,N7,66.7,6.0,False,False,False,False,False,False,Baixo,Bom,Alta,False,Média,False,3.5,False,Baixo,Regular,Parcial,Média,Regular,0.3235726898175397,False
+297,False,Masculino,13,2ª série EM,524.23,N5,56.7,6.7,False,False,False,False,False,False,Baixo,Regular,Média,False,Média,False,1.3,False,Alto,Regular,Parcial,Alta,Boa,0.33681577398469686,False
+298,True,Feminino,18,5º ano,360.76,N7,83.6,0.2,False,True,False,False,False,False,Baixo,Bom,Média,False,Média,False,2.6,True,Moderado,Boa,Parcial,Média,Boa,0.6521483225426722,False
+299,False,Outro,15,5º ano,351.66,N1,76.2,6.7,False,False,False,True,False,False,Alto,Regular,Alta,False,Alta,False,1.7,False,Moderado,Boa,Completa,Baixa,Regular,0.2507357268981754,True
+300,False,Feminino,18,6º ano,411.62,N5,80.7,7.3,False,False,False,False,False,False,Médio,Bom,Baixa,False,Média,False,2.7,False,Alto,Ruim,Completa,Média,Boa,0.20438493231312538,False
+301,False,Feminino,19,5º ano,888.27,N5,50.2,7.2,False,False,False,False,False,False,Médio,Bom,Média,False,Baixa,False,4.2,False,Moderado,Ruim,Completa,Média,Ruim,0.34343731606827543,False
+302,True,Masculino,22,2ª série EM,532.44,N3,50.2,8.6,True,False,True,False,False,False,Baixo,Bom,Alta,False,Alta,False,0.2,True,Alto,Regular,Parcial,Alta,Regular,0.4287816362566215,False
+303,False,Feminino,12,1ª série EM,404.68,N5,92.8,7.6,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.4,False,Moderado,Ruim,Completa,Média,Boa,0.1377280753384344,False
+304,False,Feminino,10,5º ano,607.31,N4,75.9,4.3,False,True,False,True,False,False,Baixo,Ruim,Baixa,False,Média,False,0.2,False,Moderado,Boa,Parcial,Média,Boa,0.5051500882872277,True
+305,True,Masculino,11,8º ano,900.97,N1,87.5,2.8,True,False,False,False,False,False,Alto,Ruim,Alta,True,Baixa,False,0.0,False,Moderado,Regular,Parcial,Média,Boa,0.5201589170100059,False
+306,True,Feminino,19,5º ano,667.0,N2,58.8,5.8,False,True,False,False,False,False,Alto,Regular,Alta,False,Baixa,False,1.2,True,Alto,Boa,Parcial,Média,Boa,0.5144202472042378,False
+307,True,Masculino,21,5º ano,1278.05,N5,68.8,8.0,False,False,True,False,False,False,Alto,Bom,Média,True,Alta,False,2.8,True,Baixo,Boa,Completa,Baixa,Regular,0.22601530311948206,False
+308,True,Masculino,17,8º ano,606.07,N7,78.4,6.8,False,True,False,False,False,False,Alto,Bom,Média,False,Média,False,1.5,False,Moderado,Boa,Completa,Alta,Boa,0.3837551500882873,False
+309,False,Feminino,15,6º ano,430.86,N3,90.4,7.6,True,True,False,False,False,False,Alto,Regular,Alta,False,Alta,True,2.9,False,Moderado,Regular,Completa,Alta,Regular,0.44261330194231896,False
+310,True,Feminino,13,8º ano,1242.25,N2,63.0,4.7,True,True,False,False,False,False,Alto,Regular,Baixa,False,Média,False,0.8,False,Alto,Regular,Completa,Média,Boa,0.6915832842848735,True
+311,True,Masculino,19,1ª série EM,530.95,N5,60.6,4.6,True,True,False,False,False,False,Médio,Bom,Alta,True,Baixa,False,2.2,False,Moderado,Boa,Parcial,Alta,Boa,0.7065921130076516,True
+312,False,Feminino,20,5º ano,1153.53,N7,56.0,7.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,3.2,False,Alto,Boa,Completa,Média,Regular,0.29134785167745736,True
+313,True,Masculino,11,3ª série EM,406.48,N6,71.8,4.7,True,False,False,False,False,False,Alto,Ruim,Média,False,Baixa,False,1.9,False,Moderado,Boa,Insuficiente,Alta,Boa,0.5055915244261331,False
+314,False,Masculino,19,5º ano,277.39,N1,52.5,5.0,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,3.4,False,Baixo,Regular,Completa,Alta,Regular,0.5775456150676869,False
+315,True,Masculino,14,6º ano,484.55,N1,76.4,6.0,False,True,False,False,False,False,Alto,Ruim,Alta,False,Baixa,False,1.0,False,Moderado,Boa,Insuficiente,Alta,Boa,0.427898763978811,False
+316,False,Masculino,10,5º ano,364.8,N2,73.1,5.0,False,False,False,False,False,False,Baixo,Bom,Média,True,Alta,True,0.8,False,Alto,Regular,Parcial,Alta,Boa,0.33946439081812835,True
+317,True,Masculino,12,7º ano,437.49,N5,73.3,7.7,True,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.6,False,Baixo,Regular,Parcial,Alta,Boa,0.366539140670983,False
+318,False,Masculino,11,7º ano,451.36,N7,55.2,3.4,False,False,True,False,False,False,Baixo,Bom,Média,False,Média,False,3.2,False,Moderado,Boa,Parcial,Média,Boa,0.4891112419070041,False
+319,False,Feminino,10,2ª série EM,864.59,N1,98.6,8.6,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.5,False,Moderado,Regular,Completa,Baixa,Ruim,0.06798116539140675,False
+320,False,Feminino,11,7º ano,640.68,N7,62.2,6.2,True,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,1.6,False,Baixo,Ruim,Completa,Média,Boa,0.48175397292525013,True
+321,True,Feminino,19,1ª série EM,968.08,N1,64.5,8.8,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,1.7,False,Alto,Regular,Completa,Média,Boa,0.20968216597998818,False
+322,True,Feminino,17,1ª série EM,1407.18,N2,73.4,4.4,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.1,True,Moderado,Regular,Parcial,Média,Ruim,0.5117716303708064,True
+323,False,Feminino,21,2ª série EM,429.09,N7,80.5,8.4,False,True,False,False,False,False,Médio,Bom,Baixa,True,Média,False,1.0,False,Alto,Boa,Completa,Alta,Ruim,0.3038552089464391,False
+324,True,Feminino,20,9º ano,572.62,N4,53.1,7.4,False,False,True,False,False,False,Alto,Ruim,Média,True,Alta,False,2.4,True,Alto,Regular,Completa,Alta,Boa,0.3218069452619188,True
+325,False,Masculino,15,1ª série EM,405.17,N2,54.7,5.2,True,False,False,True,False,False,Médio,Ruim,Média,False,Média,False,1.3,False,Alto,Ruim,Parcial,Baixa,Boa,0.5590052972336669,False
+326,True,Feminino,18,5º ano,1108.31,N5,70.4,8.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,0.6,False,Alto,Boa,Completa,Alta,Ruim,0.21895232489699823,False
+327,True,Masculino,22,6º ano,675.87,N5,84.2,8.1,False,True,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,2.3,False,Alto,Boa,Parcial,Média,Boa,0.3007651559741024,False
+328,True,Feminino,16,9º ano,651.69,N2,52.2,8.7,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.1,False,Alto,Ruim,Completa,Média,Boa,0.26839317245438493,False
+329,False,Feminino,13,6º ano,994.5,N5,74.4,7.0,False,False,True,False,False,False,Médio,Regular,Média,False,Alta,False,1.0,True,Alto,Regular,Completa,Alta,Regular,0.2454384932313125,False
+330,True,Masculino,19,3ª série EM,682.58,N1,72.9,7.7,True,False,False,False,False,False,Médio,Regular,Baixa,False,Alta,False,1.6,True,Alto,Regular,Parcial,Alta,Boa,0.3683048852266039,False
+331,True,Masculino,19,5º ano,677.01,N3,56.3,5.3,False,False,False,False,False,True,Alto,Regular,Alta,True,Média,False,3.4,True,Moderado,Ruim,Completa,Baixa,Boa,0.40038257798705124,True
+332,True,Masculino,17,5º ano,649.71,N6,65.3,5.1,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.3,False,Moderado,Ruim,Completa,Baixa,Ruim,0.3694820482636846,False
+333,True,Feminino,12,7º ano,769.33,N4,60.1,9.0,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,0.8,False,Moderado,Regular,Completa,Alta,Regular,0.22027663331371394,False
+334,False,Feminino,18,6º ano,666.95,N5,64.6,6.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.4,False,Alto,Boa,Completa,Média,Boa,0.3328428487345498,True
+335,False,Feminino,12,7º ano,1195.11,N7,90.6,6.2,False,False,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,3.5,False,Moderado,Boa,Parcial,Alta,Ruim,0.209240729841083,False
+336,True,Masculino,16,1ª série EM,811.54,N3,87.9,4.1,True,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.5,True,Baixo,Boa,Parcial,Alta,Boa,0.461006474396704,True
+337,False,Masculino,22,7º ano,544.95,N7,74.6,4.6,False,False,True,False,False,False,Baixo,Bom,Baixa,False,Alta,False,2.2,True,Alto,Regular,Completa,Média,Regular,0.3505002942907593,True
+338,True,Feminino,11,5º ano,989.24,N5,61.8,7.3,False,False,False,False,False,False,Médio,Bom,Alta,True,Média,False,1.8,False,Baixo,Boa,Parcial,Média,Regular,0.2878163625662154,True
+339,False,Feminino,12,1ª série EM,451.57,N1,99.3,2.8,False,False,False,False,False,False,Alto,Bom,Baixa,True,Baixa,False,0.3,True,Baixo,Regular,Completa,Baixa,Ruim,0.32092407298410836,False
+340,False,Masculino,20,8º ano,516.43,N4,53.6,7.8,True,False,False,True,False,False,Médio,Bom,Alta,False,Baixa,False,3.3,False,Baixo,Regular,Completa,Média,Boa,0.4490876986462626,True
+341,False,Feminino,10,1ª série EM,1129.79,N2,75.4,5.7,False,False,False,False,False,False,Baixo,Ruim,Baixa,True,Alta,False,2.1,False,Alto,Boa,Completa,Média,Boa,0.2984108298999411,False
+342,True,Feminino,13,5º ano,1553.38,N2,56.1,6.6,False,False,False,False,True,False,Médio,Bom,Baixa,False,Alta,False,1.6,False,Moderado,Boa,Parcial,Média,Boa,0.6381695114773396,True
+343,False,Feminino,10,1ª série EM,674.83,N1,53.7,8.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,0.1,False,Alto,Boa,Completa,Alta,Regular,0.292672160094173,False
+344,False,Masculino,17,5º ano,502.42,N3,62.2,5.3,False,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,1.2,False,Moderado,Regular,Insuficiente,Baixa,Regular,0.3743378457916421,False
+345,True,Masculino,22,6º ano,1054.17,N2,89.5,7.9,False,False,False,True,True,False,Médio,Bom,Alta,False,Alta,False,1.2,False,Baixo,Ruim,Completa,Baixa,Regular,0.433343143025309,True
+346,True,Feminino,14,2ª série EM,1513.52,N7,66.4,7.6,False,False,False,False,False,False,Baixo,Bom,Média,False,Média,False,1.7,False,Alto,Regular,Parcial,Baixa,Boa,0.2542672160094173,False
+347,False,Masculino,20,1ª série EM,793.4,N6,58.1,6.1,False,False,False,False,False,True,Baixo,Ruim,Média,False,Alta,False,1.0,False,Moderado,Ruim,Completa,Baixa,Boa,0.3571218363743378,True
+348,True,Masculino,18,9º ano,1110.01,N4,84.6,6.1,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,1.2,False,Alto,Boa,Parcial,Alta,Boa,0.2401412595644497,False
+349,False,Outro,12,5º ano,413.73,N3,78.9,10.0,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,2.6,False,Alto,Regular,Completa,Média,Regular,0.09314302530900527,False
+350,True,Masculino,15,1ª série EM,387.04,N1,96.0,4.9,False,False,False,False,False,False,Baixo,Ruim,Baixa,False,Alta,False,1.7,True,Moderado,Boa,Completa,Média,Regular,0.24278987639788113,True
+351,True,Masculino,19,3ª série EM,571.91,N5,97.4,8.4,True,False,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,2.9,True,Alto,Boa,Completa,Média,Ruim,0.2292525014714538,False
+352,True,Feminino,14,3ª série EM,1021.62,N4,98.4,6.7,False,False,False,False,False,False,Alto,Regular,Alta,False,Média,False,0.4,False,Alto,Ruim,Parcial,Alta,Boa,0.15273690406121246,True
+353,False,Masculino,13,2ª série EM,731.58,N4,80.9,6.3,False,False,False,False,False,False,Baixo,Ruim,Baixa,False,Alta,False,1.4,True,Moderado,Boa,Completa,Alta,Ruim,0.2476456739258387,False
+354,False,Feminino,22,3ª série EM,750.86,N7,90.0,8.2,True,False,False,False,False,False,Alto,Regular,Média,True,Alta,False,0.9,False,Moderado,Ruim,Completa,Alta,Boa,0.27074749852854624,True
+355,True,Feminino,11,3ª série EM,958.78,N3,72.5,6.8,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,2.9,False,Moderado,Boa,Completa,Baixa,Regular,0.26265450264861684,False
+356,True,Feminino,14,7º ano,1013.67,N5,61.2,9.1,False,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,2.4,False,Moderado,Boa,Parcial,Baixa,Boa,0.21100647439670392,False
+357,True,Masculino,16,3ª série EM,253.42,N5,84.7,8.0,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,2.2,False,Moderado,Regular,Completa,Média,Ruim,0.15582695703354915,False
+358,False,Feminino,14,2ª série EM,649.2,N7,88.6,6.3,True,False,True,False,False,False,Médio,Bom,Alta,False,Baixa,False,2.7,True,Alto,Regular,Completa,Alta,Regular,0.3608004708652149,False
+359,True,Feminino,13,6º ano,331.37,N6,79.5,6.7,False,False,False,False,False,False,Alto,Ruim,Média,False,Alta,False,2.8,False,Alto,Boa,Insuficiente,Média,Regular,0.2361683343143025,False
+360,False,Masculino,15,2ª série EM,756.86,N7,59.0,4.0,False,False,True,False,False,False,Baixo,Regular,Média,False,Alta,False,2.1,False,Moderado,Regular,Completa,Média,Boa,0.44585050029429074,False
+361,True,Masculino,13,7º ano,412.04,N3,69.4,8.9,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Média,False,1.7,False,Alto,Boa,Completa,Média,Boa,0.1836374337845791,False
+362,True,Masculino,20,8º ano,1290.5,N1,70.8,5.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,2.1,True,Alto,Regular,Completa,Alta,Ruim,0.3496174220129488,True
+363,True,Feminino,22,9º ano,895.55,N6,81.8,8.9,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Média,False,1.6,False,Moderado,Boa,Parcial,Média,Ruim,0.12889935256032958,False
+364,True,Masculino,21,6º ano,686.69,N1,59.3,6.5,False,False,False,False,False,False,Baixo,Regular,Baixa,True,Alta,False,1.4,False,Alto,Boa,Completa,Baixa,Ruim,0.33416715715126544,False
+365,True,Masculino,14,9º ano,823.24,N4,76.0,7.7,False,False,False,False,False,False,Médio,Ruim,Média,True,Baixa,True,3.3,True,Alto,Regular,Parcial,Média,Boa,0.20747498528546202,True
+366,False,Masculino,16,3ª série EM,638.74,N5,84.5,7.6,False,False,False,False,False,False,Baixo,Regular,Baixa,True,Alta,True,1.0,False,Moderado,Ruim,Parcial,Alta,Regular,0.17436727486756917,False
+367,False,Feminino,12,8º ano,248.92,N2,89.7,5.9,False,False,False,False,False,False,Baixo,Regular,Média,True,Média,True,0.4,False,Alto,Boa,Parcial,Baixa,Ruim,0.22645673925838727,False
+368,True,Feminino,19,6º ano,763.16,N6,53.4,6.5,False,False,False,False,True,False,Alto,Regular,Alta,False,Alta,False,1.5,False,Alto,Ruim,Completa,Alta,Boa,0.6545026486168335,True
+369,True,Feminino,18,3ª série EM,218.33,N7,91.6,4.7,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,1.4,True,Moderado,Boa,Completa,Alta,Regular,0.2710417892878164,True
+370,True,Masculino,18,9º ano,346.21,N5,78.7,6.1,False,True,False,False,False,False,Médio,Bom,Alta,False,Média,False,2.6,False,Alto,Boa,Completa,Média,Boa,0.4133313713949382,False
+371,True,Masculino,20,9º ano,1039.16,N2,79.5,5.6,False,False,False,False,False,False,Baixo,Ruim,Baixa,True,Alta,False,0.3,True,Baixo,Boa,Completa,Alta,Boa,0.2847263095938788,False
+372,False,Feminino,20,1ª série EM,435.43,N6,81.6,6.0,False,True,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,3.3,False,Moderado,Boa,Parcial,Alta,Ruim,0.4049440847557387,True
+373,False,Feminino,21,2ª série EM,798.41,N5,92.4,8.3,False,False,False,False,False,False,Baixo,Bom,Alta,True,Baixa,False,0.9,False,Baixo,Ruim,Parcial,Alta,Ruim,0.10859329017068858,True
+374,True,Masculino,22,9º ano,1031.3,N2,69.1,7.4,False,False,False,False,False,False,Alto,Bom,Média,False,Baixa,False,2.5,False,Alto,Regular,Completa,Média,Boa,0.25117716303708065,False
+375,True,Masculino,18,1ª série EM,444.95,N1,86.3,6.2,False,True,False,False,False,False,Alto,Bom,Alta,False,Baixa,False,4.6,False,Moderado,Boa,Completa,Baixa,Boa,0.3753678634490877,True
+376,True,Masculino,16,2ª série EM,881.12,N3,61.2,7.9,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,3.0,False,Alto,Boa,Parcial,Baixa,Boa,0.2639788110653325,True
+377,False,Feminino,15,2ª série EM,953.12,N7,97.8,6.5,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,0.4,True,Moderado,Boa,Completa,Alta,Boa,0.1642142436727487,False
+378,False,Masculino,13,6º ano,374.68,N5,62.3,3.7,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,2.3,True,Alto,Regular,Insuficiente,Média,Ruim,0.444526191877575,False
+379,True,Feminino,21,3ª série EM,795.72,N1,71.9,7.0,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.5,False,Baixo,Boa,Completa,Média,Boa,0.25647439670394345,False
+380,True,Feminino,19,9º ano,456.55,N5,72.3,7.7,True,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,1.5,False,Moderado,Boa,Parcial,Baixa,Ruim,0.3709535020600353,True
+381,True,Outro,11,5º ano,860.48,N3,99.7,5.7,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Média,False,0.7,False,Alto,Ruim,Completa,Alta,Ruim,0.1911418481459682,False
+382,False,Masculino,19,8º ano,1494.73,N3,70.0,4.1,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.0,True,Alto,Boa,Completa,Média,Regular,0.3928781636256622,False
+383,False,Masculino,12,6º ano,2455.48,N1,98.5,6.0,False,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,2.9,False,Baixo,Ruim,Completa,Alta,Ruim,0.18319599764567393,False
+384,False,Feminino,22,1ª série EM,897.39,N5,99.9,6.6,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.7,True,Baixo,Ruim,Completa,Alta,Boa,0.15052972336668627,False
+385,True,Feminino,16,5º ano,508.09,N3,86.3,8.7,False,False,True,False,False,False,Médio,Bom,Alta,True,Média,False,1.7,False,Alto,Regular,Completa,Média,Boa,0.11786344908769869,False
+386,False,Masculino,22,1ª série EM,1032.51,N4,99.5,7.3,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,3.3,True,Alto,Regular,Completa,Média,Boa,0.12139493819894057,False
+387,True,Masculino,21,7º ano,231.12,N1,60.2,5.4,False,False,False,False,False,False,Alto,Ruim,Alta,False,Baixa,True,2.1,False,Baixo,Boa,Insuficiente,Alta,Regular,0.37875220718069447,False
+388,False,Masculino,13,3ª série EM,410.96,N4,54.8,7.1,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,True,3.4,False,Moderado,Regular,Completa,Alta,Boa,0.3275456150676869,False
+389,False,Masculino,14,7º ano,479.7,N6,96.2,6.9,True,False,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,2.5,True,Alto,Boa,Completa,Média,Boa,0.30076515597410236,False
+390,False,Masculino,12,3ª série EM,998.76,N1,90.5,5.4,False,False,False,True,False,False,Alto,Bom,Média,True,Alta,False,2.6,False,Moderado,Ruim,Completa,Alta,Boa,0.24499705709240727,True
+391,False,Masculino,19,2ª série EM,529.38,N4,73.8,8.1,True,True,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.9,False,Alto,Boa,Completa,Alta,Ruim,0.49381989405532667,True
+392,True,Masculino,11,2ª série EM,701.57,N7,99.2,7.4,False,False,False,False,False,False,Baixo,Bom,Alta,True,Alta,False,2.6,False,Baixo,Regular,Insuficiente,Baixa,Ruim,0.11830488522660385,False
+393,True,Masculino,18,5º ano,1190.92,N5,68.1,8.1,False,False,False,True,False,False,Médio,Bom,Alta,False,Média,False,0.7,True,Baixo,Ruim,Insuficiente,Alta,Boa,0.22469099470276638,False
+394,False,Masculino,17,7º ano,1151.28,N7,82.1,5.3,True,True,False,False,False,False,Médio,Bom,Alta,True,Alta,False,1.8,False,Alto,Boa,Completa,Alta,Boa,0.5807828134196588,False
+395,False,Feminino,17,3ª série EM,651.89,N3,50.2,5.2,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Alta,False,1.4,False,Moderado,Boa,Completa,Baixa,Regular,0.43172454384932313,True
+396,True,Masculino,12,6º ano,679.16,N3,53.0,8.1,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Baixa,False,1.5,True,Alto,Ruim,Completa,Média,Boa,0.29134785167745736,True
+397,True,Feminino,14,2ª série EM,442.72,N6,75.5,7.5,False,False,False,True,False,False,Médio,Regular,Média,False,Baixa,True,3.6,False,Moderado,Boa,Insuficiente,Média,Boa,0.218510888758093,False
+398,True,Masculino,19,1ª série EM,410.09,N5,84.6,6.7,False,False,False,False,False,False,Médio,Bom,Média,True,Baixa,False,2.1,True,Alto,Boa,Completa,Média,Ruim,0.21365509123013537,False
+399,False,Masculino,20,6º ano,1697.19,N5,58.1,8.1,False,True,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,2.5,False,Baixo,Boa,Insuficiente,Alta,Regular,0.41597998822836957,True
+400,True,Masculino,11,9º ano,973.05,N5,64.9,5.3,False,False,False,False,False,False,Alto,Regular,Média,False,Média,False,1.2,False,Alto,Boa,Completa,Baixa,Ruim,0.3624190700412007,False
+401,True,Masculino,22,3ª série EM,428.95,N6,51.3,7.1,True,False,False,False,False,False,Baixo,Bom,Baixa,True,Alta,False,2.2,False,Moderado,Boa,Completa,Alta,Ruim,0.49014125956444976,False
+402,True,Feminino,18,5º ano,653.7,N1,62.0,6.1,False,True,False,False,False,False,Baixo,Bom,Baixa,False,Baixa,False,2.7,False,Moderado,Boa,Completa,Média,Regular,0.487051206592113,False
+403,False,Masculino,10,6º ano,881.2,N7,59.2,3.3,True,False,True,False,False,False,Alto,Bom,Média,True,Média,False,2.2,False,Moderado,Regular,Completa,Baixa,Boa,0.6230135373749265,True
+404,True,Feminino,21,3ª série EM,576.1,N5,95.6,4.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,3.2,False,Alto,Boa,Completa,Alta,Boa,0.24896998234255446,False
+405,False,Masculino,12,3ª série EM,474.36,N2,97.0,7.2,True,False,False,False,True,False,Alto,Bom,Alta,True,Alta,False,1.2,False,Moderado,Regular,Parcial,Alta,Ruim,0.5782813419658623,True
+406,False,Feminino,18,3ª série EM,590.81,N6,92.7,6.9,True,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,1.7,False,Alto,Ruim,Insuficiente,Média,Regular,0.31621542083578574,True
+407,False,Masculino,12,3ª série EM,809.01,N4,92.4,5.1,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,4.0,False,Alto,Regular,Parcial,Média,Regular,0.24985285462036494,True
+408,False,Masculino,16,1ª série EM,450.33,N5,79.0,4.8,False,False,False,True,False,False,Alto,Ruim,Média,True,Alta,False,1.1,True,Moderado,Boa,Parcial,Média,Regular,0.322248381400824,False
+409,True,Masculino,12,8º ano,552.7,N6,65.4,5.3,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,3.1,False,Moderado,Boa,Completa,Alta,Regular,0.36021188934667453,False
+410,False,Feminino,17,2ª série EM,507.62,N1,68.6,6.1,False,False,False,False,False,False,Médio,Bom,Alta,True,Alta,False,1.3,True,Baixo,Boa,Completa,Alta,Boa,0.3107710417892878,False
+411,True,Masculino,20,3ª série EM,528.02,N1,63.7,5.5,False,True,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,0.5,False,Moderado,Boa,Insuficiente,Alta,Boa,0.5060329605650382,False
+412,False,Feminino,12,3ª série EM,2018.06,N1,94.5,5.4,False,True,False,False,False,False,Médio,Ruim,Baixa,False,Média,False,2.1,True,Moderado,Regular,Completa,Baixa,Ruim,0.37448499117127715,False
+413,False,Feminino,22,9º ano,1387.55,N6,62.1,8.4,False,False,False,False,False,False,Alto,Regular,Alta,False,Baixa,False,1.7,False,Moderado,Ruim,Completa,Média,Ruim,0.23793407886992346,True
+414,False,Masculino,13,1ª série EM,1006.15,N1,84.3,5.3,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,2.1,False,Moderado,Ruim,Parcial,Baixa,Ruim,0.2767804590935845,True
+415,False,Masculino,21,5º ano,604.57,N3,51.4,5.5,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.9,False,Alto,Ruim,Completa,Alta,Regular,0.41318422601530314,False
+416,False,Masculino,18,2ª série EM,417.08,N6,50.4,7.1,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,False,0.1,False,Moderado,Boa,Completa,Alta,Boa,0.3469688051795174,True
+417,True,Masculino,21,7º ano,726.87,N6,69.0,6.8,False,False,False,True,False,False,Baixo,Bom,Alta,True,Alta,False,1.3,False,Alto,Ruim,Completa,Média,Ruim,0.27810476751030017,False
+418,False,Feminino,10,9º ano,757.55,N3,95.6,6.4,False,False,False,True,False,False,Médio,Bom,Baixa,False,Baixa,False,0.6,False,Moderado,Boa,Completa,Alta,Boa,0.17834020011771634,False
+419,True,Masculino,13,9º ano,604.44,N6,54.1,8.3,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.6,True,Baixo,Boa,Parcial,Média,Boa,0.27766333137139493,False
+420,False,Masculino,13,9º ano,1122.06,N2,68.6,5.2,False,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,3.2,False,Alto,Regular,Completa,Baixa,Ruim,0.3505002942907593,True
+421,True,Feminino,22,6º ano,841.7,N1,70.4,6.5,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,1.3,False,Moderado,Boa,Parcial,Baixa,Regular,0.285167745732784,True
+422,True,Feminino,11,3ª série EM,426.53,N6,89.9,7.4,False,False,True,False,False,False,Médio,Regular,Alta,False,Média,False,1.3,False,Alto,Ruim,Parcial,Média,Regular,0.159358446144791,False
+423,False,Masculino,18,6º ano,590.66,N4,99.6,7.9,True,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,True,1.8,False,Moderado,Ruim,Completa,Alta,Boa,0.2416127133608005,False
+424,True,Masculino,18,9º ano,720.24,N5,75.5,5.3,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.3,False,Baixo,Boa,Completa,Média,Boa,0.3156268393172455,False
+425,True,Feminino,17,6º ano,280.8,N7,54.3,7.0,False,False,False,True,False,False,Alto,Regular,Média,False,Média,False,1.4,False,Moderado,Regular,Parcial,Alta,Ruim,0.33416715715126544,True
+426,True,Masculino,14,8º ano,701.36,N4,81.2,9.4,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,4.4,False,Moderado,Regular,Parcial,Baixa,Regular,0.10947616244849909,False
+427,True,Masculino,13,3ª série EM,456.99,N4,77.1,7.8,True,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,True,2.1,False,Baixo,Boa,Completa,Baixa,Ruim,0.3453502060035315,False
+428,True,Masculino,13,3ª série EM,509.83,N3,93.7,6.4,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,False,1.3,False,Alto,Ruim,Parcial,Alta,Regular,0.1867274867569158,False
+429,False,Masculino,20,6º ano,1493.11,N2,63.7,8.6,False,False,False,False,False,False,Alto,Regular,Baixa,False,Média,False,1.0,False,Alto,Regular,Completa,Alta,Boa,0.22204237786933492,True
+430,False,Masculino,13,2ª série EM,389.43,N4,82.6,10.0,False,False,False,True,False,False,Alto,Bom,Baixa,False,Média,False,1.4,False,Alto,Regular,Completa,Alta,Boa,0.0768098881695115,False
+431,False,Masculino,14,9º ano,415.64,N5,79.8,8.3,True,False,False,False,True,False,Baixo,Bom,Baixa,True,Média,False,1.3,False,Alto,Regular,Completa,Média,Regular,0.605650382577987,True
+432,True,Masculino,13,8º ano,984.94,N5,84.0,7.8,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,0.0,True,Baixo,Boa,Completa,Alta,Regular,0.1677457327839906,False
+433,True,Masculino,22,3ª série EM,540.36,N2,71.1,5.7,False,False,True,False,False,False,Médio,Ruim,Baixa,False,Alta,False,2.9,False,Alto,Boa,Completa,Alta,Boa,0.3173925838728664,True
+434,True,Feminino,14,7º ano,337.92,N4,50.1,4.0,False,False,False,False,False,True,Alto,Ruim,Alta,True,Média,False,1.0,True,Moderado,Boa,Completa,Alta,Boa,0.48513831665685697,False
+435,True,Masculino,15,7º ano,865.55,N4,57.8,5.1,True,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.8,False,Moderado,Ruim,Parcial,Alta,Boa,0.549735138316657,False
+436,False,Masculino,20,2ª série EM,1446.4,N4,67.0,7.4,False,True,False,False,False,False,Alto,Bom,Alta,False,Baixa,False,2.3,False,Moderado,Boa,Completa,Alta,Regular,0.40759270158917016,True
+437,True,Feminino,12,3ª série EM,585.38,N4,80.5,6.3,True,False,False,False,False,False,Médio,Bom,Média,False,Média,False,1.8,False,Moderado,Regular,Parcial,Média,Boa,0.3965567981165391,False
+438,True,Feminino,14,1ª série EM,619.61,N3,81.7,7.0,False,True,False,False,False,False,Médio,Bom,Baixa,False,Baixa,True,1.1,False,Alto,Regular,Completa,Alta,Ruim,0.3603590347263096,False
+439,True,Feminino,11,3ª série EM,347.18,N7,61.7,7.8,True,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.3,False,Moderado,Regular,Completa,Baixa,Boa,0.4133313713949382,False
+440,False,Feminino,16,8º ano,1156.35,N1,63.8,6.0,False,False,False,True,False,False,Baixo,Regular,Alta,False,Média,False,2.9,True,Moderado,Ruim,Completa,Alta,Ruim,0.3363743378457917,False
+441,True,Masculino,17,1ª série EM,876.43,N6,79.8,8.3,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,1.6,True,Baixo,Boa,Completa,Média,Ruim,0.16421424367274864,False
+442,True,Masculino,16,3ª série EM,339.86,N7,87.4,2.9,False,False,False,False,False,False,Médio,Bom,Alta,True,Alta,False,2.9,True,Alto,Ruim,Completa,Média,Ruim,0.36904061212477923,False
+443,False,Feminino,10,8º ano,479.83,N4,58.9,6.9,False,False,False,False,False,False,Baixo,Bom,Alta,True,Alta,True,0.4,False,Alto,Boa,Completa,Alta,Regular,0.31827545615067687,False
+444,True,Feminino,18,9º ano,532.25,N4,80.2,6.8,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.5,False,Alto,Regular,Completa,Alta,Boa,0.37580929958799286,False
+445,False,Masculino,21,6º ano,725.57,N1,57.7,7.3,False,False,False,False,False,False,Médio,Bom,Alta,True,Média,False,3.1,True,Moderado,Regular,Completa,Média,Boa,0.30591524426133015,False
+446,False,Masculino,21,2ª série EM,375.34,N2,88.1,8.1,True,False,False,False,True,False,Médio,Ruim,Média,False,Alta,False,3.2,False,Baixo,Boa,Completa,Baixa,Regular,0.5778399058269571,True
+447,True,Feminino,10,6º ano,502.59,N1,53.1,6.1,True,False,False,True,False,False,Baixo,Bom,Baixa,True,Baixa,False,4.1,False,Moderado,Regular,Completa,Alta,Regular,0.5263390229546793,True
+448,True,Feminino,17,1ª série EM,524.5,N3,60.5,7.1,False,False,False,False,False,False,Médio,Ruim,Alta,False,Média,False,2.7,False,Moderado,Boa,Completa,Baixa,Ruim,0.3023837551500883,False
+449,False,Feminino,12,7º ano,1347.63,N7,64.5,5.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.6,True,Alto,Ruim,Completa,Alta,Regular,0.3774278987639788,True
+450,False,Masculino,13,6º ano,826.54,N3,57.9,6.0,False,False,False,False,False,False,Médio,Bom,Alta,True,Baixa,False,2.4,False,Alto,Regular,Completa,Média,Boa,0.3624190700412007,False
+451,False,Masculino,11,7º ano,279.01,N4,78.3,6.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.7,True,Baixo,Regular,Parcial,Baixa,Boa,0.2723660977045321,False
+452,False,Feminino,22,9º ano,505.56,N1,81.1,6.5,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.6,False,Moderado,Boa,Completa,Média,Ruim,0.23793407886992352,True
+453,True,Masculino,21,2ª série EM,1133.85,N3,92.8,6.2,False,False,True,False,False,False,Médio,Bom,Média,True,Alta,False,1.3,True,Baixo,Boa,Completa,Média,Boa,0.19952913478516776,False
+454,True,Feminino,14,8º ano,1775.92,N3,52.0,4.3,False,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,1.4,False,Baixo,Regular,Completa,Média,Regular,0.4635079458505003,False
+455,False,Masculino,21,1ª série EM,804.72,N3,56.6,6.7,False,False,False,False,False,True,Médio,Ruim,Baixa,False,Baixa,False,4.1,False,Moderado,Ruim,Insuficiente,Alta,Regular,0.33725721012360205,True
+456,False,Feminino,20,9º ano,453.49,N7,73.2,9.7,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Média,False,2.3,False,Baixo,Ruim,Completa,Média,Ruim,0.13154796939376104,False
+457,False,Masculino,11,6º ano,749.38,N2,95.7,7.2,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,2.7,False,Moderado,Regular,Completa,Média,Regular,0.142583872866392,False
+458,True,Feminino,21,7º ano,606.9,N7,89.2,8.5,False,False,True,False,False,False,Baixo,Ruim,Alta,False,Alta,True,2.4,False,Moderado,Regular,Parcial,Alta,Boa,0.1138905238375515,False
+459,False,Feminino,17,2ª série EM,937.11,N5,88.1,7.5,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,True,2.9,False,Alto,Boa,Completa,Alta,Boa,0.31003531489111247,False
+460,True,Masculino,18,3ª série EM,554.25,N1,98.1,5.3,False,False,False,False,False,True,Alto,Regular,Média,False,Alta,False,1.5,False,Alto,Ruim,Completa,Média,Boa,0.21586227192466162,False
+461,False,Outro,17,7º ano,596.7,N4,55.0,8.9,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,2.5,False,Baixo,Boa,Completa,Alta,Regular,0.24720423778693348,True
+462,True,Masculino,15,7º ano,1043.32,N7,79.7,6.9,False,False,False,False,False,False,Baixo,Bom,Média,True,Alta,False,1.9,False,Baixo,Ruim,Completa,Baixa,Boa,0.22645673925838727,False
+463,False,Feminino,10,7º ano,1258.53,N3,61.2,7.3,False,False,True,False,False,False,Médio,Bom,Alta,False,Alta,False,3.4,False,Alto,Regular,Parcial,Alta,Ruim,0.2904649793996468,False
+464,True,Masculino,15,9º ano,701.97,N3,99.6,6.1,False,False,False,True,False,True,Alto,Bom,Média,False,Média,False,3.5,False,Alto,Ruim,Completa,Baixa,Boa,0.17392583872866393,False
+465,True,Feminino,22,7º ano,457.45,N7,80.4,6.8,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.5,False,Moderado,Regular,Completa,Alta,Boa,0.227781047675103,False
+466,False,Feminino,19,6º ano,360.62,N7,80.6,7.7,True,False,False,False,False,False,Baixo,Ruim,Baixa,True,Alta,False,1.4,False,Moderado,Ruim,Insuficiente,Média,Boa,0.33431430253090055,True
+467,False,Feminino,19,7º ano,752.19,N4,65.9,5.8,False,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,1.6,False,Alto,Boa,Parcial,Média,Boa,0.33593290170688644,True
+468,False,Masculino,10,2ª série EM,504.43,N4,80.2,6.5,False,False,True,True,False,False,Médio,Ruim,Baixa,False,Média,False,1.2,False,Moderado,Regular,Completa,Alta,Regular,0.24190700412007063,True
+469,True,Feminino,17,2ª série EM,348.68,N4,53.8,6.1,True,False,True,False,False,False,Médio,Bom,Alta,False,Alta,False,0.5,False,Baixo,Regular,Completa,Baixa,Boa,0.5232489699823426,True
+470,True,Feminino,20,3ª série EM,921.13,N7,76.1,8.2,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.0,False,Alto,Ruim,Completa,Média,Boa,0.18496174220129494,False
+471,False,Masculino,15,3ª série EM,543.22,N3,87.9,5.5,False,True,False,False,False,False,Alto,Regular,Baixa,False,Média,True,2.0,True,Moderado,Boa,Parcial,Média,Boa,0.3992054149499706,False
+472,False,Feminino,22,2ª série EM,408.61,N2,97.4,4.4,False,False,False,False,False,False,Médio,Regular,Média,True,Média,False,1.3,False,Alto,Ruim,Completa,Média,Boa,0.25868157739846964,False
+473,True,Masculino,20,8º ano,1332.13,N3,58.7,7.3,False,False,False,False,False,False,Baixo,Regular,Alta,True,Baixa,False,1.9,False,Moderado,Regular,Parcial,Alta,Boa,0.3015008828722778,False
+474,True,Masculino,11,9º ano,526.43,N7,53.3,7.6,False,False,True,False,False,False,Alto,Ruim,Alta,True,Baixa,False,0.7,False,Alto,Regular,Completa,Baixa,Ruim,0.31209535020600354,True
+475,False,Masculino,19,7º ano,465.19,N4,94.7,5.2,True,False,False,False,False,False,Baixo,Regular,Média,False,Baixa,False,2.3,False,Alto,Ruim,Parcial,Alta,Boa,0.38243084167157154,False
+476,False,Masculino,10,8º ano,382.18,N4,86.9,5.0,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,2.6,False,Alto,Boa,Completa,Baixa,Boa,0.27854620364920535,False
+477,True,Masculino,22,5º ano,387.19,N4,88.4,4.4,False,False,False,False,False,False,Alto,Ruim,Baixa,True,Alta,False,2.2,False,Alto,Regular,Parcial,Baixa,Ruim,0.29841082989994105,False
+478,True,Masculino,15,1ª série EM,952.2,N3,81.0,7.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.6,False,Moderado,Ruim,Completa,Baixa,Regular,0.19864626250735726,False
+479,False,Masculino,18,9º ano,296.92,N5,97.0,3.8,False,False,False,False,False,False,Alto,Regular,Alta,False,Baixa,False,3.2,False,Moderado,Ruim,Completa,Média,Regular,0.286933490288405,True
+480,True,Feminino,21,7º ano,509.22,N4,65.6,8.6,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,0.6,False,Moderado,Ruim,Completa,Média,Regular,0.21365509123013546,False
+481,True,Feminino,12,3ª série EM,592.79,N1,73.1,8.1,False,False,False,False,False,False,Baixo,Bom,Média,False,Média,False,2.6,False,Moderado,Boa,Completa,Alta,Regular,0.20261918775750448,False
+482,True,Feminino,12,8º ano,600.78,N5,83.3,6.7,False,False,False,False,True,False,Alto,Regular,Alta,False,Média,False,2.3,True,Moderado,Ruim,Completa,Alta,Regular,0.5136845203060625,True
+483,False,Masculino,13,7º ano,632.15,N1,62.4,9.4,True,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,3.2,False,Moderado,Boa,Completa,Alta,Boa,0.33961153619776335,False
+484,False,Masculino,15,5º ano,159.5,N2,86.3,5.3,False,True,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.3,False,Moderado,Boa,Completa,Média,Ruim,0.4150971159505592,False
+485,False,Feminino,12,6º ano,1494.96,N6,72.2,7.3,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,False,1.3,False,Alto,Boa,Completa,Baixa,Regular,0.24190700412007063,False
+486,False,Feminino,14,2ª série EM,325.43,N1,73.0,5.0,False,False,False,False,False,False,Alto,Bom,Média,True,Média,False,0.5,False,Alto,Regular,Completa,Alta,Boa,0.33990582695703353,False
+487,True,Feminino,15,3ª série EM,710.22,N7,79.3,4.3,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,1.5,False,Moderado,Regular,Completa,Alta,Ruim,0.34299587992937025,True
+488,False,Feminino,14,8º ano,1051.03,N4,67.2,5.4,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,0.5,False,Moderado,Boa,Completa,Alta,Ruim,0.3478516774573278,False
+489,True,Masculino,16,8º ano,451.94,N7,80.5,5.4,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,1.5,False,Moderado,Ruim,Parcial,Média,Ruim,0.2891406709829311,False
+490,False,Masculino,15,6º ano,803.89,N6,97.0,5.9,True,True,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.4,False,Alto,Regular,Completa,Média,Regular,0.48852266038846376,False
+491,False,Masculino,10,5º ano,215.74,N3,71.6,5.6,False,False,False,False,False,False,Médio,Regular,Média,False,Alta,True,3.1,False,Moderado,Ruim,Completa,Alta,Regular,0.3195997645673926,True
+492,True,Feminino,17,3ª série EM,460.28,N7,93.6,7.7,True,False,False,False,False,False,Médio,Ruim,Média,False,Média,False,1.0,True,Alto,Ruim,Parcial,Alta,Boa,0.27692760447321957,False
+493,False,Feminino,19,8º ano,1768.52,N5,56.9,6.8,False,True,False,False,False,False,Alto,Ruim,Média,True,Baixa,False,0.8,False,Moderado,Boa,Parcial,Baixa,Regular,0.4786639199529135,False
+494,True,Masculino,19,3ª série EM,647.18,N1,86.6,7.1,True,True,False,False,False,False,Alto,Regular,Baixa,True,Média,False,1.9,False,Baixo,Boa,Completa,Alta,Regular,0.48145968216598006,True
+495,True,Masculino,18,7º ano,1070.2,N1,50.6,7.6,False,False,False,False,True,False,Alto,Bom,Baixa,False,Alta,False,2.2,False,Baixo,Boa,Parcial,Alta,Ruim,0.6183048852266039,True
+496,False,Masculino,20,2ª série EM,600.81,N6,72.2,6.5,False,False,False,True,True,False,Baixo,Regular,Alta,True,Baixa,False,2.7,True,Alto,Boa,Completa,Média,Ruim,0.5715126545026485,False
+497,True,Feminino,12,3ª série EM,1313.18,N4,74.3,6.3,False,False,True,False,False,False,Baixo,Bom,Alta,False,Média,False,1.4,False,Moderado,Boa,Completa,Média,Regular,0.27678045909358445,False
+498,False,Masculino,10,6º ano,1141.36,N1,80.1,7.1,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,1.8,False,Moderado,Boa,Parcial,Média,Ruim,0.21586227192466162,True
+499,False,Feminino,12,1ª série EM,949.88,N2,70.8,5.4,True,False,False,False,True,False,Médio,Bom,Baixa,False,Baixa,False,3.8,False,Alto,Regular,Insuficiente,Média,Boa,0.7733961153619777,True
+500,True,Masculino,17,2ª série EM,444.28,N3,51.4,7.3,False,False,False,False,True,False,Baixo,Ruim,Média,False,Baixa,True,0.6,True,Baixo,Ruim,Parcial,Média,Boa,0.6280164802825192,True
+501,False,Masculino,15,6º ano,505.12,N5,80.2,7.4,True,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.2,False,Baixo,Regular,Completa,Alta,Boa,0.3493231312536786,False
+502,True,Masculino,19,7º ano,1025.86,N6,81.0,6.2,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,1.7,False,Alto,Regular,Insuficiente,Alta,Boa,0.25161859917598584,False
+503,True,Feminino,18,8º ano,1151.89,N6,50.5,7.1,True,False,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,1.4,True,Alto,Boa,Completa,Baixa,Boa,0.4936727486756916,True
+504,False,Masculino,21,7º ano,319.28,N2,85.7,4.3,False,False,True,False,False,False,Baixo,Ruim,Baixa,False,Baixa,True,2.3,False,Baixo,Boa,Completa,Baixa,Boa,0.31474396703943497,False
+505,False,Masculino,21,8º ano,1250.55,N5,98.1,7.8,True,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,3.5,False,Moderado,Regular,Parcial,Alta,Boa,0.2526486168334315,False
+506,False,Masculino,20,9º ano,551.22,N7,58.5,8.3,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.9,True,Alto,Boa,Completa,Média,Boa,0.2582401412595644,False
+507,True,Feminino,14,8º ano,901.71,N2,61.4,5.0,False,True,False,False,False,False,Baixo,Bom,Baixa,False,Média,False,1.9,True,Moderado,Boa,Parcial,Média,Regular,0.5382577987051207,True
+508,True,Masculino,21,5º ano,769.95,N7,57.6,5.4,False,False,False,False,False,False,Alto,Regular,Média,False,Média,False,2.4,False,Alto,Ruim,Completa,Alta,Ruim,0.3902295467922307,True
+509,False,Masculino,20,5º ano,1156.89,N2,99.9,9.0,True,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,True,1.0,False,Alto,Boa,Parcial,Alta,Boa,0.19173042966450854,False
+510,False,Masculino,12,5º ano,451.82,N3,91.4,4.2,False,False,False,True,False,False,Alto,Regular,Baixa,False,Alta,False,2.0,False,Moderado,Regular,Completa,Alta,Regular,0.29399646851088873,False
+511,True,Feminino,22,7º ano,301.17,N3,96.5,3.8,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.0,False,Alto,Boa,Completa,Alta,Boa,0.28914067098293117,True
+512,True,Masculino,10,1ª série EM,823.54,N1,54.8,7.4,False,False,False,False,False,False,Baixo,Bom,Alta,False,Média,False,2.0,False,Moderado,Boa,Completa,Média,Regular,0.31430253090052973,False
+513,False,Outro,16,8º ano,862.07,N1,54.7,5.5,False,False,False,False,False,False,Alto,Bom,Alta,False,Baixa,False,1.7,False,Moderado,Regular,Parcial,Baixa,Boa,0.3986168334314303,True
+514,True,Masculino,21,2ª série EM,705.83,N1,93.6,5.9,False,False,False,False,False,False,Alto,Ruim,Baixa,True,Alta,False,2.1,False,Alto,Boa,Completa,Alta,Ruim,0.209240729841083,False
+515,True,Feminino,12,1ª série EM,980.07,N6,91.0,7.2,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,1.3,False,Alto,Boa,Insuficiente,Alta,Boa,0.1633313713949382,True
+516,True,Masculino,13,9º ano,394.0,N4,94.1,8.7,False,False,False,False,False,False,Alto,Bom,Alta,True,Alta,False,1.8,False,Alto,Boa,Completa,Baixa,Boa,0.08343143025309009,False
+517,False,Feminino,19,1ª série EM,483.64,N3,59.8,7.3,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.2,False,Moderado,Regular,Insuficiente,Alta,Regular,0.4437904649793996,True
+518,False,Feminino,22,2ª série EM,478.72,N2,61.2,6.4,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,3.4,False,Moderado,Regular,Parcial,Média,Boa,0.3301942319011183,True
+519,False,Feminino,11,1ª série EM,1280.44,N1,97.8,5.3,False,False,False,False,False,False,Médio,Ruim,Baixa,False,Baixa,False,1.8,False,Alto,Regular,Completa,Alta,Boa,0.2171865803413773,False
+520,False,Masculino,21,3ª série EM,397.5,N4,89.3,6.6,False,False,False,True,False,False,Baixo,Regular,Alta,False,Alta,False,2.2,True,Moderado,Regular,Completa,Média,Ruim,0.19732195409064154,False
+521,True,Masculino,20,2ª série EM,519.25,N4,82.1,7.8,True,False,False,False,False,False,Médio,Bom,Baixa,True,Alta,False,2.5,False,Alto,Boa,Completa,Alta,Boa,0.3232783990582696,False
+522,True,Outro,17,3ª série EM,785.62,N4,57.6,7.7,False,False,False,False,True,False,Médio,Bom,Baixa,True,Alta,True,2.0,False,Baixo,Regular,Parcial,Baixa,Ruim,0.5829899941141848,True
+523,True,Feminino,22,6º ano,1537.38,N6,95.2,5.9,False,True,False,False,False,False,Alto,Regular,Alta,True,Alta,False,0.4,False,Moderado,Ruim,Completa,Alta,Ruim,0.3493231312536786,True
+524,False,Masculino,12,3ª série EM,611.85,N2,55.1,6.1,False,False,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,1.9,False,Moderado,Regular,Completa,Média,Boa,0.370364920541495,True
+525,False,Masculino,20,8º ano,603.51,N1,53.6,4.3,False,True,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,1.0,False,Moderado,Boa,Completa,Alta,Ruim,0.603590347263096,True
+526,False,Masculino,10,5º ano,934.93,N6,82.4,6.5,True,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,0.6,False,Alto,Regular,Completa,Alta,Boa,0.3793407886992348,False
+527,False,Feminino,14,3ª série EM,629.83,N2,54.9,10.2,True,False,False,True,False,False,Alto,Regular,Alta,False,Alta,False,1.2,False,Alto,Regular,Completa,Alta,Regular,0.3374043555032373,True
+528,True,Feminino,12,8º ano,340.45,N3,58.7,6.1,False,False,False,False,False,True,Alto,Ruim,Alta,True,Média,False,2.1,False,Moderado,Ruim,Completa,Baixa,Boa,0.3544732195409064,True
+529,False,Feminino,11,9º ano,849.27,N7,64.3,6.8,False,True,False,False,False,False,Baixo,Bom,Média,True,Alta,False,2.1,True,Alto,Boa,Completa,Média,Regular,0.4459976456739259,True
+530,True,Masculino,22,5º ano,601.91,N1,90.6,4.6,False,False,False,False,False,False,Baixo,Regular,Média,True,Alta,False,1.2,False,Baixo,Regular,Parcial,Baixa,Regular,0.2798705120659212,False
+531,False,Feminino,18,5º ano,743.61,N2,62.9,8.3,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,0.0,False,Moderado,Ruim,Insuficiente,Baixa,Boa,0.23881695114773394,False
+532,True,Masculino,14,7º ano,457.38,N7,78.7,8.3,False,False,False,False,False,True,Baixo,Bom,Alta,False,Alta,True,1.7,False,Moderado,Boa,Completa,Média,Regular,0.16907004120070623,True
+533,True,Masculino,21,8º ano,430.05,N6,76.1,5.5,False,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,1.3,True,Alto,Boa,Completa,Média,Boa,0.30414949970570926,False
+534,True,Masculino,20,3ª série EM,485.43,N3,70.7,6.0,False,True,True,False,False,False,Alto,Ruim,Média,False,Alta,False,3.1,False,Moderado,Boa,Parcial,Média,Boa,0.4530606238964096,True
+535,True,Feminino,19,8º ano,503.81,N4,81.3,5.5,True,False,False,False,False,False,Médio,Bom,Alta,False,Média,True,1.1,False,Alto,Regular,Parcial,Baixa,Boa,0.42834020011771634,False
+536,False,Masculino,11,7º ano,258.75,N7,85.9,9.4,False,False,False,True,False,False,Médio,Ruim,Baixa,True,Média,False,2.6,False,Alto,Regular,Parcial,Baixa,Boa,0.08872866391995286,False
+537,True,Feminino,13,7º ano,983.55,N2,90.0,9.7,False,True,False,False,False,False,Médio,Bom,Média,True,Alta,False,3.2,False,Moderado,Boa,Completa,Média,Boa,0.20453207769276047,False
+538,True,Masculino,20,6º ano,850.86,N4,95.3,9.7,False,False,False,False,False,False,Baixo,Bom,Baixa,True,Média,False,2.8,False,Alto,Boa,Parcial,Baixa,Boa,0.0339905826957034,False
+539,True,Masculino,13,8º ano,675.4,N6,92.8,5.6,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,1.1,False,Moderado,Boa,Completa,Média,Boa,0.22601530311948206,False
+540,True,Masculino,11,1ª série EM,498.1,N6,97.2,6.9,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,1.9,False,Moderado,Regular,Parcial,Alta,Boa,0.14920541494997053,False
+541,False,Feminino,14,3ª série EM,247.42,N6,75.7,8.9,False,False,False,False,False,False,Médio,Ruim,Média,False,Baixa,False,2.3,False,Moderado,Boa,Completa,Baixa,Boa,0.15582695703354912,False
+542,False,Outro,15,2ª série EM,408.44,N7,70.2,5.0,False,False,True,False,True,False,Médio,Bom,Média,False,Média,False,2.8,True,Baixo,Regular,Parcial,Alta,Regular,0.6465567981165392,False
+543,True,Feminino,11,6º ano,677.54,N4,87.1,6.5,False,False,True,False,False,False,Médio,Bom,Média,False,Baixa,False,1.1,False,Moderado,Boa,Completa,Média,Ruim,0.2114479105356092,True
+544,True,Feminino,21,2ª série EM,501.23,N2,82.5,5.2,False,False,False,False,False,False,Alto,Bom,Alta,True,Alta,False,4.2,False,Baixo,Boa,Parcial,Baixa,Ruim,0.2891406709829311,False
+545,True,Feminino,15,2ª série EM,475.98,N7,70.1,10.9,True,False,False,False,True,False,Médio,Ruim,Média,True,Alta,False,1.4,False,Alto,Boa,Parcial,Média,Regular,0.5336962919364332,True
+546,True,Feminino,21,7º ano,680.03,N2,57.9,7.7,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Média,False,3.6,False,Baixo,Regular,Parcial,Média,Boa,0.28737492642731016,False
+547,False,Masculino,16,2ª série EM,704.38,N5,93.7,6.1,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,0.1,False,Alto,Boa,Completa,Alta,Regular,0.19997057092407297,False
+548,False,Feminino,15,2ª série EM,1240.01,N5,83.7,4.4,False,False,False,True,False,True,Baixo,Regular,Média,False,Média,False,2.9,True,Alto,Regular,Completa,Alta,Ruim,0.31915832842848735,False
+549,False,Masculino,15,6º ano,445.98,N2,75.0,6.5,False,False,False,False,False,False,Alto,Regular,Alta,False,Média,False,3.0,False,Moderado,Boa,Parcial,Alta,Regular,0.26486168334314303,False
+550,True,Feminino,13,3ª série EM,455.96,N5,97.3,6.6,False,True,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,0.6,True,Baixo,Boa,Completa,Alta,Boa,0.30915244261330194,True
+551,True,Feminino,21,7º ano,703.42,N1,69.1,6.4,True,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.0,False,Alto,Boa,Completa,Alta,Regular,0.5896115361977635,True
+552,False,Feminino,18,2ª série EM,452.53,N1,82.4,6.4,False,False,False,False,True,False,Médio,Ruim,Média,False,Baixa,False,0.4,False,Alto,Regular,Completa,Baixa,Boa,0.5309005297233668,True
+553,True,Masculino,17,9º ano,369.84,N2,79.3,5.4,True,False,False,False,False,False,Médio,Bom,Alta,True,Alta,False,1.4,True,Alto,Boa,Completa,Média,Regular,0.44158328428487353,False
+554,False,Feminino,21,8º ano,617.28,N2,72.6,7.0,False,False,False,False,False,False,Alto,Regular,Alta,True,Baixa,False,2.9,False,Moderado,Boa,Completa,Alta,Boa,0.25338434373160684,False
+555,False,Feminino,17,6º ano,1303.31,N3,90.9,9.2,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.8,False,Moderado,Regular,Completa,Alta,Boa,0.22263095938787522,False
+556,True,Feminino,21,3ª série EM,591.99,N6,77.3,5.6,False,True,False,False,False,False,Médio,Regular,Média,False,Baixa,False,3.0,False,Moderado,Boa,Parcial,Baixa,Ruim,0.44158328428487353,False
+557,False,Feminino,12,9º ano,459.43,N5,66.4,5.9,False,False,True,False,False,False,Alto,Bom,Baixa,False,Média,False,1.9,False,Moderado,Boa,Parcial,Baixa,Boa,0.3293113596233078,False
+558,True,Masculino,13,7º ano,658.87,N6,51.7,6.5,False,False,False,False,False,False,Alto,Ruim,Alta,False,Média,False,1.3,True,Alto,Boa,Parcial,Baixa,Boa,0.3677163037080636,True
+559,False,Masculino,21,3ª série EM,708.59,N2,75.6,8.3,True,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.4,False,Moderado,Regular,Completa,Alta,Regular,0.3298999411418482,True
+560,False,Feminino,15,5º ano,636.2,N5,61.9,5.4,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,True,3.0,False,Moderado,Boa,Parcial,Média,Boa,0.3712477928193054,True
+561,False,Feminino,15,2ª série EM,632.21,N5,94.6,5.1,True,False,False,False,False,False,Médio,Bom,Média,False,Média,False,1.2,False,Moderado,Boa,Completa,Média,Regular,0.3872866391995292,True
+562,True,Feminino,15,6º ano,767.87,N3,95.9,8.0,True,False,False,False,True,False,Baixo,Bom,Média,True,Alta,False,1.1,False,Moderado,Boa,Completa,Baixa,Boa,0.5478222483814008,False
+563,True,Feminino,19,6º ano,699.36,N2,61.1,7.0,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.6,False,Moderado,Regular,Insuficiente,Alta,Boa,0.30414949970570926,False
+564,False,Feminino,16,9º ano,521.65,N5,86.9,8.3,False,False,False,True,False,False,Alto,Bom,Alta,False,Alta,False,1.8,True,Baixo,Boa,Completa,Baixa,Ruim,0.1328722778104767,False
+565,True,Feminino,16,7º ano,1093.77,N7,76.0,4.9,False,False,False,False,False,False,Alto,Ruim,Alta,False,Baixa,False,4.0,False,Alto,Boa,Parcial,Alta,Boa,0.33107710417892877,True
+566,False,Masculino,12,2ª série EM,655.03,N2,85.6,9.4,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,False,1.4,False,Alto,Boa,Completa,Alta,Ruim,0.09005297233666863,True
+567,True,Masculino,21,2ª série EM,1130.89,N7,87.0,7.2,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,1.7,True,Baixo,Regular,Completa,Média,Ruim,0.18098881695114774,False
+568,True,Feminino,20,1ª série EM,633.74,N5,98.3,7.6,False,False,True,False,False,False,Alto,Regular,Alta,False,Alta,False,0.8,False,Alto,Boa,Completa,Alta,Boa,0.11344908769864628,False
+569,False,Masculino,18,8º ano,348.24,N5,56.4,7.0,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.8,False,Alto,Regular,Completa,Baixa,Regular,0.32489699823425544,False
+570,False,Outro,21,3ª série EM,806.41,N2,63.2,5.1,False,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,4.2,False,Baixo,Regular,Parcial,Média,Boa,0.3787522071806946,False
+571,False,Masculino,10,6º ano,712.15,N4,84.6,6.0,False,False,False,False,False,False,Alto,Bom,Média,False,Alta,False,1.5,False,Baixo,Ruim,Completa,Baixa,Boa,0.24455562095350208,False
+572,True,Masculino,22,3ª série EM,438.3,N3,94.0,2.8,False,False,True,True,False,False,Médio,Ruim,Baixa,False,Baixa,True,3.3,False,Alto,Boa,Completa,Alta,Regular,0.3443201883460859,True
+573,True,Masculino,21,9º ano,1557.54,N6,70.6,8.4,False,False,False,True,False,False,Alto,Ruim,Média,False,Alta,False,0.8,False,Moderado,Ruim,Completa,Média,Regular,0.20041200706297824,True
+574,True,Masculino,14,8º ano,1846.27,N1,86.6,6.1,True,False,False,False,False,False,Médio,Bom,Média,False,Baixa,True,0.3,False,Alto,Ruim,Parcial,Baixa,Regular,0.37845791642142435,False
+575,False,Feminino,14,7º ano,3406.07,N6,55.6,6.0,False,False,False,False,False,False,Médio,Ruim,Média,True,Média,False,0.1,True,Baixo,Regular,Parcial,Baixa,Boa,0.3725721012360212,False
+576,False,Masculino,22,1ª série EM,342.01,N2,81.9,6.3,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,2.6,True,Alto,Boa,Completa,Alta,Ruim,0.24323131253678631,False
+577,True,Masculino,21,9º ano,531.56,N1,69.4,5.6,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,3.4,True,Moderado,Regular,Parcial,Média,Boa,0.3293113596233078,False
+578,False,Feminino,20,9º ano,1043.56,N1,92.9,7.5,False,False,True,False,True,False,Baixo,Regular,Baixa,True,Alta,False,1.6,False,Alto,Boa,Parcial,Alta,Ruim,0.43599175985874045,False
+579,False,Masculino,19,1ª série EM,1000.58,N1,55.8,6.9,False,False,False,False,False,False,Médio,Ruim,Média,True,Alta,False,1.6,False,Moderado,Boa,Completa,Média,Boa,0.3319599764567392,False
+580,True,Masculino,13,3ª série EM,324.39,N5,72.8,6.5,True,False,True,False,True,False,Alto,Bom,Alta,False,Baixa,False,0.8,False,Baixo,Boa,Parcial,Alta,Boa,0.7160094173042967,True
+581,True,Feminino,22,3ª série EM,714.38,N1,70.4,5.5,False,False,False,False,False,False,Baixo,Bom,Alta,True,Média,False,1.7,False,Baixo,Regular,Completa,Baixa,Boa,0.3293113596233078,False
+582,True,Masculino,16,9º ano,1332.77,N5,57.1,6.8,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,3.2,False,Alto,Ruim,Parcial,Alta,Boa,0.33063566804002353,False
+583,False,Feminino,20,1ª série EM,524.74,N1,76.8,7.7,False,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,2.9,False,Baixo,Boa,Completa,Alta,Boa,0.20394349617422014,False
+584,False,Masculino,21,9º ano,594.77,N2,57.5,5.8,False,False,False,False,False,False,Alto,Regular,Baixa,False,Baixa,False,3.5,False,Moderado,Boa,Parcial,Alta,Regular,0.37301353737492643,False
+585,True,Feminino,17,3ª série EM,1058.2,N5,94.5,7.3,True,False,True,True,True,False,Alto,Regular,Alta,True,Alta,False,2.0,False,Moderado,Ruim,Parcial,Média,Boa,0.5849028840494409,True
+586,False,Feminino,13,6º ano,1748.43,N7,84.8,5.8,False,False,False,False,False,False,Médio,Regular,Baixa,True,Alta,False,1.8,True,Alto,Boa,Completa,Média,Ruim,0.25250147145379637,False
+587,True,Masculino,18,2ª série EM,715.61,N7,73.5,8.5,False,True,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,1.3,False,Alto,Regular,Completa,Média,Regular,0.3303413772807534,False
+588,False,Masculino,13,3ª série EM,978.0,N5,59.6,7.0,True,False,False,False,False,False,Médio,Bom,Baixa,False,Média,False,1.3,False,Moderado,Boa,Parcial,Média,Regular,0.45791642142436734,False
+589,True,Masculino,13,1ª série EM,483.82,N4,92.0,3.8,False,False,False,False,False,False,Médio,Ruim,Alta,False,Média,False,0.4,False,Baixo,Regular,Parcial,Alta,Boa,0.3090052972336669,False
+590,False,Feminino,21,5º ano,1258.15,N4,67.0,5.0,True,False,True,False,False,False,Alto,Bom,Alta,False,Média,False,2.7,False,Moderado,Boa,Insuficiente,Baixa,Ruim,0.5135373749264273,False
+591,True,Feminino,20,7º ano,485.95,N4,58.7,4.3,False,False,False,False,False,False,Baixo,Regular,Média,True,Alta,False,2.9,True,Moderado,Boa,Insuficiente,Baixa,Regular,0.4339317245438493,False
+592,True,Masculino,21,1ª série EM,1280.95,N7,92.6,7.2,False,False,False,False,False,False,Médio,Regular,Média,False,Baixa,False,1.1,False,Alto,Regular,Parcial,Média,Regular,0.1562683931724544,False
+593,True,Feminino,16,7º ano,1133.48,N4,53.6,4.6,False,False,False,False,False,False,Alto,Bom,Baixa,False,Média,True,1.5,True,Moderado,Boa,Completa,Baixa,Boa,0.44320188346085937,False
+594,True,Feminino,18,7º ano,335.35,N7,78.8,8.2,False,False,True,False,False,False,Médio,Bom,Média,False,Alta,False,2.2,True,Baixo,Boa,Parcial,Baixa,Ruim,0.17304296645085349,False
+595,True,Feminino,10,6º ano,1092.49,N7,81.7,4.6,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,True,0.3,False,Alto,Regular,Completa,Média,Regular,0.46630370806356675,False
+596,True,Masculino,11,6º ano,736.1,N7,74.5,5.8,True,False,False,False,False,False,Alto,Regular,Média,False,Baixa,False,3.5,False,Moderado,Boa,Completa,Média,Ruim,0.4451147733961154,True
+597,True,Masculino,18,8º ano,473.46,N1,90.0,6.3,False,False,True,False,False,False,Médio,Ruim,Alta,False,Média,True,1.7,False,Moderado,Regular,Insuficiente,Alta,Regular,0.20747498528546207,True
+598,False,Outro,12,9º ano,704.64,N5,95.0,6.5,True,True,True,False,True,False,Médio,Bom,Alta,False,Média,False,0.7,False,Moderado,Boa,Completa,Alta,Boa,0.7651559741024132,True
+599,False,Masculino,13,1ª série EM,594.87,N6,77.4,6.6,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,3.1,False,Moderado,Boa,Parcial,Baixa,Ruim,0.24985285462036494,True
+600,True,Feminino,21,7º ano,678.88,N4,53.8,7.9,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,0.7,False,Alto,Regular,Completa,Alta,Boa,0.2966450853443202,False
+601,False,Feminino,13,6º ano,562.38,N5,96.3,7.4,True,False,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,1.8,False,Baixo,Regular,Insuficiente,Alta,Boa,0.2782519128899352,False
+602,False,Feminino,20,9º ano,1368.97,N2,69.1,7.4,False,False,False,False,False,False,Alto,Regular,Baixa,False,Baixa,False,2.6,False,Baixo,Boa,Parcial,Média,Boa,0.25117716303708065,False
+603,False,Masculino,20,1ª série EM,618.3,N5,84.0,6.0,False,False,False,False,False,False,Alto,Bom,Média,False,Baixa,False,1.4,False,Moderado,Boa,Completa,Média,Ruim,0.24720423778693348,True
+604,True,Masculino,18,6º ano,539.96,N1,62.6,4.2,False,False,False,False,False,False,Médio,Ruim,Alta,True,Média,False,1.0,True,Alto,Ruim,Parcial,Média,Boa,0.4211300765155974,False
+605,False,Feminino,13,6º ano,728.43,N5,99.0,6.6,False,False,False,True,False,True,Alto,Ruim,Alta,False,Alta,False,1.0,False,Baixo,Ruim,Parcial,Média,Boa,0.15450264861683344,False
+606,False,Masculino,13,3ª série EM,832.17,N4,81.3,6.2,False,False,False,False,False,False,Médio,Ruim,Média,False,Baixa,False,1.5,False,Alto,Regular,Completa,Baixa,Boa,0.2502942907592702,False
+607,True,Feminino,11,7º ano,833.27,N7,96.2,4.5,True,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,0.5,False,Moderado,Boa,Completa,Alta,Regular,0.4067098293113596,False
+608,False,Feminino,13,8º ano,373.81,N5,79.2,6.7,False,False,True,False,False,False,Alto,Bom,Baixa,True,Média,False,1.5,False,Alto,Boa,Completa,Alta,Boa,0.23749264273101822,False
+609,True,Feminino,13,8º ano,476.42,N7,91.8,5.5,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,False,2.8,False,Alto,Ruim,Parcial,Média,Regular,0.23484402589758685,False
+610,False,Feminino,18,7º ano,676.0,N7,76.5,4.5,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,2.0,True,Moderado,Boa,Insuficiente,Média,Boa,0.3465273690406121,False
+611,True,Feminino,15,3ª série EM,1433.19,N3,80.2,7.0,True,False,True,False,False,False,Alto,Regular,Baixa,False,Alta,False,0.9,False,Moderado,Boa,Completa,Alta,Boa,0.36698057680988816,False
+612,False,Feminino,13,6º ano,647.66,N1,94.2,8.6,True,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,3.0,False,Moderado,Boa,Completa,Alta,Ruim,0.23454973513831665,True
+613,False,Masculino,16,3ª série EM,507.05,N2,93.2,8.2,False,False,False,False,False,False,Alto,Regular,Alta,False,Baixa,True,2.2,False,Moderado,Boa,Completa,Média,Regular,0.10947616244849913,False
+614,False,Masculino,12,8º ano,429.51,N2,71.4,5.5,False,False,False,True,False,False,Alto,Regular,Alta,False,Alta,False,1.6,False,Alto,Ruim,Completa,Média,Ruim,0.32489699823425544,False
+615,True,Feminino,21,8º ano,393.17,N7,96.3,7.5,False,False,False,False,False,False,Alto,Regular,Média,True,Alta,False,1.5,False,Moderado,Boa,Completa,Alta,Ruim,0.12669217186580342,False
+616,True,Feminino,22,3ª série EM,423.83,N6,52.4,8.5,False,False,False,False,False,False,Baixo,Ruim,Baixa,True,Baixa,False,2.7,True,Moderado,Boa,Parcial,Média,Boa,0.27633902295467927,False
+617,True,Feminino,19,9º ano,533.47,N3,79.5,5.3,False,True,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.7,False,Moderado,Boa,Completa,Média,Regular,0.4451147733961154,False
+618,True,Masculino,15,8º ano,556.43,N2,57.4,10.4,True,True,False,False,False,False,Médio,Regular,Média,False,Média,False,0.2,False,Moderado,Regular,Parcial,Alta,Regular,0.4646851088875809,True
+619,True,Masculino,20,3ª série EM,526.31,N3,77.4,8.7,False,False,False,False,False,False,Médio,Bom,Média,True,Média,False,1.3,False,Alto,Boa,Completa,Média,Boa,0.15715126545026487,False
+620,False,Masculino,18,2ª série EM,1708.62,N5,82.4,7.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.6,False,Baixo,Regular,Completa,Alta,Regular,0.21012360211889344,True
+621,False,Masculino,12,6º ano,581.81,N7,75.1,6.7,False,False,False,False,False,False,Médio,Ruim,Média,False,Média,False,1.2,False,Alto,Boa,Completa,Baixa,Regular,0.25559152442613303,False
+622,False,Feminino,17,5º ano,312.3,N4,66.2,8.9,False,False,False,False,False,False,Alto,Bom,Baixa,True,Alta,False,1.8,True,Alto,Regular,Completa,Baixa,Regular,0.19776339022954675,True
+623,True,Masculino,12,6º ano,568.57,N5,78.3,7.9,False,True,True,True,False,False,Baixo,Ruim,Alta,True,Média,False,1.6,True,Alto,Ruim,Completa,Baixa,Boa,0.33563861094761627,False
+624,False,Masculino,18,9º ano,644.75,N1,90.0,4.5,False,False,False,False,False,False,Alto,Ruim,Baixa,True,Média,False,1.5,False,Alto,Ruim,Completa,Média,Regular,0.286933490288405,False
+625,False,Feminino,11,5º ano,1185.79,N6,76.4,5.8,True,False,False,False,False,False,Alto,Ruim,Baixa,False,Baixa,False,1.1,True,Alto,Boa,Completa,Alta,Regular,0.43672748675691575,True
+626,False,Masculino,19,1ª série EM,265.3,N1,61.8,3.6,False,False,True,False,False,False,Médio,Ruim,Média,False,Média,False,0.6,False,Baixo,Boa,Parcial,Alta,Boa,0.4511477339611536,True
+627,False,Masculino,22,8º ano,624.86,N5,93.6,6.5,False,False,False,False,False,False,Baixo,Regular,Média,False,Alta,False,1.3,False,Moderado,Regular,Completa,Alta,Boa,0.1827545615067687,False
+628,True,Feminino,17,2ª série EM,262.31,N4,69.5,6.5,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,0.6,False,Baixo,Ruim,Parcial,Baixa,Regular,0.28914067098293117,True
+629,False,Feminino,22,8º ano,756.46,N5,51.1,8.6,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,1.5,False,Moderado,Boa,Completa,Alta,Boa,0.27766333137139493,True
+630,False,Masculino,15,1ª série EM,244.24,N6,59.2,6.3,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,0.9,False,Alto,Regular,Completa,Alta,Boa,0.34343731606827543,True
+631,False,Masculino,20,7º ano,1017.84,N4,85.4,7.0,True,True,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.3,False,Moderado,Boa,Completa,Média,Regular,0.49117127722189524,False
+632,False,Masculino,22,5º ano,131.87,N6,53.1,6.2,False,True,False,False,False,False,Médio,Bom,Baixa,False,Baixa,False,0.6,True,Alto,Boa,Parcial,Alta,Boa,0.5219246615656269,True
+633,False,Masculino,20,6º ano,909.94,N4,65.7,8.8,False,False,False,False,False,True,Médio,Bom,Média,False,Média,False,2.9,False,Moderado,Boa,Parcial,Alta,Regular,0.20438493231312532,False
+634,True,Feminino,16,9º ano,1030.97,N1,96.4,7.1,False,False,False,False,False,False,Baixo,Ruim,Média,False,Alta,False,2.3,False,Moderado,Boa,Completa,Alta,Ruim,0.1439081812831077,False
+635,False,Feminino,18,8º ano,937.6,N7,98.5,9.6,False,False,True,True,False,False,Alto,Bom,Média,True,Alta,False,1.3,True,Alto,Ruim,Completa,Alta,Boa,0.024278987639788127,False
+636,True,Masculino,19,9º ano,1356.25,N1,61.1,8.8,False,True,False,False,False,False,Alto,Bom,Baixa,False,Baixa,False,2.1,False,Alto,Regular,Completa,Alta,Boa,0.3718363743378458,False
+637,True,Feminino,12,3ª série EM,846.2,N1,63.1,6.1,False,False,True,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.2,False,Moderado,Boa,Completa,Baixa,Boa,0.3350500294290759,True
+638,False,Feminino,19,7º ano,1686.15,N2,55.7,5.3,False,True,False,False,False,False,Alto,Ruim,Alta,False,Média,False,3.6,False,Baixo,Boa,Completa,Baixa,Boa,0.5501765744555621,True
+639,False,Feminino,17,1ª série EM,630.79,N3,74.3,6.7,False,True,False,False,False,False,Alto,Bom,Média,False,Média,False,1.2,True,Moderado,Boa,Parcial,Alta,Regular,0.4062683931724544,False
+640,True,Feminino,20,9º ano,366.13,N3,64.6,7.6,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,False,2.0,True,Moderado,Regular,Completa,Média,Boa,0.26221306650971166,False
+641,True,Feminino,11,2ª série EM,874.71,N1,60.0,4.5,False,True,True,False,False,False,Baixo,Ruim,Média,False,Média,False,0.6,False,Moderado,Boa,Parcial,Alta,Boa,0.5665097115950559,False
+642,False,Feminino,11,9º ano,339.47,N3,69.4,5.7,False,True,False,False,False,False,Alto,Ruim,Média,True,Média,False,3.9,False,Baixo,Boa,Completa,Alta,Regular,0.4720423778693349,False
+643,False,Feminino,19,6º ano,1120.6,N6,74.7,6.1,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,2.5,False,Moderado,Regular,Insuficiente,Alta,Ruim,0.2838434373160682,False
+644,True,Masculino,20,2ª série EM,483.36,N2,75.4,7.8,False,False,False,True,False,False,Alto,Regular,Alta,False,Alta,False,3.7,False,Alto,Boa,Completa,Alta,Boa,0.20570924072984106,False
+645,True,Feminino,21,9º ano,379.67,N5,97.8,5.0,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,0.6,False,Alto,Boa,Parcial,Alta,Boa,0.23042966450853447,False
+646,False,Feminino,21,7º ano,670.85,N5,77.6,6.1,False,False,False,False,False,False,Baixo,Regular,Baixa,True,Média,False,2.6,False,Baixo,Ruim,Parcial,Alta,Boa,0.27104178928781636,False
+647,False,Masculino,15,6º ano,503.08,N3,76.9,5.4,False,False,False,False,True,False,Médio,Regular,Baixa,True,Baixa,False,0.4,False,Alto,Regular,Completa,Média,Boa,0.5993231312536786,True
+648,True,Feminino,22,1ª série EM,611.09,N4,56.6,7.6,False,False,False,False,False,False,Alto,Ruim,Média,False,Baixa,False,1.6,False,Alto,Boa,Parcial,Média,Ruim,0.29752795762213063,False
+649,True,Masculino,16,6º ano,899.14,N7,90.6,4.6,False,False,False,False,False,False,Alto,Regular,Baixa,True,Alta,False,2.9,False,Moderado,Boa,Insuficiente,Média,Boa,0.2798705120659212,False
+650,False,Feminino,20,7º ano,505.8,N4,61.0,4.0,False,False,False,False,False,False,Médio,Bom,Baixa,True,Média,False,1.4,False,Alto,Boa,Completa,Média,Boa,0.437021777516186,False
+651,True,Masculino,15,2ª série EM,514.55,N6,85.5,4.9,True,False,False,False,False,False,Médio,Bom,Baixa,False,Baixa,False,2.0,False,Baixo,Boa,Completa,Alta,Regular,0.43628605061801057,True
+652,True,Feminino,17,6º ano,437.38,N7,85.5,7.0,False,True,True,False,False,False,Alto,Regular,Média,False,Média,False,1.8,False,Moderado,Regular,Parcial,Média,Boa,0.34358446144791055,True
+653,False,Masculino,12,2ª série EM,253.66,N7,67.0,7.1,True,False,False,False,False,True,Baixo,Bom,Média,False,Baixa,False,1.9,True,Moderado,Ruim,Completa,Alta,Boa,0.4208357857563273,False
+654,True,Feminino,12,2ª série EM,911.4,N7,76.5,5.4,False,False,False,False,False,False,Médio,Bom,Alta,True,Baixa,False,1.9,False,Alto,Boa,Completa,Baixa,Ruim,0.30679811653914063,False
+655,False,Masculino,13,2ª série EM,466.76,N3,67.6,7.0,True,True,False,False,False,False,Alto,Bom,Média,True,Alta,False,0.2,False,Alto,Regular,Parcial,Baixa,Boa,0.5697469099470277,True
+656,False,Masculino,12,1ª série EM,864.64,N1,75.2,5.6,False,False,False,True,False,False,Baixo,Regular,Alta,False,Baixa,False,4.2,False,Moderado,Ruim,Completa,Média,Ruim,0.303708063566804,False
+657,True,Feminino,21,6º ano,1707.41,N1,59.2,7.9,True,True,False,False,False,False,Alto,Regular,Alta,True,Média,False,3.7,False,Alto,Regular,Completa,Média,Boa,0.5670982931135962,False
+658,True,Masculino,14,7º ano,666.9,N7,99.0,7.7,True,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,1.0,False,Moderado,Regular,Completa,Alta,Ruim,0.25309005297233667,True
+659,False,Feminino,22,6º ano,1503.48,N5,92.1,6.5,True,True,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,2.2,False,Moderado,Boa,Insuficiente,Alta,Boa,0.4836668628605062,False
+660,False,Masculino,17,3ª série EM,531.86,N1,73.7,7.4,False,False,True,True,False,False,Alto,Bom,Baixa,False,Alta,False,2.3,False,Moderado,Boa,Completa,Alta,Regular,0.23087110064743965,False
+661,False,Feminino,14,8º ano,516.31,N7,69.4,6.3,False,False,True,False,False,False,Médio,Bom,Alta,False,Alta,False,3.3,True,Alto,Regular,Completa,Alta,Boa,0.2984108298999411,False
+662,True,Feminino,12,7º ano,1108.38,N4,64.2,7.4,False,False,False,False,False,True,Alto,Bom,Média,False,Baixa,False,2.4,True,Alto,Boa,Parcial,Média,Boa,0.2728075338434373,True
+663,True,Feminino,13,5º ano,520.78,N4,64.2,6.5,False,False,False,False,False,False,Baixo,Bom,Média,False,Alta,False,2.2,False,Alto,Boa,Completa,Média,Boa,0.3125367863449087,False
+664,False,Masculino,17,3ª série EM,513.58,N1,84.9,6.5,False,True,True,False,False,False,Médio,Bom,Média,False,Alta,False,2.3,True,Baixo,Boa,Parcial,Baixa,Boa,0.3683048852266039,True
+665,True,Feminino,19,6º ano,914.01,N7,70.6,4.5,False,False,False,False,False,False,Médio,Bom,Média,True,Média,False,1.2,False,Baixo,Ruim,Insuficiente,Média,Ruim,0.37257210123602125,True
+666,False,Feminino,16,9º ano,894.39,N1,52.5,4.1,True,False,False,False,False,False,Baixo,Regular,Alta,False,Média,False,1.6,False,Moderado,Boa,Insuficiente,Média,Regular,0.6172748675691583,True
+667,True,Masculino,22,1ª série EM,1085.3,N7,82.7,6.5,False,False,False,False,False,False,Alto,Regular,Alta,True,Baixa,False,0.5,False,Baixo,Ruim,Parcial,Alta,Regular,0.23087110064743965,False
+668,True,Feminino,17,7º ano,716.31,N1,64.8,8.0,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,2.1,False,Baixo,Boa,Completa,Média,Boa,0.24367274867569164,False
+669,False,Feminino,14,3ª série EM,551.33,N3,53.3,5.3,False,False,True,False,False,False,Alto,Bom,Alta,False,Média,False,1.5,False,Moderado,Regular,Parcial,Alta,Boa,0.4136256621542084,True
+670,False,Feminino,18,9º ano,639.73,N1,56.9,5.7,False,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,2.9,False,Alto,Boa,Parcial,Alta,Regular,0.38007651559741024,False
+671,True,Masculino,21,3ª série EM,685.63,N2,82.1,3.3,False,False,False,False,False,False,Alto,Regular,Alta,True,Média,False,1.6,False,Moderado,Regular,Completa,Alta,Regular,0.37477928193054744,True
+672,True,Masculino,12,8º ano,668.72,N2,70.2,5.2,False,True,False,False,True,False,Alto,Bom,Alta,True,Média,False,2.1,False,Moderado,Regular,Parcial,Alta,Regular,0.784873454973514,False
+673,True,Feminino,19,7º ano,369.33,N4,85.2,6.2,False,True,False,False,False,False,Alto,Bom,Média,False,Alta,False,4.1,True,Moderado,Boa,Parcial,Média,Regular,0.3802236609770453,True
+674,True,Feminino,19,1ª série EM,267.35,N2,66.0,5.7,False,False,False,False,False,False,Baixo,Ruim,Baixa,False,Média,False,2.5,False,Baixo,Boa,Completa,Média,Boa,0.3399058269570336,False
+675,True,Masculino,18,7º ano,1430.73,N1,59.0,8.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.4,False,Alto,Regular,Completa,Média,Boa,0.2692760447321954,True
+676,True,Feminino,14,8º ano,222.96,N7,50.0,6.8,False,False,True,False,False,False,Baixo,Bom,Alta,False,Média,False,2.0,False,Moderado,Regular,Parcial,Média,Boa,0.3619776339022955,False
+677,False,Masculino,13,6º ano,475.84,N6,84.2,4.8,False,False,False,False,False,True,Alto,Ruim,Média,True,Média,False,2.7,False,Moderado,Boa,Completa,Baixa,Regular,0.29929370217775164,False
+678,True,Feminino,17,1ª série EM,655.38,N4,67.2,5.1,False,True,False,False,False,False,Alto,Regular,Baixa,True,Média,False,1.6,False,Alto,Regular,Completa,Baixa,Regular,0.5082401412595645,False
+679,False,Masculino,17,7º ano,443.39,N1,94.8,6.2,False,True,False,False,False,False,Médio,Bom,Baixa,True,Baixa,False,1.6,False,Baixo,Boa,Completa,Alta,Ruim,0.33784579164214246,False
+680,False,Feminino,19,7º ano,282.79,N1,52.5,6.4,False,False,False,True,False,False,Baixo,Ruim,Baixa,False,Média,False,2.7,True,Alto,Boa,Completa,Baixa,Regular,0.36859917598587405,False
+681,False,Masculino,18,5º ano,743.01,N1,67.1,4.9,False,False,False,False,False,False,Alto,Regular,Baixa,True,Alta,False,1.1,True,Alto,Boa,Parcial,Baixa,Ruim,0.37036492054149506,False
+682,True,Feminino,19,3ª série EM,1192.22,N2,93.8,4.9,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,0.9,False,Alto,Regular,Completa,Alta,Boa,0.25250147145379637,False
+683,False,Feminino,13,1ª série EM,319.91,N2,94.1,6.5,False,False,True,False,False,False,Baixo,Regular,Alta,True,Baixa,False,0.7,False,Alto,Boa,Parcial,Alta,Regular,0.18054738081224253,False
+684,False,Feminino,19,2ª série EM,923.53,N1,67.9,3.8,False,False,False,False,True,False,Baixo,Bom,Média,False,Média,False,3.0,False,Alto,Regular,Insuficiente,Alta,Boa,0.7096821659799882,True
+685,True,Feminino,21,8º ano,757.69,N6,90.9,5.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.4,False,Alto,Boa,Parcial,Média,Regular,0.24323131253678631,False
+686,False,Feminino,20,3ª série EM,727.69,N3,67.3,4.2,False,False,False,False,False,True,Alto,Ruim,Alta,False,Média,False,1.0,False,Alto,Boa,Completa,Alta,Ruim,0.40038257798705124,False
+687,True,Masculino,10,3ª série EM,769.1,N7,72.8,3.4,True,True,False,False,True,False,Médio,Bom,Média,False,Alta,False,1.7,False,Alto,Boa,Completa,Média,Boa,1.0,True
+688,True,Feminino,17,2ª série EM,1128.15,N4,59.6,7.3,False,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,0.8,False,Alto,Regular,Parcial,Alta,Ruim,0.29752795762213063,True
+689,True,Feminino,20,5º ano,640.1,N3,90.0,6.6,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.2,True,Alto,Ruim,Parcial,Alta,Boa,0.1942319011183049,False
+690,False,Feminino,12,6º ano,249.27,N1,69.0,7.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,3.5,False,Alto,Boa,Parcial,Alta,Regular,0.23396115361977635,False
+691,True,Masculino,16,2ª série EM,507.83,N4,86.4,5.9,True,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,3.6,False,Alto,Boa,Insuficiente,Alta,Boa,0.3881695114773396,False
+692,False,Masculino,17,8º ano,611.13,N2,89.7,5.1,False,False,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,2.4,False,Baixo,Ruim,Completa,Média,Boa,0.26177163037080636,True
+693,True,Masculino,13,3ª série EM,917.1,N6,81.4,5.9,True,False,True,True,False,False,Médio,Bom,Média,False,Média,False,2.0,True,Alto,Boa,Completa,Alta,Boa,0.4102413184226015,True
+694,True,Feminino,13,7º ano,430.17,N5,73.6,4.1,False,False,False,False,False,True,Baixo,Bom,Baixa,False,Baixa,False,2.0,False,Moderado,Boa,Completa,Alta,Boa,0.3769864626250736,False
+695,False,Masculino,16,6º ano,719.65,N4,80.8,7.2,False,False,True,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.8,False,Moderado,Boa,Parcial,Alta,Regular,0.20835785756327252,True
+696,False,Feminino,12,9º ano,691.46,N1,67.2,5.0,False,False,False,True,False,False,Baixo,Ruim,Média,False,Alta,False,1.1,False,Moderado,Regular,Completa,Média,Ruim,0.3655091230135374,False
+697,False,Feminino,12,9º ano,2104.1,N1,91.4,7.7,False,False,False,False,False,False,Alto,Ruim,Média,True,Alta,False,2.8,False,Moderado,Boa,Completa,Média,Regular,0.1394938198940553,True
+698,True,Feminino,16,9º ano,485.8,N2,66.8,7.7,False,False,False,False,False,False,Médio,Ruim,Baixa,False,Alta,False,0.4,False,Baixo,Ruim,Parcial,Alta,Ruim,0.24808711006474396,False
+699,True,Feminino,12,3ª série EM,1507.49,N5,50.5,6.7,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,0.8,False,Moderado,Boa,Parcial,Média,Boa,0.36418481459682167,False
+700,True,Feminino,19,9º ano,410.42,N7,83.0,2.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.8,False,Baixo,Regular,Completa,Média,Ruim,0.3928781636256622,False
+701,True,Masculino,12,6º ano,353.31,N7,63.5,5.8,False,False,False,True,False,False,Médio,Ruim,Média,False,Baixa,False,1.7,False,Alto,Boa,Completa,Alta,Boa,0.3465273690406121,True
+702,True,Masculino,14,5º ano,404.57,N7,71.2,5.5,True,True,True,False,False,False,Baixo,Bom,Alta,False,Média,False,2.3,True,Moderado,Boa,Completa,Baixa,Boa,0.6200706297822248,True
+703,False,Masculino,13,9º ano,871.81,N4,68.7,7.2,False,True,True,False,False,False,Alto,Bom,Baixa,True,Alta,False,3.4,False,Alto,Regular,Parcial,Alta,Boa,0.4089170100058858,False
+704,True,Masculino,15,3ª série EM,652.74,N2,54.8,6.4,False,False,False,False,False,False,Médio,Bom,Alta,True,Alta,False,1.3,True,Alto,Ruim,Completa,Alta,Regular,0.3584461447910535,True
+705,False,Masculino,14,6º ano,583.7,N5,69.0,6.4,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,False,3.8,False,Baixo,Regular,Completa,Baixa,Boa,0.29576221306650974,True
+706,True,Outro,12,3ª série EM,497.07,N3,60.8,4.1,False,False,True,False,False,False,Alto,Bom,Alta,False,Média,True,2.2,False,Baixo,Boa,Completa,Média,Boa,0.43349028840494414,False
+707,False,Feminino,22,3ª série EM,250.05,N1,68.3,5.7,False,True,False,False,False,False,Alto,Ruim,Média,False,Alta,False,1.6,False,Alto,Boa,Parcial,Média,Boa,0.4768981753972926,False
+708,True,Masculino,18,6º ano,362.68,N7,51.7,6.8,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,2.1,False,Alto,Boa,Parcial,Alta,Regular,0.35447321954090644,False
+709,False,Masculino,16,9º ano,595.96,N6,53.3,8.6,True,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,0.9,False,Moderado,Boa,Completa,Média,Boa,0.4150971159505592,False
+710,False,Feminino,11,2ª série EM,717.02,N4,97.8,5.6,False,False,False,False,False,False,Baixo,Regular,Alta,False,Baixa,True,1.7,True,Moderado,Boa,Completa,Alta,Boa,0.20394349617422014,False
+711,True,Masculino,18,6º ano,1117.41,N6,99.1,4.4,True,False,False,False,False,False,Alto,Ruim,Alta,True,Baixa,False,3.6,False,Alto,Boa,Completa,Alta,Regular,0.3983225426721601,False
+712,False,Feminino,20,3ª série EM,307.24,N2,69.0,5.6,False,False,False,False,False,False,Baixo,Bom,Alta,True,Alta,False,4.1,True,Moderado,Boa,Completa,Média,Boa,0.33107710417892877,False
+713,False,Masculino,15,2ª série EM,659.55,N3,82.3,6.3,False,True,False,False,False,False,Médio,Ruim,Baixa,False,Média,False,1.2,False,Alto,Boa,Insuficiente,Alta,Regular,0.3886109476162449,False
+714,True,Feminino,17,6º ano,752.7,N2,95.2,6.1,True,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,0.4,False,Moderado,Boa,Parcial,Média,Boa,0.3404944084755739,False
+715,False,Feminino,20,1ª série EM,994.53,N6,70.5,3.8,True,False,False,False,False,False,Médio,Bom,Média,False,Alta,True,1.2,False,Alto,Ruim,Completa,Alta,Ruim,0.5510594467333725,False
+716,True,Masculino,12,2ª série EM,799.18,N2,78.4,7.0,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,0.4,False,Moderado,Regular,Completa,Média,Ruim,0.227781047675103,True
+717,False,Masculino,22,5º ano,1184.19,N4,93.6,4.2,False,False,False,False,False,False,Médio,Bom,Baixa,False,Baixa,False,0.2,False,Baixo,Boa,Completa,Média,Regular,0.28428487345497355,False
+718,False,Masculino,18,1ª série EM,1210.49,N6,55.5,6.6,False,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,True,2.1,True,Baixo,Regular,Parcial,Média,Ruim,0.34652736904061215,True
+719,False,Masculino,22,6º ano,654.16,N5,68.4,6.7,False,False,False,False,False,False,Alto,Ruim,Média,False,Baixa,False,2.9,False,Baixo,Regular,Completa,Alta,Boa,0.285167745732784,True
+720,True,Masculino,15,1ª série EM,652.78,N4,51.2,3.6,True,False,False,False,True,False,Baixo,Regular,Média,False,Média,False,1.8,False,Alto,Boa,Completa,Alta,Boa,0.9393761035903474,True
+721,False,Masculino,13,2ª série EM,519.27,N5,52.2,6.3,False,False,False,False,True,False,Baixo,Bom,Baixa,False,Alta,False,1.3,False,Baixo,Boa,Insuficiente,Alta,Ruim,0.6686286050618011,True
+722,False,Feminino,13,2ª série EM,707.19,N2,89.7,6.0,False,False,False,False,False,False,Médio,Regular,Baixa,True,Alta,False,4.0,False,Alto,Ruim,Parcial,Baixa,Ruim,0.22204237786933487,False
+723,False,Feminino,18,1ª série EM,487.7,N3,64.2,5.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,0.4,False,Alto,Ruim,Completa,Alta,Regular,0.36109476162448495,False
+724,True,Feminino,11,1ª série EM,650.01,N7,75.2,5.3,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,2.6,False,Moderado,Boa,Parcial,Baixa,Regular,0.31695114773396116,False
+725,True,Feminino,14,5º ano,626.24,N1,88.3,6.4,False,False,False,False,False,False,Médio,Bom,Alta,True,Baixa,False,2.8,False,Alto,Regular,Completa,Média,Boa,0.2105650382577987,False
+726,False,Masculino,12,5º ano,1120.22,N5,94.0,3.7,False,False,False,False,False,False,Baixo,Regular,Média,True,Média,False,0.8,False,Moderado,Ruim,Parcial,Alta,Ruim,0.3045909358446145,False
+727,True,Masculino,18,9º ano,257.5,N1,91.9,7.1,False,True,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,3.6,True,Alto,Regular,Parcial,Baixa,Regular,0.3109181871689229,False
+728,False,Masculino,18,2ª série EM,1119.59,N6,79.2,5.8,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.0,False,Moderado,Ruim,Completa,Alta,Boa,0.2772218952324897,True
+729,False,Feminino,16,7º ano,499.45,N4,76.4,6.7,False,False,False,False,False,False,Médio,Bom,Alta,True,Média,False,2.0,False,Moderado,Boa,Completa,Baixa,Regular,0.24985285462036486,False
+730,False,Feminino,18,5º ano,543.0,N4,87.9,6.2,False,False,False,False,False,False,Baixo,Regular,Alta,False,Média,False,2.4,False,Alto,Regular,Parcial,Alta,Boa,0.22115950559152436,True
+731,True,Masculino,13,7º ano,2571.41,N1,52.4,6.7,True,False,False,False,False,False,Alto,Ruim,Baixa,False,Média,False,1.9,False,Baixo,Boa,Completa,Baixa,Regular,0.5029429075927015,False
+732,True,Masculino,21,9º ano,1101.08,N6,66.3,5.4,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.4,True,Alto,Ruim,Completa,Alta,Boa,0.35182460270747495,False
+733,False,Feminino,13,2ª série EM,757.26,N5,91.7,6.5,True,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,1.7,False,Alto,Ruim,Parcial,Média,Ruim,0.3382872277810477,False
+734,True,Masculino,21,6º ano,937.0,N5,66.5,6.9,False,False,False,False,True,False,Alto,Bom,Alta,False,Média,False,2.2,False,Baixo,Boa,Completa,Alta,Boa,0.5790170688640377,True
+735,True,Feminino,15,6º ano,716.33,N7,71.5,7.7,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,2.8,False,Moderado,Boa,Completa,Alta,Boa,0.22733961153619772,True
+736,True,Masculino,11,5º ano,808.57,N3,91.5,7.9,False,False,False,False,False,False,Alto,Ruim,Baixa,True,Alta,True,3.3,False,Moderado,Regular,Insuficiente,Média,Ruim,0.13022366097704532,False
+737,False,Feminino,18,5º ano,662.12,N5,67.7,6.0,False,False,False,False,False,False,Alto,Bom,Baixa,False,Alta,True,1.6,True,Alto,Boa,Parcial,Alta,Regular,0.31915832842848735,False
+738,True,Feminino,18,5º ano,842.07,N2,67.4,7.9,False,False,False,False,False,False,Alto,Ruim,Alta,True,Alta,False,1.7,False,Baixo,Boa,Parcial,Alta,Boa,0.23660977045320775,True
+739,True,Feminino,12,6º ano,832.79,N2,99.3,5.9,True,False,False,False,True,False,Médio,Bom,Média,False,Alta,False,0.5,False,Alto,Boa,Completa,Média,Boa,0.6255150088287228,False
+740,False,Masculino,12,7º ano,934.45,N2,67.0,6.9,False,True,False,False,False,False,Alto,Bom,Baixa,False,Baixa,False,2.5,False,Baixo,Regular,Completa,Média,Regular,0.4296645085344321,False
+741,False,Masculino,17,8º ano,523.29,N4,73.3,6.2,True,False,False,False,False,False,Alto,Bom,Baixa,True,Média,False,2.1,False,Moderado,Boa,Completa,Alta,Boa,0.4327545615067687,False
+742,True,Feminino,13,8º ano,152.88,N3,95.7,5.9,False,False,False,False,False,False,Alto,Ruim,Alta,True,Média,False,0.4,True,Moderado,Boa,Parcial,Alta,Ruim,0.19997057092407294,False
+743,True,Masculino,14,1ª série EM,2651.75,N6,99.7,10.2,False,False,False,False,False,False,Baixo,Regular,Alta,False,Média,False,2.0,False,Alto,Boa,Insuficiente,Média,Boa,-0.007504414361389034,False
+744,True,Feminino,10,2ª série EM,786.55,N4,98.3,5.9,False,True,False,False,False,False,Alto,Bom,Média,False,Alta,False,2.3,False,Moderado,Boa,Completa,Alta,Regular,0.33563861094761627,False
+745,True,Outro,19,2ª série EM,601.4,N7,66.8,4.2,False,True,False,False,True,False,Alto,Bom,Alta,True,Alta,False,2.6,True,Alto,Boa,Parcial,Alta,Boa,0.844025897586816,True
+746,False,Feminino,15,8º ano,986.21,N1,59.9,6.1,False,False,True,False,False,False,Baixo,Bom,Média,False,Alta,False,2.5,False,Moderado,Boa,Parcial,Média,Ruim,0.3491759858740436,False
+747,False,Feminino,11,7º ano,225.86,N4,71.3,5.9,False,False,False,False,False,False,Médio,Regular,Alta,False,Baixa,True,3.0,False,Moderado,Boa,Insuficiente,Alta,Regular,0.30768098881695116,False
+748,False,Masculino,12,3ª série EM,1063.51,N4,98.5,6.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.4,False,Moderado,Regular,Completa,Média,Regular,0.18319599764567393,False
+749,True,Feminino,20,7º ano,393.72,N7,66.6,7.5,False,False,False,False,False,False,Médio,Bom,Média,False,Baixa,False,1.9,False,Alto,Boa,Completa,Média,Boa,0.2577987051206593,False
+750,False,Feminino,21,1ª série EM,744.17,N1,96.9,4.5,False,False,False,False,False,False,Médio,Ruim,Média,True,Alta,True,1.7,False,Moderado,Boa,Completa,Média,Regular,0.25647439670394345,False
+751,False,Masculino,14,5º ano,496.3,N2,69.2,8.0,True,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,2.9,False,Moderado,Boa,Parcial,Média,Regular,0.3713949381989405,False
+752,False,Feminino,13,8º ano,965.08,N3,80.7,5.9,False,False,False,False,False,False,Médio,Bom,Baixa,False,Alta,False,3.4,True,Baixo,Regular,Parcial,Baixa,Boa,0.2661859917598587,False
+753,True,Feminino,13,7º ano,443.29,N3,80.0,7.4,True,False,False,False,False,False,Baixo,Ruim,Alta,False,Média,False,0.8,True,Moderado,Boa,Parcial,Média,Regular,0.3502060035314891,False
+754,True,Feminino,12,8º ano,946.68,N1,85.0,6.9,True,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,0.7,False,Alto,Regular,Completa,Alta,Ruim,0.3502060035314891,False
+755,False,Masculino,10,1ª série EM,892.22,N1,64.0,7.1,False,False,False,False,False,False,Alto,Bom,Baixa,False,Média,True,2.3,True,Alto,Boa,Completa,Alta,Boa,0.286933490288405,False
+756,True,Feminino,11,5º ano,962.25,N1,52.9,5.9,False,False,False,False,False,False,Baixo,Regular,Alta,True,Alta,False,0.9,True,Moderado,Regular,Insuficiente,Alta,Boa,0.388905238375515,False
+757,True,Masculino,14,7º ano,639.97,N2,97.5,6.2,True,False,False,False,True,False,Baixo,Bom,Baixa,True,Alta,False,2.6,False,Moderado,Ruim,Completa,Média,Regular,0.6202177751618599,True
+758,True,Feminino,17,7º ano,1248.87,N2,83.3,6.9,False,False,True,False,False,False,Alto,Ruim,Alta,False,Média,False,1.1,False,Alto,Boa,Completa,Média,Ruim,0.2105650382577987,False
+759,True,Masculino,14,9º ano,623.64,N7,74.4,6.6,False,False,False,False,False,False,Baixo,Regular,Média,False,Alta,False,0.2,False,Baixo,Boa,Parcial,Média,Ruim,0.2630959387875221,True
+760,False,Masculino,10,9º ano,594.31,N1,97.5,8.6,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,2.1,False,Moderado,Boa,Parcial,Alta,Boa,0.07283696291936435,False
+761,True,Feminino,16,2ª série EM,515.1,N1,65.8,6.3,False,True,False,False,False,False,Baixo,Regular,Média,False,Baixa,False,2.2,True,Moderado,Boa,Completa,Média,Regular,0.4614479105356092,False
+762,False,Masculino,14,5º ano,690.79,N7,87.4,9.2,False,True,False,False,False,False,Baixo,Bom,Baixa,False,Baixa,False,0.4,False,Alto,Ruim,Completa,Alta,Boa,0.23808122424955858,False
+763,True,Outro,16,3ª série EM,731.62,N5,64.2,7.2,False,True,False,False,False,False,Médio,Bom,Média,False,Alta,False,1.1,False,Alto,Boa,Parcial,Alta,Regular,0.4287816362566215,True
+764,False,Feminino,13,5º ano,2077.16,N4,55.7,7.5,False,False,True,False,False,False,Médio,Bom,Alta,False,Alta,False,2.0,False,Moderado,Regular,Parcial,Alta,Regular,0.30591524426133015,True
+765,False,Masculino,20,1ª série EM,564.21,N4,55.4,4.4,True,False,False,False,False,False,Alto,Regular,Alta,False,Média,False,2.8,True,Baixo,Boa,Parcial,Média,Regular,0.5912301353737491,False
+766,False,Masculino,22,2ª série EM,1107.5,N3,58.8,4.0,False,False,False,False,True,False,Médio,Bom,Média,False,Baixa,False,0.9,False,Moderado,Boa,Parcial,Média,Regular,0.7410241318422602,False
+767,True,Masculino,13,7º ano,1196.93,N5,92.0,6.3,True,False,False,False,False,False,Baixo,Regular,Alta,True,Média,False,3.2,False,Alto,Regular,Parcial,Baixa,Boa,0.34579164214243674,False
+768,False,Feminino,21,3ª série EM,1249.78,N5,79.7,9.2,False,True,False,False,False,False,Médio,Bom,Alta,False,Média,False,2.6,False,Moderado,Regular,Completa,Média,Boa,0.27207180694526195,False
+769,False,Feminino,15,6º ano,773.7,N7,74.1,5.2,False,False,False,False,False,False,Alto,Bom,Baixa,True,Baixa,False,1.2,False,Alto,Boa,Completa,Alta,Ruim,0.32622130665097115,False
+770,True,Feminino,16,1ª série EM,1148.23,N4,70.4,4.5,False,False,False,False,False,False,Alto,Regular,Baixa,True,Média,False,3.7,False,Moderado,Boa,Completa,Média,Regular,0.3734549735138316,False
+771,False,Masculino,14,9º ano,566.75,N5,53.3,5.2,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,1.2,False,Baixo,Boa,Completa,Média,Regular,0.4180400235432608,True
+772,False,Masculino,19,8º ano,540.61,N5,58.3,6.0,False,True,False,True,False,False,Médio,Bom,Média,True,Média,False,1.5,False,Moderado,Boa,Completa,Alta,Boa,0.5077987051206593,False
+773,False,Feminino,12,5º ano,579.42,N1,68.7,5.6,True,False,True,False,False,False,Alto,Bom,Baixa,False,Alta,False,2.4,False,Baixo,Boa,Parcial,Média,Regular,0.47954679223072394,False
+774,False,Outro,10,8º ano,1346.55,N2,78.1,7.0,True,False,False,False,False,False,Médio,Regular,Média,False,Alta,False,3.9,False,Alto,Ruim,Completa,Baixa,Regular,0.37625073572689827,False
+775,False,Masculino,20,5º ano,557.81,N4,60.4,3.5,False,True,False,False,False,False,Baixo,Bom,Baixa,True,Baixa,False,2.7,True,Baixo,Regular,Parcial,Alta,Boa,0.6088875809299589,True
+776,False,Masculino,16,5º ano,632.99,N4,88.8,3.0,True,False,True,False,False,False,Médio,Bom,Média,False,Média,False,2.3,False,Moderado,Ruim,Parcial,Baixa,Boa,0.5055915244261331,False
+777,True,Masculino,19,2ª série EM,1035.36,N6,80.8,7.1,False,False,False,False,False,False,Baixo,Bom,Alta,True,Alta,False,1.7,False,Alto,Ruim,Parcial,Média,Regular,0.2127722189523249,False
+778,True,Masculino,21,6º ano,407.73,N6,64.9,6.1,True,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.9,True,Moderado,Boa,Completa,Média,Regular,0.4742495585638611,True
+779,True,Feminino,11,9º ano,685.62,N2,80.7,8.0,True,True,False,False,False,False,Baixo,Regular,Alta,False,Média,False,1.4,False,Alto,Ruim,Parcial,Alta,Ruim,0.4677751618599176,False
+780,False,Feminino,22,1ª série EM,413.95,N7,50.5,5.5,False,False,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.6,False,Alto,Ruim,Completa,Média,Boa,0.4171571512654502,False
+781,True,Masculino,16,1ª série EM,1157.63,N1,79.5,5.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.7,False,Baixo,Regular,Insuficiente,Média,Boa,0.275897586815774,False
+782,False,Outro,10,5º ano,406.91,N7,70.8,9.1,False,False,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,0.6,False,Moderado,Ruim,Completa,Baixa,Boa,0.1686286050618011,False
+783,False,Feminino,22,9º ano,479.43,N3,88.6,7.0,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.5,False,Moderado,Boa,Parcial,Alta,Boa,0.1827545615067687,False
+784,False,Feminino,11,7º ano,591.33,N1,75.3,7.3,False,False,False,False,False,False,Médio,Regular,Média,False,Média,False,1.1,True,Alto,Boa,Parcial,Alta,Boa,0.22822248381400828,False
+785,True,Masculino,10,6º ano,432.05,N4,70.0,6.0,False,False,False,True,False,False,Alto,Regular,Média,True,Alta,False,1.2,False,Moderado,Ruim,Completa,Média,Regular,0.3090052972336669,True
+786,False,Feminino,15,7º ano,1048.03,N3,70.8,5.6,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,3.2,False,Alto,Boa,Completa,Média,Regular,0.32313125367863454,False
+787,False,Masculino,12,6º ano,1607.82,N6,51.4,8.0,True,False,False,False,False,False,Médio,Regular,Média,False,Média,False,1.9,False,Baixo,Ruim,Completa,Alta,Boa,0.44997057092407294,True
+788,False,Feminino,19,1ª série EM,324.54,N2,62.3,6.2,False,True,False,False,False,False,Médio,Regular,Alta,False,Média,False,1.8,True,Baixo,Boa,Parcial,Média,Ruim,0.48131253678634484,False
+789,False,Feminino,12,3ª série EM,684.47,N5,58.0,7.2,False,False,False,False,False,False,Médio,Bom,Alta,True,Alta,True,1.7,False,Moderado,Regular,Parcial,Média,Regular,0.3090052972336669,False
+790,True,Feminino,22,6º ano,263.99,N7,73.4,3.3,False,False,False,False,False,False,Baixo,Ruim,Média,False,Média,False,0.2,False,Baixo,Boa,Parcial,Média,Boa,0.41318422601530314,False
+791,True,Masculino,22,5º ano,1118.81,N2,87.3,6.1,True,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,3.4,False,Alto,Regular,Parcial,Baixa,Boa,0.3753678634490877,False
+792,False,Feminino,14,5º ano,382.51,N4,96.6,6.8,False,False,True,False,False,False,Baixo,Bom,Alta,False,Baixa,False,0.9,False,Moderado,Regular,Completa,Média,Ruim,0.15626839317245442,False
+793,True,Masculino,11,3ª série EM,728.24,N1,88.9,6.9,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.0,False,Baixo,Regular,Completa,Média,Boa,0.1858446144791053,False
+794,True,Masculino,13,7º ano,756.77,N2,82.1,6.1,False,False,False,False,False,False,Baixo,Bom,Baixa,True,Alta,False,2.0,False,Alto,Boa,Completa,Média,Boa,0.25117716303708065,True
+795,True,Feminino,22,5º ano,902.4,N6,77.9,4.3,True,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,2.3,False,Moderado,Regular,Completa,Alta,Boa,0.4963213655091231,True
+796,False,Feminino,16,6º ano,547.92,N4,53.2,5.0,False,False,True,False,True,False,Alto,Bom,Alta,False,Alta,False,3.8,True,Moderado,Boa,Parcial,Alta,Boa,0.7216009417304297,False
+797,True,Masculino,11,1ª série EM,511.4,N7,82.9,6.3,False,True,False,False,False,False,Alto,Regular,Média,False,Alta,False,0.2,True,Alto,Regular,Completa,Média,Ruim,0.3859623307828134,True
+798,False,Masculino,13,9º ano,257.57,N4,50.1,9.8,False,False,False,False,False,False,Médio,Regular,Alta,True,Baixa,True,2.4,False,Moderado,Boa,Parcial,Média,Regular,0.2291053560918187,True
+799,False,Feminino,11,2ª série EM,561.24,N1,74.4,7.9,False,False,False,False,False,False,Médio,Bom,Média,True,Média,False,2.4,False,Moderado,Ruim,Completa,Baixa,Ruim,0.20570924072984106,False
+800,True,Feminino,14,2ª série EM,954.17,N3,98.7,6.6,False,True,True,True,False,False,Alto,Ruim,Alta,True,Baixa,False,0.2,False,Moderado,Ruim,Completa,Alta,Boa,0.3029723366686286,False
+801,False,Masculino,16,5º ano,969.09,N7,77.1,8.3,True,False,False,False,False,False,Médio,Regular,Baixa,True,Alta,False,3.8,False,Alto,Regular,Completa,Alta,Boa,0.3232783990582696,True
+802,False,Masculino,13,6º ano,475.57,N5,88.2,7.5,False,False,False,False,False,False,Baixo,Bom,Alta,True,Baixa,False,1.0,False,Moderado,Boa,Insuficiente,Alta,Boa,0.1624484991171277,True
+803,False,Masculino,10,9º ano,1167.56,N6,87.4,6.1,False,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,1.7,False,Baixo,Regular,Parcial,Baixa,Regular,0.22778104767510296,False
+804,True,Feminino,18,6º ano,719.37,N6,54.6,7.4,False,True,False,False,False,False,Baixo,Regular,Média,False,Alta,False,0.3,False,Moderado,Boa,Completa,Média,Regular,0.46233078281341966,True
+805,True,Masculino,20,5º ano,747.87,N5,50.1,9.8,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,3.3,False,Alto,Ruim,Parcial,Alta,Boa,0.37625073572689816,False
+806,True,Masculino,20,6º ano,1073.14,N2,85.8,7.7,False,True,False,False,False,False,Médio,Bom,Baixa,False,Média,False,1.2,True,Moderado,Boa,Completa,Alta,Boa,0.3113596233078282,False
+807,True,Masculino,12,8º ano,542.08,N3,52.2,6.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.4,False,Alto,Ruim,Completa,Média,Boa,0.3875809299587993,True
+808,True,Masculino,19,2ª série EM,938.33,N6,67.0,6.9,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,0.7,False,Alto,Boa,Completa,Alta,Regular,0.4296645085344321,False
+809,True,Feminino,16,8º ano,599.59,N7,89.7,5.5,False,True,False,False,True,False,Médio,Regular,Média,True,Alta,False,2.1,False,Alto,Boa,Parcial,Alta,Regular,0.6855503237198353,False
+810,True,Masculino,15,5º ano,982.17,N7,94.6,7.4,False,False,True,False,False,False,Médio,Ruim,Média,True,Alta,False,1.6,False,Moderado,Boa,Completa,Média,Boa,0.13861094761624487,False
+811,True,Outro,22,1ª série EM,768.93,N5,50.2,8.9,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,3.7,False,Alto,Boa,Insuficiente,Alta,Boa,0.26839317245438493,False
+812,False,Masculino,22,3ª série EM,522.36,N7,72.4,9.5,True,False,False,False,False,False,Médio,Bom,Baixa,True,Alta,False,0.1,True,Moderado,Boa,Insuficiente,Média,Boa,0.2910535609181871,False
+813,True,Feminino,12,2ª série EM,648.55,N7,99.3,6.3,True,False,False,True,False,False,Baixo,Bom,Baixa,False,Média,False,3.3,True,Moderado,Regular,Parcial,Média,Regular,0.31356680400235437,False
+814,False,Feminino,20,6º ano,579.27,N1,84.7,9.5,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,2.2,True,Alto,Regular,Insuficiente,Média,Ruim,0.08961153619776338,False
+815,True,Masculino,14,2ª série EM,430.85,N4,61.3,6.2,False,True,False,False,False,False,Médio,Ruim,Baixa,True,Alta,False,1.9,False,Baixo,Regular,Completa,Alta,Boa,0.4857268981753972,False
+816,True,Feminino,15,2ª série EM,1129.91,N2,96.5,5.0,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,True,0.5,False,Baixo,Boa,Completa,Média,Boa,0.23616833431430254,True
+817,False,Masculino,20,2ª série EM,861.32,N1,81.0,7.2,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Média,False,1.4,False,Alto,Ruim,Insuficiente,Média,Ruim,0.20747498528546202,True
+818,False,Outro,17,7º ano,455.7,N6,88.7,9.5,False,False,True,False,False,False,Alto,Ruim,Média,False,Alta,False,0.3,True,Baixo,Boa,Completa,Média,Boa,0.07195409064155385,False
+819,False,Outro,15,1ª série EM,501.57,N2,61.3,7.6,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,0.6,False,Moderado,Regular,Parcial,Média,Boa,0.27678045909358445,False
+820,True,Feminino,16,9º ano,432.77,N5,68.4,6.3,False,False,False,False,False,False,Médio,Bom,Média,False,Alta,False,2.3,True,Moderado,Ruim,Completa,Baixa,Regular,0.3028251912889935,False
+821,False,Feminino,13,9º ano,373.61,N2,63.5,6.5,False,False,False,False,False,False,Alto,Ruim,Média,False,Alta,False,0.4,False,Alto,Boa,Completa,Alta,Regular,0.31562683931724544,False
+822,True,Masculino,12,5º ano,327.84,N6,99.1,5.5,True,False,False,False,False,False,Médio,Bom,Baixa,True,Média,False,3.7,False,Alto,Regular,Completa,Alta,Regular,0.34976456739258394,False
+823,False,Feminino,19,3ª série EM,1057.73,N5,79.2,5.0,False,False,False,False,True,False,Médio,Bom,Alta,True,Baixa,False,1.7,False,Alto,Boa,Completa,Alta,Boa,0.6068275456150677,False
+824,False,Feminino,17,2ª série EM,996.34,N2,81.5,5.8,False,False,False,False,False,False,Alto,Ruim,Alta,True,Baixa,False,2.8,False,Baixo,Ruim,Insuficiente,Média,Boa,0.2670688640376692,False
+825,False,Feminino,16,3ª série EM,530.41,N4,59.3,7.9,False,False,True,False,False,False,Baixo,Regular,Alta,False,Alta,False,1.2,True,Baixo,Regular,Parcial,Alta,Boa,0.2723660977045321,False
+826,False,Outro,22,9º ano,740.65,N6,69.3,8.2,True,False,False,False,False,False,Médio,Bom,Alta,True,Alta,True,1.6,False,Moderado,Boa,Parcial,Média,Boa,0.3621247792819306,False
+827,False,Feminino,21,3ª série EM,946.9,N1,75.5,4.9,True,False,False,False,False,False,Baixo,Ruim,Baixa,True,Média,False,2.0,False,Moderado,Boa,Parcial,Média,Regular,0.48042966450853447,False
+828,True,Masculino,20,1ª série EM,781.69,N5,82.4,7.8,False,False,False,False,False,False,Baixo,Ruim,Média,True,Baixa,False,1.0,False,Alto,Ruim,Insuficiente,Alta,Boa,0.17480871100647438,True
+829,True,Outro,18,9º ano,314.8,N2,76.9,9.2,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.0,False,Alto,Boa,Completa,Baixa,Boa,0.28443201883460867,False
+830,True,Masculino,22,5º ano,1040.04,N3,82.2,6.7,False,False,False,True,False,False,Médio,Regular,Média,False,Alta,True,2.2,False,Alto,Boa,Completa,Média,Ruim,0.22424955856386108,False
+831,True,Masculino,18,6º ano,987.54,N1,95.1,9.2,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,True,1.2,False,Baixo,Regular,Completa,Alta,Ruim,0.05694526191877581,False
+832,True,Masculino,12,6º ano,337.26,N6,66.4,4.6,False,False,False,False,False,False,Alto,Bom,Baixa,False,Baixa,False,2.7,False,Moderado,Boa,Insuficiente,Alta,Boa,0.3866980576809888,False
+833,False,Feminino,13,7º ano,316.44,N6,72.8,8.5,False,False,True,False,False,False,Alto,Ruim,Alta,False,Média,False,1.2,True,Moderado,Regular,Completa,Alta,Boa,0.1862860506180106,False
+834,False,Masculino,15,9º ano,1492.87,N7,85.7,6.5,False,False,True,False,False,False,Alto,Bom,Baixa,False,Média,False,1.8,True,Moderado,Boa,Parcial,Alta,Ruim,0.2176280164802825,False
+835,True,Feminino,11,7º ano,889.99,N4,82.4,4.3,False,False,False,False,False,False,Alto,Ruim,Alta,True,Média,False,1.2,False,Alto,Ruim,Completa,Alta,Boa,0.3293113596233078,True
+836,True,Feminino,15,8º ano,1020.0,N4,52.7,7.1,False,False,False,True,False,False,Alto,Bom,Média,False,Média,False,1.1,True,Moderado,Boa,Parcial,Alta,Regular,0.33681577398469686,False
+837,False,Feminino,10,2ª série EM,821.58,N4,50.9,6.1,True,False,True,False,False,False,Alto,Ruim,Alta,False,Média,False,2.9,False,Alto,Boa,Parcial,Alta,Ruim,0.5360506180105944,True
+838,False,Feminino,11,9º ano,310.04,N6,53.4,9.9,False,False,True,False,False,False,Baixo,Bom,Alta,False,Alta,False,1.4,False,Baixo,Regular,Completa,Alta,Regular,0.2101236021188935,False
+839,False,Masculino,14,6º ano,722.04,N2,99.8,4.8,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Alta,False,2.1,False,Baixo,Regular,Completa,Média,Boa,0.23042966450853447,False
+840,True,Feminino,11,1ª série EM,622.75,N7,58.3,5.5,False,False,False,False,False,False,Médio,Regular,Baixa,False,Média,False,1.4,False,Alto,Regular,Insuficiente,Média,Boa,0.38272513243084166,True
+841,False,Masculino,20,9º ano,1100.4,N1,87.6,6.0,True,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,1.4,False,Alto,Boa,Parcial,Média,Boa,0.37845791642142435,True
+842,True,Feminino,17,2ª série EM,517.62,N6,55.6,4.9,True,False,False,False,False,False,Alto,Ruim,Média,False,Alta,False,0.5,False,Alto,Boa,Insuficiente,Baixa,Boa,0.5682754561506769,True
+843,True,Feminino,13,8º ano,658.58,N6,87.8,8.2,True,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,1.0,False,Moderado,Regular,Parcial,Baixa,Boa,0.2804590935844615,True
+844,True,Feminino,16,1ª série EM,836.59,N5,80.1,8.7,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,1.2,False,Baixo,Boa,Insuficiente,Média,Ruim,0.1452324896998235,False
+845,False,Masculino,17,1ª série EM,389.8,N3,86.3,7.9,False,False,False,False,False,False,Alto,Regular,Alta,False,Baixa,False,2.0,False,Moderado,Boa,Completa,Baixa,Regular,0.15317834020011772,False
+846,False,Masculino,14,5º ano,394.32,N6,55.4,4.3,False,True,False,False,False,False,Baixo,Regular,Média,False,Média,False,1.7,False,Alto,Boa,Parcial,Média,Boa,0.5956444967628017,False
+847,False,Feminino,11,2ª série EM,1887.89,N7,50.5,8.3,False,False,True,False,False,False,Alto,Ruim,Média,False,Alta,False,0.6,False,Baixo,Boa,Completa,Média,Regular,0.29355503237198344,False
+848,True,Outro,17,9º ano,787.11,N4,89.3,3.6,False,False,True,False,True,False,Médio,Regular,Média,False,Média,False,2.3,False,Alto,Regular,Parcial,Alta,Boa,0.6240435550323721,True
+849,False,Masculino,16,1ª série EM,435.14,N2,67.7,8.1,False,False,False,False,False,False,Alto,Bom,Média,True,Alta,False,1.0,False,Moderado,Boa,Parcial,Média,Regular,0.22645673925838727,False
+850,True,Feminino,18,1ª série EM,801.94,N6,83.4,7.5,False,False,False,False,False,False,Alto,Regular,Média,False,Média,False,2.1,True,Moderado,Ruim,Completa,Alta,Boa,0.18363743378457914,True
+851,False,Masculino,13,8º ano,398.17,N5,71.1,4.8,False,False,True,False,False,False,Alto,Ruim,Alta,True,Baixa,False,0.3,False,Alto,Boa,Completa,Alta,Boa,0.3571218363743379,False
+852,False,Feminino,18,8º ano,851.86,N7,84.3,5.9,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.3,True,Baixo,Boa,Completa,Média,Regular,0.2502942907592702,False
+853,False,Feminino,14,8º ano,341.47,N1,95.0,7.8,False,False,False,False,False,False,Alto,Ruim,Média,False,Alta,False,1.2,True,Baixo,Regular,Completa,Alta,Boa,0.11918775750441436,False
+854,True,Masculino,18,1ª série EM,454.39,N7,53.5,6.3,False,True,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.5,False,Alto,Regular,Completa,Média,Boa,0.5157445556209536,True
+855,True,Masculino,20,1ª série EM,534.55,N2,73.8,11.0,False,False,False,False,False,False,Médio,Ruim,Média,False,Alta,False,1.7,True,Baixo,Ruim,Insuficiente,Baixa,Ruim,0.07151265450264863,False
+856,False,Feminino,12,3ª série EM,306.27,N5,56.9,7.1,False,True,False,False,False,False,Médio,Regular,Alta,False,Alta,False,1.7,False,Baixo,Boa,Completa,Alta,Boa,0.4654208357857564,False
+857,True,Masculino,17,2ª série EM,1409.07,N7,89.2,6.4,False,False,False,False,False,False,Médio,Regular,Baixa,False,Alta,False,2.4,False,Alto,Regular,Completa,Média,Ruim,0.20659211300765157,False
+858,False,Feminino,16,6º ano,505.32,N1,53.1,8.2,False,False,False,False,False,False,Médio,Ruim,Média,True,Alta,False,0.1,False,Alto,Boa,Completa,Média,Boa,0.28649205414949974,False
+859,False,Feminino,21,7º ano,428.26,N7,54.4,6.7,False,False,False,False,False,False,Médio,Ruim,Média,False,Média,False,2.0,False,Alto,Regular,Completa,Alta,Regular,0.3469688051795174,False
+860,True,Feminino,22,3ª série EM,943.11,N7,68.0,7.9,True,False,False,False,False,False,Médio,Bom,Média,False,Média,False,1.0,False,Moderado,Boa,Completa,Média,Boa,0.38110653325485583,False
+861,False,Feminino,17,3ª série EM,938.04,N2,84.5,5.4,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,1.0,False,Baixo,Boa,Completa,Alta,Boa,0.2714832254267216,False
+862,True,Feminino,22,7º ano,560.99,N7,63.3,5.3,False,True,False,False,False,False,Alto,Bom,Alta,False,Baixa,False,1.9,False,Moderado,Boa,Completa,Alta,Boa,0.5166274278987641,False
+863,True,Feminino,22,3ª série EM,666.24,N5,76.9,5.9,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Alta,False,0.3,False,Alto,Boa,Parcial,Média,Ruim,0.2829605650382578,False
+864,True,Masculino,14,5º ano,904.2,N3,97.6,6.0,False,False,False,False,False,False,Alto,Ruim,Média,False,Alta,False,4.3,False,Alto,Boa,Completa,Alta,Boa,0.1871689228958211,True
+865,False,Feminino,12,3ª série EM,503.02,N5,96.8,9.5,False,False,False,True,False,False,Alto,Regular,Média,True,Alta,False,3.5,False,Alto,Regular,Parcial,Alta,Regular,0.03619776339022956,False
+866,False,Feminino,19,9º ano,664.36,N4,73.5,5.9,True,False,False,False,False,False,Médio,Bom,Alta,True,Média,False,2.6,False,Moderado,Boa,Completa,Alta,Boa,0.4451147733961154,True
+867,False,Feminino,12,1ª série EM,897.11,N7,90.3,5.8,False,False,False,False,False,False,Alto,Bom,Média,False,Média,False,1.2,False,Alto,Regular,Parcial,Baixa,Ruim,0.22822248381400828,True
+868,False,Feminino,18,6º ano,308.93,N6,81.0,5.3,True,True,False,False,False,False,Baixo,Regular,Baixa,False,Média,False,2.0,False,Moderado,Ruim,Insuficiente,Média,Regular,0.5856386109476163,True
+869,False,Feminino,12,9º ano,1018.18,N3,92.7,8.2,False,True,False,False,False,False,Médio,Bom,Alta,False,Alta,False,0.7,False,Alto,Regular,Parcial,Média,Boa,0.25882872277810476,False
+870,True,Feminino,12,7º ano,1152.17,N3,99.8,6.1,False,False,False,True,False,False,Baixo,Bom,Alta,False,Média,False,2.2,False,Baixo,Boa,Parcial,Média,Boa,0.17304296645085343,True
+871,False,Feminino,21,5º ano,247.48,N5,94.0,5.6,True,False,False,False,False,False,Médio,Ruim,Alta,False,Baixa,False,2.0,False,Baixo,Boa,Completa,Baixa,Boa,0.36786344908769864,False
+872,True,Feminino,14,3ª série EM,487.02,N6,83.0,6.3,False,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,3.1,False,Alto,Ruim,Completa,Média,Boa,0.23837551500882873,False
+873,True,Masculino,13,2ª série EM,668.81,N4,85.1,6.6,True,False,False,True,False,False,Baixo,Ruim,Média,False,Alta,False,0.8,True,Moderado,Boa,Insuficiente,Baixa,Boa,0.3630076515597411,True
+874,False,Masculino,16,3ª série EM,626.67,N4,88.8,5.8,False,False,True,False,False,False,Médio,Regular,Alta,False,Baixa,True,2.2,True,Alto,Boa,Parcial,Baixa,Boa,0.23484402589758685,True
+875,False,Feminino,14,9º ano,1152.48,N7,77.5,6.5,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,3.1,False,Baixo,Regular,Completa,Média,Regular,0.2538257798705121,False
+876,True,Feminino,21,3ª série EM,675.87,N3,55.4,7.9,False,False,False,False,False,False,Baixo,Bom,Média,True,Média,False,2.2,True,Alto,Boa,Parcial,Média,Regular,0.28958210712183635,False
+877,True,Feminino,17,1ª série EM,1061.31,N4,61.1,5.5,False,False,False,True,False,False,Baixo,Ruim,Alta,False,Média,False,1.1,False,Moderado,Boa,Parcial,Alta,Regular,0.37036492054149506,False
+878,False,Masculino,12,8º ano,523.55,N2,78.7,5.0,True,False,False,False,False,False,Médio,Ruim,Alta,False,Alta,False,0.6,False,Baixo,Regular,Parcial,Alta,Boa,0.46188934667451437,False
+879,True,Masculino,18,9º ano,726.48,N7,70.5,6.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,0.5,False,Baixo,Ruim,Completa,Média,Regular,0.3067981165391407,True
+880,False,Masculino,11,8º ano,564.93,N6,60.6,7.1,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.2,False,Baixo,Ruim,Completa,Alta,Ruim,0.30194231901118307,False
+881,True,Feminino,11,3ª série EM,392.16,N6,95.4,4.6,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,True,1.1,False,Baixo,Boa,Completa,Alta,Ruim,0.40582695703354915,False
+882,True,Feminino,15,9º ano,604.74,N7,96.9,4.2,False,False,False,True,False,False,Médio,Regular,Alta,True,Baixa,False,3.0,False,Alto,Regular,Insuficiente,Alta,Boa,0.2697174808711006,True
+883,False,Feminino,13,1ª série EM,406.33,N3,63.6,5.8,True,False,False,False,False,False,Alto,Regular,Alta,True,Média,False,1.7,False,Moderado,Boa,Completa,Alta,Boa,0.49323131253678637,False
+884,True,Masculino,14,2ª série EM,696.37,N4,96.3,7.7,False,False,False,False,False,False,Alto,Ruim,Média,False,Alta,True,3.0,False,Baixo,Regular,Completa,Baixa,Regular,0.11786344908769866,False
+885,True,Masculino,21,8º ano,757.79,N6,63.3,5.8,False,True,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,3.0,True,Alto,Regular,Completa,Alta,Boa,0.4945556209535022,False
+886,False,Feminino,22,9º ano,742.06,N1,85.8,6.5,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.9,False,Moderado,Regular,Completa,Alta,Regular,0.2171865803413773,False
+887,False,Masculino,13,5º ano,474.44,N5,68.9,6.7,True,False,False,False,False,True,Alto,Regular,Média,False,Alta,True,2.5,True,Moderado,Regular,Completa,Baixa,Boa,0.4301059446733373,True
+888,False,Masculino,11,6º ano,1890.5,N4,62.8,6.9,False,True,False,False,False,False,Médio,Regular,Baixa,False,Alta,False,3.9,False,Alto,Ruim,Completa,Média,Boa,0.448204826368452,True
+889,True,Feminino,18,7º ano,2446.09,N5,92.2,8.2,False,True,False,False,False,False,Alto,Bom,Média,False,Média,False,1.5,False,Baixo,Ruim,Completa,Média,Ruim,0.26103590347263095,False
+890,True,Masculino,14,5º ano,719.03,N4,79.4,5.2,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.8,False,Moderado,Boa,Insuficiente,Média,Ruim,0.3028251912889935,True
+891,True,Masculino,13,6º ano,752.12,N6,78.2,4.2,False,True,False,True,False,False,Alto,Bom,Baixa,False,Média,False,1.4,False,Alto,Regular,Parcial,Baixa,Boa,0.49941141848145965,True
+892,False,Feminino,17,9º ano,676.33,N1,97.7,7.9,False,False,False,False,False,False,Alto,Regular,Alta,True,Alta,False,2.8,False,Moderado,Boa,Parcial,Alta,Regular,0.1028546203649205,False
+893,True,Masculino,22,9º ano,713.36,N1,73.6,7.5,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,False,1.9,False,Moderado,Boa,Completa,Alta,Regular,0.22689817539729254,False
+894,True,Feminino,15,9º ano,695.51,N3,87.2,4.6,False,True,False,False,False,False,Alto,Regular,Alta,False,Média,False,2.0,True,Moderado,Boa,Insuficiente,Alta,Regular,0.4420247204237787,False
+895,True,Feminino,17,9º ano,844.66,N5,92.4,7.2,True,False,False,False,False,False,Médio,Ruim,Média,True,Alta,False,3.4,False,Baixo,Boa,Parcial,Média,Ruim,0.3042966450853443,False
+896,False,Feminino,16,7º ano,361.12,N2,66.4,6.0,True,False,False,False,False,False,Alto,Bom,Baixa,True,Baixa,False,3.4,True,Moderado,Boa,Completa,Alta,Boa,0.4720423778693349,True
+897,True,Masculino,16,1ª série EM,579.36,N6,87.2,5.6,False,False,False,False,False,False,Médio,Regular,Baixa,True,Média,False,0.9,False,Alto,Regular,Completa,Alta,Boa,0.2507357268981754,False
+898,False,Masculino,19,1ª série EM,689.8,N3,87.9,6.6,False,False,False,False,False,False,Médio,Regular,Alta,True,Alta,False,2.3,False,Moderado,Regular,Parcial,Alta,Regular,0.20350206003531487,False
+899,True,Masculino,22,9º ano,770.14,N4,79.4,5.0,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.6,True,Moderado,Boa,Parcial,Baixa,Regular,0.3116539140670983,False
+900,False,Feminino,21,5º ano,863.63,N4,70.2,8.8,True,False,True,False,False,False,Médio,Ruim,Baixa,False,Alta,False,0.5,False,Moderado,Ruim,Parcial,Média,Regular,0.33166568569746907,False
+901,True,Outro,15,3ª série EM,438.96,N6,68.8,6.6,False,False,False,False,False,False,Alto,Regular,Média,False,Alta,False,0.8,False,Alto,Ruim,Completa,Alta,Boa,0.28781636256621546,False
+902,False,Feminino,15,6º ano,497.48,N6,65.2,6.1,False,False,False,False,False,False,Alto,Regular,Média,False,Média,False,0.6,False,Alto,Boa,Parcial,Alta,Regular,0.3257798705120659,False
+903,True,Feminino,21,1ª série EM,874.33,N6,94.3,6.2,False,True,False,False,False,False,Médio,Bom,Média,False,Média,False,1.8,False,Baixo,Regular,Completa,Média,Boa,0.34005297233666865,True
+904,True,Feminino,12,7º ano,1039.56,N2,92.6,5.5,False,False,False,False,False,False,Baixo,Regular,Baixa,True,Média,False,0.4,False,Baixo,Ruim,Completa,Alta,Boa,0.23131253678634497,False
+905,True,Masculino,18,8º ano,876.61,N5,59.7,7.4,False,False,False,False,False,False,Médio,Bom,Alta,False,Baixa,True,0.4,False,Alto,Boa,Insuficiente,Baixa,Ruim,0.292672160094173,False
+906,True,Masculino,17,6º ano,440.91,N7,84.5,6.0,False,False,False,False,False,False,Médio,Bom,Alta,True,Alta,False,2.1,True,Alto,Boa,Completa,Média,Regular,0.24499705709240727,False
+907,False,Feminino,13,1ª série EM,576.3,N2,81.2,7.1,True,True,False,False,False,False,Alto,Bom,Alta,True,Baixa,True,3.3,False,Baixo,Boa,Completa,Média,Boa,0.505297233666863,True
+908,False,Masculino,11,9º ano,793.27,N5,78.1,4.6,False,False,False,False,False,False,Alto,Bom,Alta,False,Média,False,1.3,False,Alto,Boa,Completa,Alta,Boa,0.33505002942907597,False
+909,True,Masculino,19,1ª série EM,741.16,N1,75.4,7.4,False,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,4.0,False,Alto,Regular,Completa,Alta,Boa,0.22336668628605058,False
+910,True,Feminino,20,9º ano,355.52,N5,80.5,7.4,False,False,False,False,False,False,Alto,Ruim,Baixa,False,Alta,False,2.7,True,Alto,Regular,Parcial,Média,Boa,0.20085344320188345,False
+911,False,Outro,19,2ª série EM,1289.73,N4,72.9,5.6,True,True,False,False,False,False,Médio,Regular,Alta,False,Média,False,1.3,False,Alto,Regular,Completa,Média,Ruim,0.6081518540317834,False
+912,False,Feminino,21,5º ano,290.98,N5,54.6,3.4,False,False,False,False,False,False,Alto,Regular,Baixa,False,Média,False,2.9,False,Moderado,Ruim,Insuficiente,Alta,Regular,0.4917598587404355,True
+913,True,Masculino,17,1ª série EM,394.74,N2,75.2,4.7,False,False,False,False,False,False,Médio,Regular,Baixa,False,Baixa,False,2.3,False,Moderado,Boa,Completa,Baixa,Boa,0.34343731606827543,True
+914,True,Feminino,22,3ª série EM,451.53,N4,92.1,5.0,False,False,False,False,False,False,Baixo,Bom,Baixa,True,Alta,True,3.2,False,Moderado,Ruim,Completa,Média,Boa,0.25559152442613303,False
+915,True,Masculino,20,7º ano,1021.79,N7,63.7,2.5,True,True,False,False,False,False,Alto,Bom,Alta,True,Média,False,1.4,False,Baixo,Boa,Parcial,Alta,Ruim,0.7856091818716892,False
+916,True,Feminino,12,6º ano,429.39,N3,82.0,5.6,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,2.5,False,Moderado,Regular,Completa,Alta,Boa,0.2736904061212478,False
+917,False,Masculino,10,5º ano,1146.32,N6,69.3,6.3,False,False,False,False,False,False,Baixo,Regular,Alta,False,Alta,False,2.2,False,Baixo,Boa,Completa,Baixa,Ruim,0.2988522660388464,True
+918,False,Feminino,21,8º ano,861.23,N6,53.2,9.2,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,True,1.9,True,Alto,Boa,Insuficiente,Média,Regular,0.24190700412007066,False
+919,True,Feminino,19,5º ano,715.51,N7,74.2,7.3,True,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,2.4,False,Baixo,Boa,Parcial,Média,Ruim,0.3802236609770453,False
+920,False,Feminino,22,3ª série EM,550.59,N4,64.4,6.8,False,False,False,False,False,False,Alto,Bom,Alta,True,Baixa,False,2.6,False,Alto,Regular,Completa,Média,Boa,0.2984108298999411,False
+921,False,Masculino,18,1ª série EM,327.09,N3,93.4,7.3,False,True,False,False,False,False,Alto,Ruim,Alta,True,Alta,False,1.5,False,Moderado,Boa,Parcial,Alta,Ruim,0.2954679223072395,False
+922,False,Feminino,10,5º ano,663.75,N2,56.1,6.5,False,True,False,False,False,False,Baixo,Regular,Alta,False,Média,False,1.6,True,Baixo,Boa,Completa,Alta,Ruim,0.49543849323131256,True
+923,False,Feminino,13,3ª série EM,850.52,N7,59.9,6.3,True,False,False,False,False,False,Alto,Regular,Média,False,Média,False,3.5,False,Moderado,Regular,Parcial,Média,Boa,0.48749264273101833,False
+924,False,Feminino,21,3ª série EM,912.07,N7,97.4,7.2,False,True,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,2.6,False,Moderado,Regular,Completa,Média,Ruim,0.28222483814008237,False
+925,True,Feminino,18,8º ano,383.69,N1,59.8,7.2,True,False,False,False,False,False,Alto,Ruim,Alta,True,Média,False,1.8,False,Moderado,Boa,Completa,Média,Ruim,0.448204826368452,False
+926,False,Feminino,22,5º ano,260.9,N6,53.0,3.9,False,True,False,False,False,False,Médio,Regular,Média,False,Alta,False,2.3,False,Baixo,Regular,Completa,Alta,Boa,0.6238964096527368,True
+927,False,Masculino,14,8º ano,767.3,N5,70.7,6.3,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.8,True,Moderado,Regular,Parcial,Baixa,Boa,0.292672160094173,True
+928,True,Feminino,10,2ª série EM,505.24,N3,64.3,6.8,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,1.4,False,Alto,Boa,Completa,Alta,Boa,0.4459976456739259,False
+929,False,Feminino,14,9º ano,827.64,N1,94.6,3.6,False,False,False,False,False,False,Alto,Ruim,Alta,False,Média,False,1.6,False,Moderado,Boa,Insuficiente,Baixa,Boa,0.3063566804002355,False
+930,True,Masculino,21,8º ano,453.86,N3,66.8,7.0,True,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.5,False,Baixo,Boa,Parcial,Alta,Ruim,0.4261330194231901,False
+931,True,Feminino,14,3ª série EM,370.86,N5,75.6,6.6,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.6,False,Alto,Regular,Completa,Alta,Boa,0.2577987051206593,False
+932,False,Masculino,13,7º ano,674.92,N7,53.0,7.3,False,False,False,False,False,True,Alto,Regular,Média,False,Alta,False,2.7,False,Alto,Regular,Completa,Alta,Boa,0.3266627427898764,False
+933,True,Feminino,20,9º ano,409.65,N6,94.3,5.9,False,True,False,False,False,True,Médio,Regular,Alta,False,Alta,False,3.4,False,Moderado,Boa,Parcial,Alta,Boa,0.3532960565038258,False
+934,True,Masculino,17,6º ano,393.47,N5,68.1,3.0,False,False,False,False,False,False,Médio,Bom,Média,False,Média,False,2.7,False,Moderado,Regular,Completa,Média,Boa,0.44982342554443794,True
+935,False,Masculino,17,9º ano,691.2,N7,81.2,4.4,False,False,False,True,False,False,Baixo,Ruim,Alta,True,Alta,False,1.5,False,Moderado,Regular,Completa,Média,Regular,0.3301942319011183,False
+936,False,Masculino,14,9º ano,549.44,N1,93.5,6.0,False,False,False,False,False,False,Baixo,Regular,Baixa,False,Alta,False,2.4,False,Moderado,Boa,Parcial,Alta,Boa,0.20526780459093583,False
+937,True,Feminino,22,6º ano,359.21,N2,55.4,7.7,False,True,False,False,False,False,Médio,Bom,Média,True,Alta,False,0.3,False,Baixo,Boa,Completa,Baixa,Regular,0.44555620953502056,True
+938,False,Masculino,10,8º ano,690.22,N2,85.0,6.3,False,True,False,False,False,False,Médio,Ruim,Média,False,Média,True,1.6,False,Moderado,Ruim,Insuficiente,Média,Ruim,0.37669217186580345,False
+939,True,Feminino,13,5º ano,983.85,N2,69.0,7.5,False,False,False,False,False,False,Alto,Regular,Baixa,True,Alta,False,1.3,False,Alto,Boa,Parcial,Alta,Boa,0.24720423778693348,False
+940,True,Masculino,22,2ª série EM,324.56,N1,55.4,7.6,False,False,True,False,False,False,Médio,Bom,Baixa,False,Alta,True,3.7,False,Moderado,Regular,Completa,Alta,Regular,0.30282519128899354,True
+941,False,Masculino,17,1ª série EM,318.32,N5,80.8,6.9,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Baixa,True,1.6,True,Moderado,Boa,Completa,Média,Boa,0.22160094173042966,True
+942,False,Feminino,11,9º ano,1175.04,N1,53.2,3.4,False,False,True,False,False,False,Baixo,Ruim,Alta,False,Média,False,2.9,False,Alto,Ruim,Completa,Baixa,Ruim,0.49793996468510887,False
+943,True,Masculino,11,3ª série EM,767.78,N4,54.0,6.3,True,False,True,False,False,False,Médio,Regular,Alta,False,Média,False,2.2,False,Moderado,Ruim,Completa,Média,Boa,0.5135373749264273,False
+944,False,Feminino,17,1ª série EM,381.5,N4,84.3,7.0,False,False,False,False,False,False,Alto,Regular,Média,True,Média,False,2.1,False,Moderado,Boa,Completa,Média,Regular,0.20173631547969395,False
+945,False,Feminino,19,2ª série EM,684.01,N7,55.0,6.4,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,0.9,False,Alto,Regular,Completa,Média,Boa,0.3575632725132431,False
+946,False,Masculino,18,5º ano,2306.51,N6,81.7,3.4,False,True,False,True,False,False,Médio,Regular,Alta,False,Média,False,0.7,False,Alto,Boa,Insuficiente,Média,Ruim,0.5192760447321955,True
+947,False,Masculino,13,3ª série EM,1002.45,N6,99.6,4.6,False,False,False,False,False,False,Médio,Regular,Alta,False,Alta,False,3.6,False,Baixo,Regular,Completa,Baixa,Boa,0.2401412595644497,False
+948,True,Masculino,15,7º ano,847.8,N7,54.6,4.8,False,False,False,False,False,False,Alto,Ruim,Alta,False,Alta,False,2.3,False,Baixo,Regular,Completa,Alta,Boa,0.42995879929370223,False
+949,False,Feminino,21,9º ano,793.75,N6,90.7,6.7,False,True,False,False,True,False,Alto,Regular,Alta,True,Alta,False,2.3,False,Moderado,Boa,Parcial,Alta,Boa,0.6281636256621542,False
+950,True,Feminino,21,3ª série EM,488.72,N6,92.7,7.4,False,False,False,False,False,False,Baixo,Bom,Baixa,False,Alta,False,0.1,False,Alto,Boa,Completa,Alta,Boa,0.14699823425544434,False
+951,True,Masculino,16,8º ano,1532.07,N4,56.4,6.3,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,3.8,False,Alto,Boa,Completa,Média,Boa,0.35579752795762215,False
+952,False,Masculino,15,7º ano,661.73,N1,92.9,5.0,False,False,False,False,False,False,Médio,Regular,Alta,False,Baixa,False,3.1,False,Moderado,Boa,Completa,Alta,Boa,0.2520600353148911,False
+953,False,Masculino,20,7º ano,1656.26,N5,63.0,7.7,False,True,False,False,False,False,Médio,Bom,Média,False,Média,False,1.3,True,Moderado,Ruim,Completa,Média,Ruim,0.41200706297822254,False
+954,False,Outro,19,1ª série EM,474.5,N2,85.4,6.3,False,False,False,False,False,False,Alto,Ruim,Alta,False,Média,False,1.2,False,Baixo,Regular,Parcial,Baixa,Boa,0.227781047675103,False
+955,True,Masculino,17,7º ano,413.52,N2,88.2,6.1,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,False,1.9,False,Moderado,Boa,Completa,Alta,Regular,0.22424955856386108,False
+956,True,Masculino,18,8º ano,634.49,N5,79.1,6.8,False,False,False,False,False,False,Médio,Bom,Média,True,Alta,False,3.4,False,Alto,Boa,Parcial,Alta,Boa,0.2335197174808711,False
+957,True,Outro,13,9º ano,721.07,N5,97.9,5.6,False,False,False,False,False,False,Baixo,Regular,Baixa,True,Alta,False,1.8,True,Alto,Regular,Parcial,Média,Regular,0.20350206003531487,False
+958,False,Masculino,16,9º ano,402.29,N3,67.3,6.6,True,False,False,False,False,False,Médio,Regular,Alta,False,Média,False,0.8,False,Alto,Ruim,Insuficiente,Alta,Regular,0.44158328428487353,False
+959,True,Masculino,21,5º ano,703.33,N5,72.4,2.8,False,False,False,True,False,False,Médio,Ruim,Alta,False,Baixa,False,2.1,False,Baixo,Boa,Completa,Alta,Regular,0.43967039434961736,False
+960,True,Feminino,17,8º ano,1936.24,N5,67.2,4.4,True,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,1.8,False,Alto,Regular,Parcial,Alta,Boa,0.5391406709829311,True
+961,False,Masculino,22,6º ano,1101.85,N1,76.9,8.2,False,False,False,False,False,False,Baixo,Ruim,Alta,False,Alta,False,2.4,False,Alto,Regular,Parcial,Baixa,Regular,0.18143025309005298,True
+962,False,Masculino,21,7º ano,783.24,N7,71.6,7.9,False,False,False,False,False,False,Médio,Ruim,Média,False,Alta,False,1.0,False,Alto,Boa,Completa,Alta,Boa,0.21806945261918775,False
+963,False,Feminino,17,6º ano,660.39,N2,92.5,5.9,True,True,True,False,False,False,Baixo,Bom,Baixa,True,Média,False,1.8,True,Moderado,Boa,Completa,Média,Ruim,0.5083872866391996,False
+964,True,Feminino,21,8º ano,685.88,N4,95.1,8.1,False,False,False,True,False,False,Alto,Ruim,Baixa,True,Alta,False,2.0,False,Moderado,Regular,Completa,Alta,Regular,0.10550323719835202,False
+965,False,Masculino,18,2ª série EM,976.83,N5,77.9,5.9,False,False,False,False,False,False,Alto,Regular,Alta,False,Alta,False,3.0,False,Alto,Boa,Insuficiente,Baixa,Boa,0.27854620364920535,False
+966,False,Outro,16,6º ano,1893.93,N1,98.8,6.2,False,True,False,False,False,False,Alto,Regular,Alta,True,Média,False,2.9,False,Alto,Regular,Parcial,Alta,Ruim,0.32018834608593294,False
+967,False,Masculino,14,2ª série EM,966.47,N6,71.9,6.7,False,False,False,False,False,False,Médio,Regular,Média,True,Alta,False,1.8,False,Alto,Regular,Completa,Média,Regular,0.2697174808711006,False
+968,False,Feminino,14,6º ano,529.43,N5,66.9,6.0,True,False,False,False,False,False,Médio,Ruim,Alta,True,Alta,False,1.6,False,Moderado,Boa,Insuficiente,Alta,Boa,0.46983519717480876,True
+969,True,Feminino,22,8º ano,297.82,N2,56.1,9.4,False,False,True,False,False,False,Médio,Bom,Alta,False,Alta,True,1.7,False,Moderado,Boa,Insuficiente,Média,Boa,0.22027663331371392,False
+970,False,Masculino,19,2ª série EM,402.06,N2,82.6,6.5,False,False,True,True,True,False,Médio,Bom,Média,False,Média,False,1.9,False,Moderado,Boa,Completa,Média,Ruim,0.5256032960565039,True
+971,True,Feminino,19,7º ano,679.5,N6,84.1,4.6,False,False,True,False,False,False,Alto,Bom,Média,False,Alta,False,3.2,False,Moderado,Boa,Completa,Baixa,Regular,0.3085638610947617,False
+972,True,Feminino,11,5º ano,1646.96,N7,55.9,7.1,False,False,False,False,False,False,Médio,Bom,Média,True,Média,False,2.1,False,Alto,Regular,Completa,Média,Ruim,0.32268981753972925,False
+973,False,Feminino,16,5º ano,1075.0,N1,70.6,5.8,False,True,False,True,True,False,Alto,Regular,Alta,False,Média,False,1.8,False,Alto,Boa,Completa,Média,Regular,0.7566215420835786,True
+974,False,Masculino,15,8º ano,663.08,N7,65.6,7.8,False,False,False,False,False,False,Baixo,Bom,Alta,True,Alta,False,1.6,False,Alto,Boa,Completa,Alta,Boa,0.24896998234255446,False
+975,False,Masculino,15,2ª série EM,655.79,N5,92.3,6.1,False,False,False,False,False,False,Alto,Regular,Média,True,Alta,True,2.4,False,Alto,Regular,Completa,Baixa,Boa,0.20615067686874633,False
+976,False,Masculino,10,2ª série EM,989.14,N5,87.3,9.6,False,False,False,True,False,False,Baixo,Bom,Baixa,False,Alta,False,0.8,False,Moderado,Boa,Completa,Média,Regular,0.07371983519717484,False
+977,False,Masculino,15,3ª série EM,663.58,N3,94.8,7.1,False,False,False,False,False,False,Médio,Regular,Média,False,Média,False,2.6,False,Baixo,Regular,Completa,Média,Regular,0.15097115950559153,False
+978,True,Feminino,14,3ª série EM,736.26,N2,70.8,8.9,False,False,False,False,False,False,Baixo,Bom,Alta,False,Alta,False,2.7,False,Moderado,Boa,Completa,Média,Boa,0.17745732783990584,False
+979,False,Masculino,16,2ª série EM,941.79,N4,91.9,6.0,False,False,False,False,False,False,Baixo,Bom,Alta,False,Baixa,True,2.5,False,Moderado,Boa,Completa,Média,Boa,0.21233078281341963,False
+980,True,Feminino,19,6º ano,1000.0,N1,89.7,6.8,False,False,False,False,False,False,Baixo,Regular,Alta,False,Baixa,False,2.9,False,Alto,Boa,Parcial,Alta,Regular,0.1867274867569158,False
+981,False,Feminino,12,8º ano,357.79,N2,50.5,5.0,False,False,False,False,False,False,Alto,Regular,Média,True,Média,False,2.7,False,Alto,Ruim,Completa,Alta,Boa,0.4392289582107122,False
+982,True,Feminino,21,8º ano,1045.06,N3,70.0,6.7,True,False,False,False,False,False,Médio,Ruim,Média,False,Alta,False,2.2,True,Moderado,Regular,Completa,Alta,Boa,0.4252501471453797,True
+983,True,Feminino,22,7º ano,437.89,N3,86.9,6.3,False,False,False,False,False,False,Alto,Regular,Baixa,False,Alta,False,3.0,False,Alto,Ruim,Parcial,Alta,Boa,0.22115950559152442,False
+984,False,Masculino,19,1ª série EM,912.96,N3,54.6,5.5,False,True,False,False,False,False,Médio,Regular,Média,False,Alta,False,1.3,False,Moderado,Boa,Parcial,Média,Ruim,0.546203649205415,True
+985,True,Masculino,13,3ª série EM,1106.64,N1,90.7,7.2,True,False,False,True,False,False,Baixo,Bom,Média,True,Alta,False,2.8,True,Alto,Ruim,Completa,Média,Regular,0.31180105944673336,True
+986,False,Feminino,15,7º ano,1732.04,N7,99.7,7.0,False,False,False,False,False,False,Baixo,Ruim,Alta,True,Média,False,0.6,True,Moderado,Ruim,Completa,Baixa,Boa,0.13375515008828723,False
+987,False,Masculino,22,7º ano,933.49,N5,67.1,6.1,False,True,True,False,True,False,Alto,Bom,Alta,False,Alta,False,1.8,False,Moderado,Boa,Completa,Média,Boa,0.7588287227781049,False
+988,True,Feminino,13,1ª série EM,936.11,N5,96.1,5.8,False,False,False,False,False,False,Médio,Bom,Alta,False,Alta,False,2.0,True,Moderado,Boa,Completa,Baixa,Regular,0.20261918775750445,False
+989,True,Feminino,22,5º ano,523.48,N2,69.4,8.6,False,True,False,False,False,False,Médio,Regular,Alta,False,Média,False,2.3,False,Baixo,Regular,Completa,Média,Boa,0.34402589758681573,False
+990,True,Masculino,14,8º ano,548.66,N1,61.6,6.1,False,False,False,False,False,False,Médio,Bom,Baixa,True,Alta,False,0.9,False,Baixo,Regular,Completa,Alta,Ruim,0.3416715715126545,False
+991,False,Feminino,18,6º ano,632.33,N1,83.3,5.0,False,False,False,False,False,False,Alto,Regular,Alta,False,Baixa,False,2.5,False,Moderado,Ruim,Parcial,Alta,Ruim,0.294437904649794,False
+992,False,Feminino,20,8º ano,380.33,N7,82.3,5.2,False,False,False,False,False,False,Médio,Regular,Média,True,Média,False,0.9,False,Moderado,Regular,Completa,Média,Regular,0.2900235432607416,False
+993,True,Feminino,18,7º ano,328.0,N1,84.2,6.7,False,False,True,False,False,False,Alto,Ruim,Alta,True,Baixa,False,1.1,False,Alto,Regular,Insuficiente,Média,Regular,0.2154208357857563,True
+994,False,Feminino,20,8º ano,658.01,N6,81.9,4.3,True,False,False,False,False,False,Baixo,Bom,Alta,True,Média,False,2.9,False,Moderado,Regular,Insuficiente,Média,Ruim,0.4786639199529135,False
+995,False,Masculino,22,6º ano,471.74,N3,96.6,5.9,False,False,False,False,False,False,Médio,Bom,Alta,False,Média,False,1.2,True,Baixo,Boa,Completa,Média,Ruim,0.19599764567392586,True
+996,False,Feminino,13,3ª série EM,468.33,N6,58.2,8.9,False,False,False,False,False,False,Alto,Bom,Alta,False,Alta,False,2.3,False,Moderado,Boa,Completa,Média,Ruim,0.23307828134196584,False
+997,True,Masculino,13,8º ano,653.24,N2,65.6,6.9,False,True,False,False,False,False,Médio,Ruim,Média,True,Alta,False,3.0,False,Alto,Ruim,Completa,Baixa,Boa,0.4358446144791054,False
+998,True,Feminino,10,3ª série EM,1335.58,N3,87.7,5.3,False,False,False,False,False,False,Baixo,Regular,Média,False,Baixa,False,2.5,True,Moderado,Regular,Parcial,Alta,Boa,0.26177163037080636,False
+999,False,Feminino,21,3ª série EM,336.53,N3,62.4,8.5,False,True,False,True,False,False,Médio,Bom,Baixa,True,Média,False,1.9,False,Alto,Regular,Completa,Alta,Ruim,0.3793407886992349,False
+1000,False,Feminino,14,5º ano,910.57,N2,88.3,8.7,False,False,False,True,False,False,Baixo,Regular,Alta,True,Alta,False,0.6,False,Baixo,Boa,Completa,Média,Ruim,0.10903472630959392,False
