@@ -1,6 +1,6 @@
 ---
 title: "CIIA"
-author: "x"
+author: "xxxx"
 date: "Julho/2025"
 subject: "Evasão Escolar"
 keywords: [CIIA]
@@ -29,16 +29,13 @@ iv) Ações preventivas, implementadas de forma universal, seletiva ou indicativ
 O SAP adota práticas baseadas em evidências internacionais, respeitando as especificidades de cada rede de ensino, e busca não apenas mitigar fatores associados à evasão, mas também promover um acompanhamento contínuo e personalizado. O manual ainda reforça a necessidade de revisão periódica das práticas adotadas, prevenção da estigmatização dos alunos e integração de ações escolares com políticas sociais mais amplas (@mec2022sap).
 
 
-**A FAZER**: revisão dos trabalhos indicados abaixo
+[2025_07-pereira2025machine.md](./referencias_resumo/2025_07-pereira2024early.md)
 
+[2025_07-psyridou2024machine.md](./referencias_resumo/2025_07-psyridou2024machine.md)
 
-[2025_07-pereira2025machine.md](2025_07-pereira2025machine.md)
+[2025_07-vaarma2024predicting.md](./referencias_resumo/2025_07-vaarma2024predicting.md)
 
-[2025_07-psyridou2024machine.md](2025_07-psyridou2024machine.md)
-
-[2025_07-vaarma2024predicting.md](2025_07-vaarma2024predicting.md)
-
-[2025_07-pereira2024early.md](2025_07-pereira2024early.md)
+[2025_07-pereira2024early.md](./referencias_resumo/2025_07-pereira2024early.md)
 
 
 
@@ -75,7 +72,6 @@ Para o caso de "não evasão", a coluna "sexo" é gerada com base na proporção
 Para o caso de "evasão", utiliza-se a fórmula de Bayes para calcular a probabilidade de ser do sexo masculino ou feminino, considerando a proporção de evasão escolar por sexo. 
 
 **A FAZER**: ver estatísticas e calcular a distribuição para o caso de "evasão".
-
 
 # Referências
 
